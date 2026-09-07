@@ -1,0 +1,2778 @@
+{
+  "summary": {
+    "total_attendees": 280,
+    "total_companies": 209,
+    "matched_companies": 54,
+    "unmatched_companies": 155,
+    "attendees_at_matched_companies": 101,
+    "attendees_at_unmatched_companies": 179,
+    "tier_company_counts": {
+      "Tier 2": 11,
+      "Tier 1": 29,
+      "Tier 3": 8,
+      "Tier 4": 6
+    },
+    "tier_attendee_counts": {
+      "Tier 2": 22,
+      "Tier 1": 61,
+      "Tier 3": 10,
+      "Tier 4": 8
+    }
+  },
+  "matched": [
+    {
+      "company": "Oracle",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "IT Services and IT Consulting",
+      "gpu_segment": "Hyperscaler",
+      "icp_fit": "High",
+      "type": "Customer",
+      "open_opps": "1",
+      "attendee_count": 6,
+      "attendees": [
+        {
+          "name": "David Murray",
+          "title": "Distinguished Architect"
+        },
+        {
+          "name": "Ram Nagappan",
+          "title": "VP, AI Infrastructure & Lead Architect, Gigawatt-Scale Data Centers"
+        },
+        {
+          "name": "Nishtha Goel",
+          "title": "Senior Software Engineer"
+        },
+        {
+          "name": "Kp Papamiltiadis",
+          "title": "Senior Vice President, Product & Partnerships"
+        },
+        {
+          "name": "Ben Scarborough",
+          "title": "SVP, Customer Engineering"
+        },
+        {
+          "name": "Karan Batta",
+          "title": "SVP, Oracle Cloud Infrastructure"
+        }
+      ]
+    },
+    {
+      "company": "Intel",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Semiconductor Manufacturing",
+      "gpu_segment": "Hyperscaler",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 5,
+      "attendees": [
+        {
+          "name": "Lip-Bu Tan",
+          "title": "CEO"
+        },
+        {
+          "name": "Huma Abidi",
+          "title": "Senior Director & GM - AI Frameworks"
+        },
+        {
+          "name": "Vidhya Thyagarajan",
+          "title": "Head of AI SOC Architecture"
+        },
+        {
+          "name": "Anil Nanduri",
+          "title": "Vice President, Product Management, GTM & Customer Success - AI Accelerators"
+        },
+        {
+          "name": "Huma Abidi",
+          "title": "Senior Director & General Manager - AI Frameworks"
+        }
+      ]
+    },
+    {
+      "company": "Meta",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Research Services",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "2",
+      "attendee_count": 5,
+      "attendees": [
+        {
+          "name": "Santosh Janardhan",
+          "title": "Head of Infrastructure"
+        },
+        {
+          "name": "Olivia Wu",
+          "title": "Distinguished Engineer"
+        },
+        {
+          "name": "Usman Ali",
+          "title": "Senior ASIC Engineer - Architecture"
+        },
+        {
+          "name": "Venkat Ramesh",
+          "title": "ASIC Engineer"
+        },
+        {
+          "name": "Dharmesh Jani",
+          "title": "Director, AI Infrastructure Ecosystem & Partnerships"
+        }
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Hyperscaler",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "2",
+      "attendee_count": 5,
+      "attendees": [
+        {
+          "name": "Donald Thompson",
+          "title": "Distinguished Engineer"
+        },
+        {
+          "name": "Prashant Ranjan",
+          "title": "Principal Silicon Architect"
+        },
+        {
+          "name": "Kevin Janda",
+          "title": "CVP, Data Centers"
+        },
+        {
+          "name": "Sonia Hingorany",
+          "title": "Senior Director, Azure Cloud Operations + Innovation"
+        },
+        {
+          "name": "Nicolas Rbeiz",
+          "title": "Principal, Data Center Delivery Strategy & Performance"
+        }
+      ]
+    },
+    {
+      "company": "AMD",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Semiconductor Manufacturing",
+      "gpu_segment": "Partner",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 4,
+      "attendees": [
+        {
+          "name": "Stephen Bates",
+          "title": "Fellow, AI Storage Software and Architecture"
+        },
+        {
+          "name": "Nuwan Jayasena",
+          "title": "Fellow"
+        },
+        {
+          "name": "Kurtis Bowman",
+          "title": "UALink Consortium Board Chair and Director of Architecture and Strategy"
+        },
+        {
+          "name": "Ellen Yang",
+          "title": "Director, Data Center"
+        }
+      ]
+    },
+    {
+      "company": "PayPal",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 3,
+      "attendees": [
+        {
+          "name": "Jennifer Broxmeyer",
+          "title": "VP of Legal"
+        },
+        {
+          "name": "Nitin Sharma",
+          "title": "Distinguished Engineer & Architect - AIML Engineering & Agentic AI"
+        },
+        {
+          "name": "Him Raj Singh",
+          "title": "Manager, Software Engineering"
+        }
+      ]
+    },
+    {
+      "company": "Crusoe",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Technology, Information and Internet",
+      "gpu_segment": "Neocloud",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 3,
+      "attendees": [
+        {
+          "name": "Erwan Menard",
+          "title": "SVP, Product Management"
+        },
+        {
+          "name": "Chris Dolan",
+          "title": "Chief Data Center Officer"
+        },
+        {
+          "name": "Sharmila Bokka",
+          "title": "Senior Electrical Engineer"
+        }
+      ]
+    },
+    {
+      "company": "JPMorgan Chase",
+      "tier": "Tier 1",
+      "owner": "Sean Coughlin",
+      "industry": "Financial Services",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 3,
+      "attendees": [
+        {
+          "name": "Vibha Dhar",
+          "title": "Senior Manager, Software Engineering - SVP"
+        },
+        {
+          "name": "Sai Sathyanarayan",
+          "title": "Executive Director & Security Architecture Lead"
+        },
+        {
+          "name": "Vibha Dhar",
+          "title": "Senior Manager, Software Engineering"
+        }
+      ]
+    },
+    {
+      "company": "Lambda",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Neocloud",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Robert Brooks IV",
+          "title": "Founding Team & Chief Commercial Officer"
+        },
+        {
+          "name": "Alee Fong",
+          "title": "DC Infrastructure Capacity & Engineering"
+        }
+      ]
+    },
+    {
+      "company": "Broadcom",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Semiconductor Manufacturing",
+      "gpu_segment": "Partner",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Asad Khamisy",
+          "title": "SVP & GM, Core Switching Group"
+        },
+        {
+          "name": "Hasan Siraj",
+          "title": "Vice President of Products"
+        }
+      ]
+    },
+    {
+      "company": "LinkedIn",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "Customer",
+      "open_opps": "3",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Sundara Raman Ramachandran",
+          "title": "Staff Software Engineer"
+        },
+        {
+          "name": "Ankur Gupta",
+          "title": "Senior Staff Technical Program Manager"
+        }
+      ]
+    },
+    {
+      "company": "Salesforce",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Ping Yan",
+          "title": "Senior Director, Security Data Science"
+        },
+        {
+          "name": "Muddu Sudhakar",
+          "title": "SVP & GM, IT Service & HR Service"
+        }
+      ]
+    },
+    {
+      "company": "Boeing",
+      "tier": "Tier 1",
+      "owner": "Chris Bowen",
+      "industry": "Aviation & Aerospace",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Philip Freeman",
+          "title": "Senior Technical Fellow Assembly Automation & Robotics Engineering & Technology Innovation"
+        },
+        {
+          "name": "Bala Chidambaram",
+          "title": "Senior Executive Director & Chief Engineer"
+        }
+      ]
+    },
+    {
+      "company": "Adobe",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Charit Upadhyay",
+          "title": "Senior Site Reliability Engineer"
+        },
+        {
+          "name": "Jie Liao",
+          "title": "Engineering Director"
+        }
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "tier": "Tier 1",
+      "owner": "Sean Coughlin",
+      "industry": "Computer Hardware Manufacturing",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "2",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ian Buck",
+          "title": "VP, Hyperscale & HPC Computing"
+        }
+      ]
+    },
+    {
+      "company": "SemiAnalysis",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Semiconductors",
+      "gpu_segment": "Partner",
+      "icp_fit": "Low",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Dylan Patel",
+          "title": "Founder, CEO & Chief Analyst"
+        }
+      ]
+    },
+    {
+      "company": "Truist",
+      "tier": "Tier 1",
+      "owner": "Chris Bowen",
+      "industry": "Financial Services",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ron Whitworth",
+          "title": "Chief Privacy Officer"
+        }
+      ]
+    },
+    {
+      "company": "Eli Lilly",
+      "tier": "Tier 1",
+      "owner": "Chris Bowen",
+      "industry": "Pharmaceutical Manufacturing",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Mahi Rayasam",
+          "title": "SVP, Customer Technology Innovation"
+        }
+      ]
+    },
+    {
+      "company": "Capital One",
+      "tier": "Tier 1",
+      "owner": "Chris Bowen",
+      "industry": "Financial Services",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sambit Sahu",
+          "title": "MVP, LLM Core & Agentic AI"
+        }
+      ]
+    },
+    {
+      "company": "Intuit",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Liza Levitt",
+          "title": "VP, Deputy General Counsel - Platforms, Responsible AI, Emerging Technology"
+        }
+      ]
+    },
+    {
+      "company": "eBay",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Technology, Information and Internet",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "Customer",
+      "open_opps": "2",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Senthil Padmanabhan",
+          "title": "VP, Engineering, Global Verticals & API Platform"
+        }
+      ]
+    },
+    {
+      "company": "Dell",
+      "tier": "Tier 1",
+      "owner": "Sean Coughlin",
+      "industry": "Software Development",
+      "gpu_segment": "Partner",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Divya Singh",
+          "title": "Consultant, Data Engineering"
+        }
+      ]
+    },
+    {
+      "company": "Fluidstack",
+      "tier": "Tier 1",
+      "owner": "Sean Coughlin",
+      "industry": "Technology, Information and Internet",
+      "gpu_segment": "Neocloud",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jason Kichen",
+          "title": "Chief Information Security Officer"
+        }
+      ]
+    },
+    {
+      "company": "Apple",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Computers and Electronics Manufacturing",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Maitrik Patel",
+          "title": "Senior Engineering Manager - AI/ML"
+        }
+      ]
+    },
+    {
+      "company": "PG&E",
+      "tier": "Tier 1",
+      "owner": "Greg Mark",
+      "industry": "Utilities",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Chelle Izzi",
+          "title": "CCO"
+        }
+      ]
+    },
+    {
+      "company": "DRW",
+      "tier": "Tier 1",
+      "owner": "Sean Coughlin",
+      "industry": "Financial Services",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "Customer",
+      "open_opps": "1",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Mike Bahr",
+          "title": "Head of Infrastructure, Data Center and Networking"
+        }
+      ]
+    },
+    {
+      "company": "General Motors",
+      "tier": "Tier 1",
+      "owner": "Sean Coughlin",
+      "industry": "Motor Vehicle Manufacturing",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Benjamin Guihaire",
+          "title": "Senior Executive Director - Autonomous Vehicle Simulation, Eval, Data, and Test - Machine Learning"
+        }
+      ]
+    },
+    {
+      "company": "Lockheed Martin",
+      "tier": "Tier 1",
+      "owner": "Chris Bowen",
+      "industry": "Telecommunications",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Eliana Stefani",
+          "title": "Portfolio Manager for Cognitive Agents & Sense-making"
+        }
+      ]
+    },
+    {
+      "company": "Mastercard",
+      "tier": "Tier 1",
+      "owner": "Chris Bowen",
+      "industry": "IT Services and IT Consulting",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Rakesh Awasthi",
+          "title": "Principal Software Engineer"
+        }
+      ]
+    },
+    {
+      "company": "AWS",
+      "tier": "Tier 2",
+      "owner": "Greg Mark",
+      "industry": "-",
+      "gpu_segment": "Hyperscaler",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 6,
+      "attendees": [
+        {
+          "name": "Vivek Gangasani",
+          "title": "Head of Applied AI - SageMaker Inference"
+        },
+        {
+          "name": "Kamran Khan",
+          "title": "Head of BD/GTM Annapurna ML"
+        },
+        {
+          "name": "Sergio Loureiro",
+          "title": "VP, Global Data Center Operations"
+        },
+        {
+          "name": "Diwakar Bansal",
+          "title": "Principal GenAI GTM Specialist"
+        },
+        {
+          "name": "Jim Burtoft",
+          "title": "Senior Solutions Architect WWSO"
+        },
+        {
+          "name": "Maen Suleiman",
+          "title": "Principal Tech Product Manager, Annapurna ML"
+        }
+      ]
+    },
+    {
+      "company": "Google",
+      "tier": "Tier 2",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Hyperscaler",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 5,
+      "attendees": [
+        {
+          "name": "Jeff Dean",
+          "title": "Chief Scientist & Technical Lead, Gemini"
+        },
+        {
+          "name": "Monique Picou",
+          "title": "Chief Product Supply Officer"
+        },
+        {
+          "name": "James Kim",
+          "title": "System Development Engineer"
+        },
+        {
+          "name": "Savannah Goodman",
+          "title": "Head of Advanced Energy Labs"
+        },
+        {
+          "name": "Harsha Bojja",
+          "title": "AI/ML Platform Technical Lead"
+        }
+      ]
+    },
+    {
+      "company": "Amazon",
+      "tier": "Tier 2",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Hyperscaler",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Peter DeSantis",
+          "title": "SVP, Foundational AI Models, Custom Silicon & Quantum Computing"
+        },
+        {
+          "name": "Mitalee Gujar",
+          "title": "Director of Engineering"
+        }
+      ]
+    },
+    {
+      "company": "HPE",
+      "tier": "Tier 2",
+      "owner": "Greg Mark",
+      "industry": "IT Services and IT Consulting",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Fidelma Russo",
+          "title": "CTO, EVP & GM Hybrid Cloud"
+        },
+        {
+          "name": "Andrew Wheeler",
+          "title": "Deputy Chief Technology Officer"
+        }
+      ]
+    },
+    {
+      "company": "US Bank",
+      "tier": "Tier 2",
+      "owner": "Sean Coughlin",
+      "industry": "Banking",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Prashant Mehrotra",
+          "title": "EVP & Chief AI Officer"
+        }
+      ]
+    },
+    {
+      "company": "Cockroach Labs",
+      "tier": "Tier 2",
+      "owner": "Sean Coughlin",
+      "industry": "Software Development",
+      "gpu_segment": "AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Spencer Kimball",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Latitude.sh",
+      "tier": "Tier 2",
+      "owner": "Sean Coughlin",
+      "industry": "IT Services and IT Consulting",
+      "gpu_segment": "Neocloud",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Cameron Daniel",
+          "title": "CTO"
+        }
+      ]
+    },
+    {
+      "company": "Argonne National Laboratory",
+      "tier": "Tier 2",
+      "owner": "Chris Bowen",
+      "industry": "Research Services",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Murali Krishna Emani",
+          "title": "Computer Scientist"
+        }
+      ]
+    },
+    {
+      "company": "CBRE",
+      "tier": "Tier 2",
+      "owner": "Sean Coughlin",
+      "industry": "Real Estate",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Patrick Lynch",
+          "title": "Executive Managing Director, Data Center Solutions"
+        }
+      ]
+    },
+    {
+      "company": "MIT",
+      "tier": "Tier 2",
+      "owner": "Sean Coughlin",
+      "industry": "Higher Education",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Daniela Rus",
+          "title": "Director of the Computer Science & Artificial Intelligence Laboratory"
+        }
+      ]
+    },
+    {
+      "company": "St. Jude Children's Research Hospital",
+      "tier": "Tier 2",
+      "owner": "Chris Bowen",
+      "industry": "Hospitals and Health Care",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ed Suh",
+          "title": "Vice President, Research Informatics"
+        }
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "tier": "Tier 3",
+      "owner": "Greg Mark",
+      "industry": "Telecommunications",
+      "gpu_segment": "Partner",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Tony Pialis",
+          "title": "EVP & GM, Data Center"
+        },
+        {
+          "name": "Vinesh Sukumar",
+          "title": "VP, AI/ML Product Management"
+        }
+      ]
+    },
+    {
+      "company": "Mirantis",
+      "tier": "Tier 3",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "Partner",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "1",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Stephen Frassetti",
+          "title": "Field CTO"
+        },
+        {
+          "name": "Neil Overmon",
+          "title": "Senior Director of Solution Architecture"
+        }
+      ]
+    },
+    {
+      "company": "Zoetis",
+      "tier": "Tier 3",
+      "owner": "Sean Coughlin",
+      "industry": "Pharmaceutical Manufacturing",
+      "gpu_segment": "Enterprise AI Builder",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Keith Sarbaugh",
+          "title": "EVP & Chief Digital and Technology Officer"
+        }
+      ]
+    },
+    {
+      "company": "Red Hat",
+      "tier": "Tier 3",
+      "owner": "Sean Coughlin",
+      "industry": "Software Development",
+      "gpu_segment": "Partner",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Grace Ableidinger",
+          "title": "AI Developer Advocate"
+        }
+      ]
+    },
+    {
+      "company": "MinIO",
+      "tier": "Tier 3",
+      "owner": "Greg Mark",
+      "industry": "Software Development",
+      "gpu_segment": "AI Builder",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Denny Kalaf",
+          "title": "Field Architect"
+        }
+      ]
+    },
+    {
+      "company": "Equinix",
+      "tier": "Tier 3",
+      "owner": "Greg Mark",
+      "industry": "Internet Publishing",
+      "gpu_segment": "Partner",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jon Lin",
+          "title": "Chief Business Officer"
+        }
+      ]
+    },
+    {
+      "company": "Vertiv",
+      "tier": "Tier 3",
+      "owner": "Sean Coughlin",
+      "industry": "Appliances, Electrical, and Electronics Manufacturing",
+      "gpu_segment": "Partner",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Steve Madara",
+          "title": "Distinguished Engineer and VP Thermal"
+        }
+      ]
+    },
+    {
+      "company": "Keysight Technologies",
+      "tier": "Tier 3",
+      "owner": "Greg Mark",
+      "industry": "Appliances, Electrical, and Electronics Manufacturing",
+      "gpu_segment": "Partner",
+      "icp_fit": "High",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Venkat Pullela",
+          "title": "CTO, AI Infrastructure"
+        }
+      ]
+    },
+    {
+      "company": "Cornelis Networks",
+      "tier": "Tier 4",
+      "owner": "Sean Coughlin",
+      "industry": "Computer Networking Products",
+      "gpu_segment": "Partner",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Lisa Spelman",
+          "title": "CEO"
+        },
+        {
+          "name": "Nishant Lodha",
+          "title": "Senior Director, AI Networking"
+        }
+      ]
+    },
+    {
+      "company": "Uptime Institute",
+      "tier": "Tier 4",
+      "owner": "Sean Coughlin",
+      "industry": "Information Technology and Services",
+      "gpu_segment": "Partner",
+      "icp_fit": "Low",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Naveed Saeed",
+          "title": "VP, Global Technical Management"
+        },
+        {
+          "name": "Naveed Saeed",
+          "title": "Sr. Vice President - Topology & Global Tier Authority"
+        }
+      ]
+    },
+    {
+      "company": "Liquid AI",
+      "tier": "Tier 4",
+      "owner": "Sean Coughlin",
+      "industry": "Software",
+      "gpu_segment": "-",
+      "icp_fit": "-",
+      "type": "Prospect",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ramin Hasani",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Western Digital",
+      "tier": "Tier 4",
+      "owner": "Greg Mark",
+      "industry": "Computer Hardware Manufacturing",
+      "gpu_segment": "Partner",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ahmed Shihab",
+          "title": "Chief Product Officer"
+        }
+      ]
+    },
+    {
+      "company": "Amphenol",
+      "tier": "Tier 4",
+      "owner": "Sean Coughlin",
+      "industry": "Appliances, Electrical, and Electronics Manufacturing",
+      "gpu_segment": "Partner",
+      "icp_fit": "Low",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Albert Chen",
+          "title": "Director of Applications Engineering and Solutions Architecture"
+        }
+      ]
+    },
+    {
+      "company": "Micron",
+      "tier": "Tier 4",
+      "owner": "Greg Mark",
+      "industry": "Semiconductor Manufacturing",
+      "gpu_segment": "Partner",
+      "icp_fit": "Medium",
+      "type": "-",
+      "open_opps": "0",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Karthik Ganesan",
+          "title": "Technical Fellow"
+        }
+      ]
+    }
+  ],
+  "unmatched": [
+    {
+      "company": "Marvell",
+      "attendee_count": 5,
+      "attendees": [
+        {
+          "name": "Dave Lazovsky",
+          "title": "EVP & GM, Data Center Networking Business Group"
+        },
+        {
+          "name": "Russ Esmacher",
+          "title": "SVP & GM, Data Center Interconnect"
+        },
+        {
+          "name": "Preet Virk",
+          "title": "SVP, Photonic Fabric Business Unit"
+        },
+        {
+          "name": "Dave Lazovsky",
+          "title": "Executive Vice President and General Manager"
+        },
+        {
+          "name": "Preet Virk",
+          "title": "Senior Vice President, Photonic Fabric Business Unit"
+        }
+      ]
+    },
+    {
+      "company": "Credo",
+      "attendee_count": 4,
+      "attendees": [
+        {
+          "name": "Rajan Pai",
+          "title": "VP, Optical Technologies"
+        },
+        {
+          "name": "Don Barnetson",
+          "title": "SVP, Product"
+        },
+        {
+          "name": "Vishal Shah",
+          "title": "VP of Product, OmniConnect and PCIe"
+        },
+        {
+          "name": "Vishal Shah",
+          "title": "Vice President of Product, OmniConnect and PCIe"
+        }
+      ]
+    },
+    {
+      "company": "Siemens",
+      "attendee_count": 3,
+      "attendees": [
+        {
+          "name": "Amit Gupta",
+          "title": "SVP and GM, AI Strategy and Solido Custom IC"
+        },
+        {
+          "name": "Eugen Solowjow",
+          "title": "Head of R&D - Robotics & AI"
+        },
+        {
+          "name": "Amit Gupta",
+          "title": "Senior Vice President and General Manager"
+        }
+      ]
+    },
+    {
+      "company": "Axelera AI",
+      "attendee_count": 3,
+      "attendees": [
+        {
+          "name": "Fabrizio Del Maffeo",
+          "title": "Co-Founder & CEO"
+        },
+        {
+          "name": "Manuel Botija",
+          "title": "VP - Product Management"
+        },
+        {
+          "name": "Manuel Botija",
+          "title": "Vice President - Product Management"
+        }
+      ]
+    },
+    {
+      "company": "Cognichip",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Stelios Diamantidis",
+          "title": "Chief Product Officer"
+        },
+        {
+          "name": "Simon Sabato",
+          "title": "Co-Founder & Chief Architect"
+        }
+      ]
+    },
+    {
+      "company": "d-Matrix",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Chris Nicol",
+          "title": "Vice President"
+        },
+        {
+          "name": "Satyam Srivastava",
+          "title": "Distinguished Engineer"
+        }
+      ]
+    },
+    {
+      "company": "EE Times",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Sally Ward-Foxton",
+          "title": "Senior Reporter"
+        },
+        {
+          "name": "Sally Ward-Foxton",
+          "title": "Senior Reporter"
+        }
+      ]
+    },
+    {
+      "company": "Coder",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Nicky Pike",
+          "title": "Americas Field CTO"
+        },
+        {
+          "name": "David Fraley",
+          "title": "Product Manager"
+        }
+      ]
+    },
+    {
+      "company": "Epic Semi",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Chloe Jian Ma",
+          "title": "Chief Business Officer"
+        },
+        {
+          "name": "Jessica Dai",
+          "title": "Field Application Engineer"
+        }
+      ]
+    },
+    {
+      "company": "Synopsys",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Sandeep Mehndiratta",
+          "title": "SVP - AI Partnerships"
+        },
+        {
+          "name": "Anthony Matarazzo",
+          "title": "Head of Physical AI GTM"
+        }
+      ]
+    },
+    {
+      "company": "Penguin Solutions",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Andy Mills",
+          "title": "VP, Advanced Product Development"
+        },
+        {
+          "name": "Andy Mills",
+          "title": "Vice President, Advanced Product Development"
+        }
+      ]
+    },
+    {
+      "company": "Mortenson",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Steve Knighton",
+          "title": "VP GM, Data Center Solutions"
+        },
+        {
+          "name": "Steve Knighton",
+          "title": "VP General Manager, Data Center Solutions"
+        }
+      ]
+    },
+    {
+      "company": "Airsys",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Tony Fischels",
+          "title": "VP, PowerOne"
+        },
+        {
+          "name": "Tony Fischels",
+          "title": "Vice President, PowerOne"
+        }
+      ]
+    },
+    {
+      "company": "Agility Robotics",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Jonathan Hurst",
+          "title": "Co-Founder & Chief Robot Officer"
+        },
+        {
+          "name": "Ahmet Asarkaya",
+          "title": "Senior AI Research Engineer"
+        }
+      ]
+    },
+    {
+      "company": "Samsara",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "David Gal",
+          "title": "VP, Product & Engineering - Connected Equipment"
+        },
+        {
+          "name": "David Gal",
+          "title": "Vice President, Product & Engineering"
+        }
+      ]
+    },
+    {
+      "company": "Alumni Ventures",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Ray Wu",
+          "title": "Founding Managing Partner - AI First Fund"
+        },
+        {
+          "name": "Bryan Liu",
+          "title": "Principal"
+        }
+      ]
+    },
+    {
+      "company": "Regenerative Infrastructure Holdings",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Katie Hilborn",
+          "title": "Founder & Managing Director"
+        },
+        {
+          "name": "Christopher Gee",
+          "title": "Co-Founder"
+        }
+      ]
+    },
+    {
+      "company": "AI21 Labs",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ori Goshen",
+          "title": "Co-Founder & Co-CEO"
+        }
+      ]
+    },
+    {
+      "company": "General Catalyst",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alexis Black Bj\u00f6rlin",
+          "title": "Chief Strategy Officer"
+        }
+      ]
+    },
+    {
+      "company": "Philips",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Shez Partovi",
+          "title": "Chief Innovation Officer & Chief Business Leader, Enterprise Informatics"
+        }
+      ]
+    },
+    {
+      "company": "Carrier",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Arun Nandi",
+          "title": "Chief Data and AI Officer"
+        }
+      ]
+    },
+    {
+      "company": "Intel Data Center Group",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Anil Nanduri",
+          "title": "VP, AI Products & GTM"
+        }
+      ]
+    },
+    {
+      "company": "Viasat",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sumeet Singh",
+          "title": "Chief Data & AI Officer"
+        }
+      ]
+    },
+    {
+      "company": "United States Air Force",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Deepak Sachdeva",
+          "title": "CIO"
+        }
+      ]
+    },
+    {
+      "company": "Sony Group Corporation",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alice Xiang",
+          "title": "Global Head of AI Governance"
+        }
+      ]
+    },
+    {
+      "company": "Star Catcher",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Andrew Rush",
+          "title": "President & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Ambarella",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Muneyb Minhazuddin",
+          "title": "Customer Growth Officer"
+        }
+      ]
+    },
+    {
+      "company": "Kove",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "John Overton",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "Lightmatter",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Nick Harris",
+          "title": "Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Cambrian AI Research",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Karl Freund",
+          "title": "Founder & Principal Analyst"
+        }
+      ]
+    },
+    {
+      "company": "Atos",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Chris McClean",
+          "title": "VP Global Head of AI Governance & Responsible AI"
+        }
+      ]
+    },
+    {
+      "company": "Arete",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jim Fontanelli",
+          "title": "Founding Partner"
+        }
+      ]
+    },
+    {
+      "company": "Vermillio",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Dan Neely",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "McDonalds",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Wayne Filin-Matthews",
+          "title": "VP, Data, AI and Enterprise Architecture (Chief Enterprise Architect)"
+        }
+      ]
+    },
+    {
+      "company": "Poshmark",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Mahesh Pasupuleti",
+          "title": "VP, ML & Data Infra"
+        }
+      ]
+    },
+    {
+      "company": "BetterWorks",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Maher Hanafi",
+          "title": "SVP, Engineering"
+        }
+      ]
+    },
+    {
+      "company": "GoFundMe",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Gauri Manglik",
+          "title": "VP, Head of Legal, Privacy and AI Governance"
+        }
+      ]
+    },
+    {
+      "company": "Adaption",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sudip Roy",
+          "title": "Co-Founder & CTO"
+        }
+      ]
+    },
+    {
+      "company": "Grainger",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Nathan Frank",
+          "title": "Director, ML Platform & Operations"
+        }
+      ]
+    },
+    {
+      "company": "Prudential Financial",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Bhargavi Vepuri",
+          "title": "Director, IT"
+        }
+      ]
+    },
+    {
+      "company": "Bloomreach",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Raj De Datta",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Protopia AI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Eiman Ebrahimi",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "Teleport",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ev Kontsevoy",
+          "title": "CEO & Co-Founder"
+        }
+      ]
+    },
+    {
+      "company": "Azul Systems",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Scott Sellers",
+          "title": "President, CEO & Co-Founder"
+        }
+      ]
+    },
+    {
+      "company": "Clockwork Systems",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Prashanth Thinakaran",
+          "title": "Distinguished AI Infrastructure Engineer"
+        }
+      ]
+    },
+    {
+      "company": "Fiddler AI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Krishna Gade",
+          "title": "Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Monday.com",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Omri Bruchim",
+          "title": "Engineering Group Lead - AI"
+        }
+      ]
+    },
+    {
+      "company": "Options Technology",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Peter Hodgson",
+          "title": "Head of Targeted Developments"
+        }
+      ]
+    },
+    {
+      "company": "Neuron Factory",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Zaid Kahn",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Siemens EDA",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Juan Carlos Rey",
+          "title": "CTO"
+        }
+      ]
+    },
+    {
+      "company": "Rebellions",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Marshall Choy",
+          "title": "Chief Business Officer"
+        }
+      ]
+    },
+    {
+      "company": "Cadence",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "James Kim",
+          "title": "Chief Architect"
+        }
+      ]
+    },
+    {
+      "company": "Eclypsium",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Yuriy Bulygin",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Qualitas Semiconductor",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jaeyoung Kim",
+          "title": "CTO"
+        }
+      ]
+    },
+    {
+      "company": "EdgeCortix",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sakyasingha Dasgupta",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Rafay Systems",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Haseeb Budhani",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Vertical Compute",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sylvain Dubois",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "vCluster",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Lukas Gentele",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "HyperAccel",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Joo-Young Kim",
+          "title": "Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Moreh",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Gangwon Jo",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "Oracle Cloud Infrastructure",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Muhammad Gabr",
+          "title": "Principal Engineer"
+        }
+      ]
+    },
+    {
+      "company": "RackN",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Rob Hirschfeld",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "Kentik",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Justin Ryburn",
+          "title": "VP, Global Solution Engineering & Field CTO"
+        }
+      ]
+    },
+    {
+      "company": "Proteantecs",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alex Burlak",
+          "title": "VP, Engineering & Customer Success"
+        }
+      ]
+    },
+    {
+      "company": "Celesta Capital",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "David Goldman",
+          "title": "Partner"
+        }
+      ]
+    },
+    {
+      "company": "CXL Consortium",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Debendra Das Sharma",
+          "title": "Board Chair"
+        }
+      ]
+    },
+    {
+      "company": "Salience Labs",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Vaysh Kewada",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "Samsung",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Pankaj Kalra",
+          "title": "Director, Product Planning"
+        }
+      ]
+    },
+    {
+      "company": "SK hynix",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Euicheol Lim",
+          "title": "Fellow"
+        }
+      ]
+    },
+    {
+      "company": "Rambus",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Steven Woo",
+          "title": "Fellow & Distinguished Inventor"
+        }
+      ]
+    },
+    {
+      "company": "Eridu",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Drew Perkins",
+          "title": "Co-Founder and CEO"
+        }
+      ]
+    },
+    {
+      "company": "Samtec",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Matthew Burns",
+          "title": "Global Director, Technical Marketing"
+        }
+      ]
+    },
+    {
+      "company": "Baya Systems",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Nandan Nayampally",
+          "title": "CCO"
+        }
+      ]
+    },
+    {
+      "company": "Solidigm",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Scott Shadley",
+          "title": "Director of Storage Planning and Pathfinding"
+        }
+      ]
+    },
+    {
+      "company": "Upscale AI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Deepti Chandra",
+          "title": "VP, Product & Marketing"
+        }
+      ]
+    },
+    {
+      "company": "DriveNets",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Dudy Cohen",
+          "title": "VP, Product Marketing"
+        }
+      ]
+    },
+    {
+      "company": "Singtel",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Srikanth Manthena",
+          "title": "Senior Manager, Solutions Management"
+        }
+      ]
+    },
+    {
+      "company": "iPronics",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Vivek Sarathy",
+          "title": "VP, Product"
+        }
+      ]
+    },
+    {
+      "company": "Astera Labs",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Aanchal Sharma",
+          "title": "Senior Product Director"
+        }
+      ]
+    },
+    {
+      "company": "Digital Realty",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Chris Sharp",
+          "title": "CTO"
+        }
+      ]
+    },
+    {
+      "company": "DataBank",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Raul Martynek",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "STACK Infrastructure",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Bobby Hollis",
+          "title": "Chief Development Officer"
+        }
+      ]
+    },
+    {
+      "company": "Data4",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Fran\u00e7ois Sterin",
+          "title": "COO"
+        }
+      ]
+    },
+    {
+      "company": "JLL",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sean Farney",
+          "title": "VP, Data Center Strategy, Americas"
+        }
+      ]
+    },
+    {
+      "company": "Aon",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Brian Hearst",
+          "title": "Managing Director, Data Center & Life Sciences Builders Risk Leader"
+        }
+      ]
+    },
+    {
+      "company": "Cirrascale",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Dave Driggers",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "WTG Energy",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Charlie Beecherl",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "California ISO",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Neil Millar",
+          "title": "VP, Transmission Planning and Infrastructure Development"
+        }
+      ]
+    },
+    {
+      "company": "Intelliflex",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Charles L'Ecuyer",
+          "title": "Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Phononic",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Matt Langman",
+          "title": "SVP and GM, Infrastructure Solutions"
+        }
+      ]
+    },
+    {
+      "company": "Dell'Oro Group",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alex Cordovil",
+          "title": "Research Director"
+        }
+      ]
+    },
+    {
+      "company": "Power and Data Management",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jake Ring",
+          "title": "Co-Founder, President & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Dynamix Corporation",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Andrejka Bernatova",
+          "title": "Founder, Managing Partner, Chairman & CEO"
+        }
+      ]
+    },
+    {
+      "company": "GridCARE",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alaina Bookstein",
+          "title": "SVP, Head of Business Development"
+        }
+      ]
+    },
+    {
+      "company": "OCP",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "James Kelly",
+          "title": "VP, Market Intelligence"
+        }
+      ]
+    },
+    {
+      "company": "Silverback Concrete",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Frank Stankunas",
+          "title": "President"
+        }
+      ]
+    },
+    {
+      "company": "actnano",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Taymur Ahmad",
+          "title": "Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Archetype AI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ivan Poupyrev",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "Intel Client Computing Group",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Nagesh Puppala",
+          "title": "General Manager - Physical AI & Robotics"
+        }
+      ]
+    },
+    {
+      "company": "Formerly Google DeepMind",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Pannag Sanketi",
+          "title": "Ex-Tech Lead Manager - Robotics"
+        }
+      ]
+    },
+    {
+      "company": "General Robotics",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sai Vemprala",
+          "title": "Co-Founder & CTO"
+        }
+      ]
+    },
+    {
+      "company": "Novelis",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Senthil Ramamurthy",
+          "title": "Engineering Lead, Physical AI"
+        }
+      ]
+    },
+    {
+      "company": "Shield AI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Miguel Campo",
+          "title": "Chief Architect"
+        }
+      ]
+    },
+    {
+      "company": "GrayMatter Robotics",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Satyandra Gupta",
+          "title": "Co-Founder & Chief Scientist"
+        }
+      ]
+    },
+    {
+      "company": "Intuition Robotics",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Assaf Gad",
+          "title": "Chief Strategy Officer & General Manager"
+        }
+      ]
+    },
+    {
+      "company": "Quadric",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Nigel Drego",
+          "title": "CTO & Co-Founder"
+        }
+      ]
+    },
+    {
+      "company": "Xaba",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Massimiliano Mouruzzi",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "Bedrock Robotics",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Boris Sofman",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "BAM Corner Point",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Rashmi Gopinath",
+          "title": "Co-Founder & Managing Partner"
+        }
+      ]
+    },
+    {
+      "company": "Path Robotics",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Heather Carroll",
+          "title": "CRO"
+        }
+      ]
+    },
+    {
+      "company": "Bluebeam",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Usman Shuja",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "Johnson & Johnson MedTech",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ali Afzal",
+          "title": "Senior Manager - Ottava Robotic System"
+        }
+      ]
+    },
+    {
+      "company": "Hitachi Ventures",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Gayathri Radhakrishnan",
+          "title": "Partner"
+        }
+      ]
+    },
+    {
+      "company": "Deplace",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Pedro Milcent",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Physical Intelligence",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Karan Dhabalia",
+          "title": "Roboticist"
+        }
+      ]
+    },
+    {
+      "company": "GigaIO",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alan Benjamin",
+          "title": "President & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Waymo",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sabareesh Ravikumar",
+          "title": "Senior Staff Silicon Engineer"
+        }
+      ]
+    },
+    {
+      "company": "AiM Medical Robotics",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Dave Saunders",
+          "title": "VP Product Engineering"
+        }
+      ]
+    },
+    {
+      "company": "LAM Capital",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Yvonne Lutsch",
+          "title": "Investment Director"
+        }
+      ]
+    },
+    {
+      "company": "Venrock",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ethan Batraski",
+          "title": "Partner"
+        }
+      ]
+    },
+    {
+      "company": "Niantic Spatial",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Inhi Cho Suh",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "SewerAI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Abhinoor Dhull",
+          "title": "VP of Operations"
+        }
+      ]
+    },
+    {
+      "company": "CloudRift",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Dmitry Trifonov",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "AllSpice.io",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Valentina Ratner",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sachin Katti",
+          "title": "Vice President, Compute Strategy & GPT-Infra"
+        }
+      ]
+    },
+    {
+      "company": "WRITER",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Raafat Zarka",
+          "title": "Director of Software Engineering"
+        }
+      ]
+    },
+    {
+      "company": "BAND",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Arick Goomanovsky",
+          "title": "CEO & Co-Founder"
+        }
+      ]
+    },
+    {
+      "company": "American Chemical Society",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jofia Jose Prakash",
+          "title": "Enterprise Architect - AI"
+        }
+      ]
+    },
+    {
+      "company": "Core42",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alex Trafton",
+          "title": "SVP & CISO"
+        }
+      ]
+    },
+    {
+      "company": "Booking.com",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alibek Datbayev",
+          "title": "AI Platform Engineering Manager"
+        }
+      ]
+    },
+    {
+      "company": "Eridu AI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Omar Hassen",
+          "title": "Co-Founder & Chief Product Officer"
+        }
+      ]
+    },
+    {
+      "company": "Seagate",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jason Feist",
+          "title": "SVP, Cloud Business - Products and Markets"
+        }
+      ]
+    },
+    {
+      "company": "GUC",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Luke Huang",
+          "title": "Associate Director of Marketing"
+        }
+      ]
+    },
+    {
+      "company": "Omen AI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Zach Laberge",
+          "title": "Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "DIMAAG",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ian Wright",
+          "title": "Chief Technology Officer"
+        }
+      ]
+    },
+    {
+      "company": "Nokia",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Clayton Wagar",
+          "title": "Leader, AI and High Performance Networking"
+        }
+      ]
+    },
+    {
+      "company": "Lightbits Labs",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Arthur Rasmusson",
+          "title": "Director of AI Architecture"
+        }
+      ]
+    },
+    {
+      "company": "Go!Foton",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Brian Berdan",
+          "title": "Senior Product Manager"
+        }
+      ]
+    },
+    {
+      "company": "Yasp",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Stefan Krassin",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Superlinked",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Daniel Svonava",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "Scale Venture Partners",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jeremy Kaufmann",
+          "title": "Partner"
+        }
+      ]
+    },
+    {
+      "company": "Cowboy Space Corp.",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Joe Yaffe",
+          "title": "COO & Chief Legal Officer"
+        }
+      ]
+    },
+    {
+      "company": "Tinder",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Vinay Kuruvila",
+          "title": "CTO"
+        }
+      ]
+    },
+    {
+      "company": "Stanford",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Daniel Wu",
+          "title": "Course Facilitator"
+        }
+      ]
+    },
+    {
+      "company": "Samsung Semiconductor",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "In Dong Kim",
+          "title": "Vice President, DRAM Product Planning and Business Enabling"
+        }
+      ]
+    },
+    {
+      "company": "Legrand",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "David Skeans",
+          "title": "SVP of Sales"
+        }
+      ]
+    },
+    {
+      "company": "FarmGPU",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jonmichael (JM) Hands",
+          "title": "CEO"
+        }
+      ]
+    },
+    {
+      "company": "iMiller PR",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Ilissa Miller",
+          "title": "Founder & CEO"
+        }
+      ]
+    },
+    {
+      "company": "DYNANIC",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Lukas Kekely",
+          "title": "CTO & Co-Founder"
+        }
+      ]
+    },
+    {
+      "company": "The Bolden Group",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Christian Bolden",
+          "title": "Founder & Principal"
+        }
+      ]
+    },
+    {
+      "company": "Dnotitia",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Se-Hyun Yang",
+          "title": "CTO"
+        }
+      ]
+    },
+    {
+      "company": "Amazon AGI Labs",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Archana Suregaonkar",
+          "title": "Member of Technical Staff"
+        }
+      ]
+    },
+    {
+      "company": "Tiiny AI",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Samar B",
+          "title": "GTM Director"
+        }
+      ]
+    },
+    {
+      "company": "Silicon Catalyst Ventures",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Laura Swann",
+          "title": "General Partner"
+        }
+      ]
+    },
+    {
+      "company": "reFaced",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Rinzin Wangmo",
+          "title": "Co-Founder & CEO"
+        }
+      ]
+    }
+  ]
+}
