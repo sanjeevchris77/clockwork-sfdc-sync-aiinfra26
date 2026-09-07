@@ -1,7 +1,7 @@
 {
   "methodology": "Booth-only comparison: RAISE 2025 'Booth Visitors | Post-Conf' campaign vs RAISE 2026's 6 in-person campaigns (3 'Booth Scans' + Machina, HumanX, and VIP Access). Opportunities matched to booth leads by website domain (not CampaignId, which undercounts for both years). Pipegen potential uses a UNIFORM $200,000 per Opportunity for both years (not real Opportunity Amounts), per explicit request, so the two years are compared on the same yardstick.",
   "raise_2025": {
-    "campaign_id": "",
+    "campaign_id": "701TV00000XD0lfYAD",
     "lead_count": 0,
     "opportunity_count": 0,
     "lifecycle_stage_counts": {},
