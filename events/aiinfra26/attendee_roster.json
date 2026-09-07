@@ -1,0 +1,2727 @@
+[
+  {
+    "company": "Google",
+    "people": [
+      {
+        "first_name": "Jeff",
+        "last_name": "Dean",
+        "title": "Chief Scientist & Technical Lead, Gemini",
+        "email": "jeff@google.com"
+      },
+      {
+        "first_name": "Monique",
+        "last_name": "Picou",
+        "title": "Chief Product Supply Officer",
+        "email": "moniquepicou@google.com"
+      },
+      {
+        "first_name": "James",
+        "last_name": "Kim",
+        "title": "System Development Engineer",
+        "email": null
+      },
+      {
+        "first_name": "Savannah",
+        "last_name": "Goodman",
+        "title": "Head of Advanced Energy Labs",
+        "email": "savgoodman@google.com"
+      },
+      {
+        "first_name": "Harsha",
+        "last_name": "Bojja",
+        "title": "AI/ML Platform Technical Lead",
+        "email": "harshabandi@google.com"
+      }
+    ]
+  },
+  {
+    "company": "Intel",
+    "people": [
+      {
+        "first_name": "Lip-Bu",
+        "last_name": "Tan",
+        "title": "CEO",
+        "email": "lip-bu.tan@intel.com"
+      },
+      {
+        "first_name": "Huma",
+        "last_name": "Abidi",
+        "title": "Senior Director & GM - AI Frameworks",
+        "email": "huma.abidi@intel.com"
+      },
+      {
+        "first_name": "Vidhya",
+        "last_name": "Thyagarajan",
+        "title": "Head of AI SOC Architecture",
+        "email": "vidhya.thyagarajan@intel.com"
+      },
+      {
+        "first_name": "Anil",
+        "last_name": "Nanduri",
+        "title": "Vice President, Product Management, GTM & Customer Success - AI Accelerators",
+        "email": "anil.nanduri@intel.com"
+      },
+      {
+        "first_name": "Huma",
+        "last_name": "Abidi",
+        "title": "Senior Director & General Manager - AI Frameworks",
+        "email": "huma.abidi@intel.com"
+      }
+    ]
+  },
+  {
+    "company": "NVIDIA",
+    "people": [
+      {
+        "first_name": "Ian",
+        "last_name": "Buck",
+        "title": "VP, Hyperscale & HPC Computing",
+        "email": "ibuck@nvidia.com"
+      }
+    ]
+  },
+  {
+    "company": "Amazon",
+    "people": [
+      {
+        "first_name": "Peter",
+        "last_name": "DeSantis",
+        "title": "SVP, Foundational AI Models, Custom Silicon & Quantum Computing",
+        "email": "peterdesantis@amazon.com"
+      },
+      {
+        "first_name": "Mitalee",
+        "last_name": "Gujar",
+        "title": "Director of Engineering",
+        "email": "mitaleeg@amazon.com"
+      }
+    ]
+  },
+  {
+    "company": "Meta",
+    "people": [
+      {
+        "first_name": "Santosh",
+        "last_name": "Janardhan",
+        "title": "Head of Infrastructure",
+        "email": "santosh@meta.com"
+      },
+      {
+        "first_name": "Olivia",
+        "last_name": "Wu",
+        "title": "Distinguished Engineer",
+        "email": "oliviaw@meta.com"
+      },
+      {
+        "first_name": "Usman",
+        "last_name": "Ali",
+        "title": "Senior ASIC Engineer - Architecture",
+        "email": "usmanali@meta.com"
+      },
+      {
+        "first_name": "Venkat",
+        "last_name": "Ramesh",
+        "title": "ASIC Engineer",
+        "email": "venkatraghavan@meta.com"
+      },
+      {
+        "first_name": "Dharmesh",
+        "last_name": "Jani",
+        "title": "Director, AI Infrastructure Ecosystem & Partnerships",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "HPE",
+    "people": [
+      {
+        "first_name": "Fidelma",
+        "last_name": "Russo",
+        "title": "CTO, EVP & GM Hybrid Cloud",
+        "email": "fidelma.russo@hpe.com"
+      },
+      {
+        "first_name": "Andrew",
+        "last_name": "Wheeler",
+        "title": "Deputy Chief Technology Officer",
+        "email": "awheeler@hpe.com"
+      }
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "people": [
+      {
+        "first_name": "Tony",
+        "last_name": "Pialis",
+        "title": "EVP & GM, Data Center",
+        "email": "tpialis@qti.qualcomm.com"
+      },
+      {
+        "first_name": "Vinesh",
+        "last_name": "Sukumar",
+        "title": "VP, AI/ML Product Management",
+        "email": "vsukumar@qualcomm.com"
+      }
+    ]
+  },
+  {
+    "company": "AI21 Labs",
+    "people": [
+      {
+        "first_name": "Ori",
+        "last_name": "Goshen",
+        "title": "Co-Founder & Co-CEO",
+        "email": "orig@ai21.com"
+      }
+    ]
+  },
+  {
+    "company": "General Catalyst",
+    "people": [
+      {
+        "first_name": "Alexis",
+        "last_name": "Black Bj\u00f6rlin",
+        "title": "Chief Strategy Officer",
+        "email": "abjorlin@generalcatalyst.com"
+      }
+    ]
+  },
+  {
+    "company": "US Bank",
+    "people": [
+      {
+        "first_name": "Prashant",
+        "last_name": "Mehrotra",
+        "title": "EVP & Chief AI Officer",
+        "email": "prashant.mehrotra@usbank.com"
+      }
+    ]
+  },
+  {
+    "company": "Philips",
+    "people": [
+      {
+        "first_name": "Shez",
+        "last_name": "Partovi",
+        "title": "Chief Innovation Officer & Chief Business Leader, Enterprise Informatics",
+        "email": "shez.partovi@philips.com"
+      }
+    ]
+  },
+  {
+    "company": "SemiAnalysis",
+    "people": [
+      {
+        "first_name": "Dylan",
+        "last_name": "Patel",
+        "title": "Founder, CEO & Chief Analyst",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "PayPal",
+    "people": [
+      {
+        "first_name": "Jennifer",
+        "last_name": "Broxmeyer",
+        "title": "VP of Legal",
+        "email": "jbroxmeyer@paypal.com"
+      },
+      {
+        "first_name": "Nitin",
+        "last_name": "Sharma",
+        "title": "Distinguished Engineer & Architect - AIML Engineering & Agentic AI",
+        "email": "nitinsharma@paypal.com"
+      },
+      {
+        "first_name": "Him",
+        "last_name": "Raj Singh",
+        "title": "Manager, Software Engineering",
+        "email": "himrajsingh@paypal.com"
+      }
+    ]
+  },
+  {
+    "company": "Carrier",
+    "people": [
+      {
+        "first_name": "Arun",
+        "last_name": "Nandi",
+        "title": "Chief Data and AI Officer",
+        "email": "arun.nandi@carrier.com"
+      }
+    ]
+  },
+  {
+    "company": "Intel Data Center Group",
+    "people": [
+      {
+        "first_name": "Anil",
+        "last_name": "Nanduri",
+        "title": "VP, AI Products & GTM",
+        "email": "anil.nanduri@intel.com"
+      }
+    ]
+  },
+  {
+    "company": "Marvell",
+    "people": [
+      {
+        "first_name": "Dave",
+        "last_name": "Lazovsky",
+        "title": "EVP & GM, Data Center Networking Business Group",
+        "email": "dlazovsky@marvell.com"
+      },
+      {
+        "first_name": "Russ",
+        "last_name": "Esmacher",
+        "title": "SVP & GM, Data Center Interconnect",
+        "email": "resmacher@marvell.com"
+      },
+      {
+        "first_name": "Preet",
+        "last_name": "Virk",
+        "title": "SVP, Photonic Fabric Business Unit",
+        "email": "pvirk@marvell.com"
+      },
+      {
+        "first_name": "Dave",
+        "last_name": "Lazovsky",
+        "title": "Executive Vice President and General Manager",
+        "email": "dlazovsky@marvell.com"
+      },
+      {
+        "first_name": "Preet",
+        "last_name": "Virk",
+        "title": "Senior Vice President, Photonic Fabric Business Unit",
+        "email": "pvirk@marvell.com"
+      }
+    ]
+  },
+  {
+    "company": "Viasat",
+    "people": [
+      {
+        "first_name": "Sumeet",
+        "last_name": "Singh",
+        "title": "Chief Data & AI Officer",
+        "email": "sumeet.singh@viasat.com"
+      }
+    ]
+  },
+  {
+    "company": "Lambda",
+    "people": [
+      {
+        "first_name": "Robert",
+        "last_name": "Brooks IV",
+        "title": "Founding Team & Chief Commercial Officer",
+        "email": "robert@lambda.ai"
+      },
+      {
+        "first_name": "Alee",
+        "last_name": "Fong",
+        "title": "DC Infrastructure Capacity & Engineering",
+        "email": "alee@lambda.ai"
+      }
+    ]
+  },
+  {
+    "company": "United States Air Force",
+    "people": [
+      {
+        "first_name": "Deepak",
+        "last_name": "Sachdeva",
+        "title": "CIO",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Liquid AI",
+    "people": [
+      {
+        "first_name": "Ramin",
+        "last_name": "Hasani",
+        "title": "Co-Founder & CEO",
+        "email": "hasani@liquid.ai"
+      }
+    ]
+  },
+  {
+    "company": "Broadcom",
+    "people": [
+      {
+        "first_name": "Asad",
+        "last_name": "Khamisy",
+        "title": "SVP & GM, Core Switching Group",
+        "email": "asad.khamisy@broadcom.com"
+      },
+      {
+        "first_name": "Hasan",
+        "last_name": "Siraj",
+        "title": "Vice President of Products",
+        "email": "hasan.siraj@broadcom.com"
+      }
+    ]
+  },
+  {
+    "company": "Sony Group Corporation",
+    "people": [
+      {
+        "first_name": "Alice",
+        "last_name": "Xiang",
+        "title": "Global Head of AI Governance",
+        "email": "alice.xiang@sony.com"
+      }
+    ]
+  },
+  {
+    "company": "Star Catcher",
+    "people": [
+      {
+        "first_name": "Andrew",
+        "last_name": "Rush",
+        "title": "President & CEO",
+        "email": "andrew.rush@star-catcher.com"
+      }
+    ]
+  },
+  {
+    "company": "Ambarella",
+    "people": [
+      {
+        "first_name": "Muneyb",
+        "last_name": "Minhazuddin",
+        "title": "Customer Growth Officer",
+        "email": "muneyb@ambarella.com"
+      }
+    ]
+  },
+  {
+    "company": "Mirantis",
+    "people": [
+      {
+        "first_name": "Stephen",
+        "last_name": "Frassetti",
+        "title": "Field CTO",
+        "email": "sfrassetti@mirantis.com"
+      },
+      {
+        "first_name": "Neil",
+        "last_name": "Overmon",
+        "title": "Senior Director of Solution Architecture",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Kove",
+    "people": [
+      {
+        "first_name": "John",
+        "last_name": "Overton",
+        "title": "CEO",
+        "email": "john.overton@kove.com"
+      }
+    ]
+  },
+  {
+    "company": "Lightmatter",
+    "people": [
+      {
+        "first_name": "Nick",
+        "last_name": "Harris",
+        "title": "Founder & CEO",
+        "email": "nick@lightmatter.co"
+      }
+    ]
+  },
+  {
+    "company": "Cambrian AI Research",
+    "people": [
+      {
+        "first_name": "Karl",
+        "last_name": "Freund",
+        "title": "Founder & Principal Analyst",
+        "email": "karl.freund@cambrian-ai.com"
+      }
+    ]
+  },
+  {
+    "company": "Siemens",
+    "people": [
+      {
+        "first_name": "Amit",
+        "last_name": "Gupta",
+        "title": "SVP and GM, AI Strategy and Solido Custom IC",
+        "email": "amit@siemens.com"
+      },
+      {
+        "first_name": "Eugen",
+        "last_name": "Solowjow",
+        "title": "Head of R&D - Robotics & AI",
+        "email": "eugen.solowjow@siemens.com"
+      },
+      {
+        "first_name": "Amit",
+        "last_name": "Gupta",
+        "title": "Senior Vice President and General Manager",
+        "email": "amitgupta@siemens.com"
+      }
+    ]
+  },
+  {
+    "company": "Atos",
+    "people": [
+      {
+        "first_name": "Chris",
+        "last_name": "McClean",
+        "title": "VP Global Head of AI Governance & Responsible AI",
+        "email": "chris.mcclean@atos.ai"
+      }
+    ]
+  },
+  {
+    "company": "Western Digital",
+    "people": [
+      {
+        "first_name": "Ahmed",
+        "last_name": "Shihab",
+        "title": "Chief Product Officer",
+        "email": "ahmed.shihab@wdc.com"
+      }
+    ]
+  },
+  {
+    "company": "Cognichip",
+    "people": [
+      {
+        "first_name": "Stelios",
+        "last_name": "Diamantidis",
+        "title": "Chief Product Officer",
+        "email": null
+      },
+      {
+        "first_name": "Simon",
+        "last_name": "Sabato",
+        "title": "Co-Founder & Chief Architect",
+        "email": "simon@cognichip.ai"
+      }
+    ]
+  },
+  {
+    "company": "d-Matrix",
+    "people": [
+      {
+        "first_name": "Chris",
+        "last_name": "Nicol",
+        "title": "Vice President",
+        "email": "cnicol@d-matrix.ai"
+      },
+      {
+        "first_name": "Satyam",
+        "last_name": "Srivastava",
+        "title": "Distinguished Engineer",
+        "email": "ssrivastava@d-matrix.ai"
+      }
+    ]
+  },
+  {
+    "company": "Arete",
+    "people": [
+      {
+        "first_name": "Jim",
+        "last_name": "Fontanelli",
+        "title": "Founding Partner",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Vermillio",
+    "people": [
+      {
+        "first_name": "Dan",
+        "last_name": "Neely",
+        "title": "CEO",
+        "email": "dan@vermill.io"
+      }
+    ]
+  },
+  {
+    "company": "EE Times",
+    "people": [
+      {
+        "first_name": "Sally",
+        "last_name": "Ward-Foxton",
+        "title": "Senior Reporter",
+        "email": "sally.wardfoxton@aspencore.com"
+      },
+      {
+        "first_name": "Sally",
+        "last_name": "Ward-Foxton",
+        "title": "Senior Reporter",
+        "email": "sally.wardfoxton@aspencore.com"
+      }
+    ]
+  },
+  {
+    "company": "Zoetis",
+    "people": [
+      {
+        "first_name": "Keith",
+        "last_name": "Sarbaugh",
+        "title": "EVP & Chief Digital and Technology Officer",
+        "email": "keith.sarbaugh@zoetis.com"
+      }
+    ]
+  },
+  {
+    "company": "Truist",
+    "people": [
+      {
+        "first_name": "Ron",
+        "last_name": "Whitworth",
+        "title": "Chief Privacy Officer",
+        "email": "ron.whitworth@truist.com"
+      }
+    ]
+  },
+  {
+    "company": "Eli Lilly",
+    "people": [
+      {
+        "first_name": "Mahi",
+        "last_name": "Rayasam",
+        "title": "SVP, Customer Technology Innovation",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Capital One",
+    "people": [
+      {
+        "first_name": "Sambit",
+        "last_name": "Sahu",
+        "title": "MVP, LLM Core & Agentic AI",
+        "email": "sambit.sahu@capitalone.com"
+      }
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "people": [
+      {
+        "first_name": "Donald",
+        "last_name": "Thompson",
+        "title": "Distinguished Engineer",
+        "email": "donaldt@microsoft.com"
+      },
+      {
+        "first_name": "Prashant",
+        "last_name": "Ranjan",
+        "title": "Principal Silicon Architect",
+        "email": "ranjanp@microsoft.com"
+      },
+      {
+        "first_name": "Kevin",
+        "last_name": "Janda",
+        "title": "CVP, Data Centers",
+        "email": "kevinj@microsoft.com"
+      },
+      {
+        "first_name": "Sonia",
+        "last_name": "Hingorany",
+        "title": "Senior Director, Azure Cloud Operations + Innovation",
+        "email": "sonia@microsoft.com"
+      },
+      {
+        "first_name": "Nicolas",
+        "last_name": "Rbeiz",
+        "title": "Principal, Data Center Delivery Strategy & Performance",
+        "email": "nicolasrbeiz@microsoft.com"
+      }
+    ]
+  },
+  {
+    "company": "McDonalds",
+    "people": [
+      {
+        "first_name": "Wayne",
+        "last_name": "Filin-Matthews",
+        "title": "VP, Data, AI and Enterprise Architecture (Chief Enterprise Architect)",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Intuit",
+    "people": [
+      {
+        "first_name": "Liza",
+        "last_name": "Levitt",
+        "title": "VP, Deputy General Counsel - Platforms, Responsible AI, Emerging Technology",
+        "email": "liza_levitt@intuit.com"
+      }
+    ]
+  },
+  {
+    "company": "eBay",
+    "people": [
+      {
+        "first_name": "Senthil",
+        "last_name": "Padmanabhan",
+        "title": "VP, Engineering, Global Verticals & API Platform",
+        "email": "senthil.padmanabhan@ebay.com"
+      }
+    ]
+  },
+  {
+    "company": "Crusoe",
+    "people": [
+      {
+        "first_name": "Erwan",
+        "last_name": "Menard",
+        "title": "SVP, Product Management",
+        "email": "emenard@crusoe.ai"
+      },
+      {
+        "first_name": "Chris",
+        "last_name": "Dolan",
+        "title": "Chief Data Center Officer",
+        "email": "cdolan@crusoe.ai"
+      },
+      {
+        "first_name": "Sharmila",
+        "last_name": "Bokka",
+        "title": "Senior Electrical Engineer",
+        "email": "sbokka@crusoe.ai"
+      }
+    ]
+  },
+  {
+    "company": "Poshmark",
+    "people": [
+      {
+        "first_name": "Mahesh",
+        "last_name": "Pasupuleti",
+        "title": "VP, ML & Data Infra",
+        "email": "mahesh@poshmark.com"
+      }
+    ]
+  },
+  {
+    "company": "BetterWorks",
+    "people": [
+      {
+        "first_name": "Maher",
+        "last_name": "Hanafi",
+        "title": "SVP, Engineering",
+        "email": "maher.hanafi@betterworks.com"
+      }
+    ]
+  },
+  {
+    "company": "GoFundMe",
+    "people": [
+      {
+        "first_name": "Gauri",
+        "last_name": "Manglik",
+        "title": "VP, Head of Legal, Privacy and AI Governance",
+        "email": "gmanglik@gofundme.com"
+      }
+    ]
+  },
+  {
+    "company": "Adaption",
+    "people": [
+      {
+        "first_name": "Sudip",
+        "last_name": "Roy",
+        "title": "Co-Founder & CTO",
+        "email": "sudip@adaptionlabs.ai"
+      }
+    ]
+  },
+  {
+    "company": "Grainger",
+    "people": [
+      {
+        "first_name": "Nathan",
+        "last_name": "Frank",
+        "title": "Director, ML Platform & Operations",
+        "email": "nathan.frank@grainger.com"
+      }
+    ]
+  },
+  {
+    "company": "Prudential Financial",
+    "people": [
+      {
+        "first_name": "Bhargavi",
+        "last_name": "Vepuri",
+        "title": "Director, IT",
+        "email": "bhargavi.vepuri@prudential.com"
+      }
+    ]
+  },
+  {
+    "company": "Bloomreach",
+    "people": [
+      {
+        "first_name": "Raj",
+        "last_name": "De Datta",
+        "title": "Co-Founder & CEO",
+        "email": "raj@bloomreach.com"
+      }
+    ]
+  },
+  {
+    "company": "Red Hat",
+    "people": [
+      {
+        "first_name": "Grace",
+        "last_name": "Ableidinger",
+        "title": "AI Developer Advocate",
+        "email": "gableidinger@redhat.com"
+      }
+    ]
+  },
+  {
+    "company": "Cockroach Labs",
+    "people": [
+      {
+        "first_name": "Spencer",
+        "last_name": "Kimball",
+        "title": "Co-Founder & CEO",
+        "email": "spencer.kimball@cockroachlabs.com"
+      }
+    ]
+  },
+  {
+    "company": "Protopia AI",
+    "people": [
+      {
+        "first_name": "Eiman",
+        "last_name": "Ebrahimi",
+        "title": "CEO",
+        "email": "eiman@protopia.ai"
+      }
+    ]
+  },
+  {
+    "company": "Teleport",
+    "people": [
+      {
+        "first_name": "Ev",
+        "last_name": "Kontsevoy",
+        "title": "CEO & Co-Founder",
+        "email": "ev@goteleport.com"
+      }
+    ]
+  },
+  {
+    "company": "Azul Systems",
+    "people": [
+      {
+        "first_name": "Scott",
+        "last_name": "Sellers",
+        "title": "President, CEO & Co-Founder",
+        "email": "sellers@azul.com"
+      }
+    ]
+  },
+  {
+    "company": "Clockwork Systems",
+    "people": [
+      {
+        "first_name": "Prashanth",
+        "last_name": "Thinakaran",
+        "title": "Distinguished AI Infrastructure Engineer",
+        "email": "prashanth@clockwork.io"
+      }
+    ]
+  },
+  {
+    "company": "Fiddler AI",
+    "people": [
+      {
+        "first_name": "Krishna",
+        "last_name": "Gade",
+        "title": "Founder & CEO",
+        "email": "krishna@fiddler.ai"
+      }
+    ]
+  },
+  {
+    "company": "Coder",
+    "people": [
+      {
+        "first_name": "Nicky",
+        "last_name": "Pike",
+        "title": "Americas Field CTO",
+        "email": "nicky@coder.com"
+      },
+      {
+        "first_name": "David",
+        "last_name": "Fraley",
+        "title": "Product Manager",
+        "email": "david.fraley@coder.com"
+      }
+    ]
+  },
+  {
+    "company": "Dell",
+    "people": [
+      {
+        "first_name": "Divya",
+        "last_name": "Singh",
+        "title": "Consultant, Data Engineering",
+        "email": "divya.s@dell.com"
+      }
+    ]
+  },
+  {
+    "company": "Monday.com",
+    "people": [
+      {
+        "first_name": "Omri",
+        "last_name": "Bruchim",
+        "title": "Engineering Group Lead - AI",
+        "email": "omribr@monday.com"
+      }
+    ]
+  },
+  {
+    "company": "LinkedIn",
+    "people": [
+      {
+        "first_name": "Sundara",
+        "last_name": "Raman Ramachandran",
+        "title": "Staff Software Engineer",
+        "email": null
+      },
+      {
+        "first_name": "Ankur",
+        "last_name": "Gupta",
+        "title": "Senior Staff Technical Program Manager",
+        "email": "ankurgupta@linkedin.com"
+      }
+    ]
+  },
+  {
+    "company": "Salesforce",
+    "people": [
+      {
+        "first_name": "Ping",
+        "last_name": "Yan",
+        "title": "Senior Director, Security Data Science",
+        "email": "pyan@hackerone.com"
+      },
+      {
+        "first_name": "Muddu",
+        "last_name": "Sudhakar",
+        "title": "SVP & GM, IT Service & HR Service",
+        "email": "muddu.sudhakar@salesforce.com"
+      }
+    ]
+  },
+  {
+    "company": "MinIO",
+    "people": [
+      {
+        "first_name": "Denny",
+        "last_name": "Kalaf",
+        "title": "Field Architect",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Options Technology",
+    "people": [
+      {
+        "first_name": "Peter",
+        "last_name": "Hodgson",
+        "title": "Head of Targeted Developments",
+        "email": "peter.hodgson@options-it.com"
+      }
+    ]
+  },
+  {
+    "company": "Neuron Factory",
+    "people": [
+      {
+        "first_name": "Zaid",
+        "last_name": "Kahn",
+        "title": "Co-Founder & CEO",
+        "email": "zaid@neuronfactory.ai"
+      }
+    ]
+  },
+  {
+    "company": "Siemens EDA",
+    "people": [
+      {
+        "first_name": "Juan",
+        "last_name": "Carlos Rey",
+        "title": "CTO",
+        "email": "juan.rey@siemens.com"
+      }
+    ]
+  },
+  {
+    "company": "Rebellions",
+    "people": [
+      {
+        "first_name": "Marshall",
+        "last_name": "Choy",
+        "title": "Chief Business Officer",
+        "email": "marshall@rebellions.ai"
+      }
+    ]
+  },
+  {
+    "company": "Epic Semi",
+    "people": [
+      {
+        "first_name": "Chloe",
+        "last_name": "Jian Ma",
+        "title": "Chief Business Officer",
+        "email": "chloe@epicsemi.com"
+      },
+      {
+        "first_name": "Jessica",
+        "last_name": "Dai",
+        "title": "Field Application Engineer",
+        "email": "jessica@cmu.edu"
+      }
+    ]
+  },
+  {
+    "company": "AWS",
+    "people": [
+      {
+        "first_name": "Vivek",
+        "last_name": "Gangasani",
+        "title": "Head of Applied AI - SageMaker Inference",
+        "email": null
+      },
+      {
+        "first_name": "Kamran",
+        "last_name": "Khan",
+        "title": "Head of BD/GTM Annapurna ML",
+        "email": null
+      },
+      {
+        "first_name": "Sergio",
+        "last_name": "Loureiro",
+        "title": "VP, Global Data Center Operations",
+        "email": null
+      },
+      {
+        "first_name": "Diwakar",
+        "last_name": "Bansal",
+        "title": "Principal GenAI GTM Specialist",
+        "email": "dbansal@amazon.com"
+      },
+      {
+        "first_name": "Jim",
+        "last_name": "Burtoft",
+        "title": "Senior Solutions Architect WWSO",
+        "email": "jburtoft@amazon.com"
+      },
+      {
+        "first_name": "Maen",
+        "last_name": "Suleiman",
+        "title": "Principal Tech Product Manager, Annapurna ML",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Fluidstack",
+    "people": [
+      {
+        "first_name": "Jason",
+        "last_name": "Kichen",
+        "title": "Chief Information Security Officer",
+        "email": "jason.kichen@berkeley.edu"
+      }
+    ]
+  },
+  {
+    "company": "Cadence",
+    "people": [
+      {
+        "first_name": "James",
+        "last_name": "Kim",
+        "title": "Chief Architect",
+        "email": "james@cadence.com"
+      }
+    ]
+  },
+  {
+    "company": "Oracle",
+    "people": [
+      {
+        "first_name": "David",
+        "last_name": "Murray",
+        "title": "Distinguished Architect",
+        "email": "david.murray@oracle.com"
+      },
+      {
+        "first_name": "Ram",
+        "last_name": "Nagappan",
+        "title": "VP, AI Infrastructure & Lead Architect, Gigawatt-Scale Data Centers",
+        "email": "ram.nagappan@oracle.com"
+      },
+      {
+        "first_name": "Nishtha",
+        "last_name": "Goel",
+        "title": "Senior Software Engineer",
+        "email": null
+      },
+      {
+        "first_name": "Kp",
+        "last_name": "Papamiltiadis",
+        "title": "Senior Vice President, Product & Partnerships",
+        "email": "kp@apeiron.vc"
+      },
+      {
+        "first_name": "Ben",
+        "last_name": "Scarborough",
+        "title": "SVP, Customer Engineering",
+        "email": "ben.scarborough@oracle.com"
+      },
+      {
+        "first_name": "Karan",
+        "last_name": "Batta",
+        "title": "SVP, Oracle Cloud Infrastructure",
+        "email": "karan.batta@oracle.com"
+      }
+    ]
+  },
+  {
+    "company": "JPMorgan Chase",
+    "people": [
+      {
+        "first_name": "Vibha",
+        "last_name": "Dhar",
+        "title": "Senior Manager, Software Engineering - SVP",
+        "email": null
+      },
+      {
+        "first_name": "Sai",
+        "last_name": "Sathyanarayan",
+        "title": "Executive Director & Security Architecture Lead",
+        "email": "sai.sathyanarayan@jpmorgan.com"
+      },
+      {
+        "first_name": "Vibha",
+        "last_name": "Dhar",
+        "title": "Senior Manager, Software Engineering",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Eclypsium",
+    "people": [
+      {
+        "first_name": "Yuriy",
+        "last_name": "Bulygin",
+        "title": "Co-Founder & CEO",
+        "email": "yuriy@eclypsium.com"
+      }
+    ]
+  },
+  {
+    "company": "Qualitas Semiconductor",
+    "people": [
+      {
+        "first_name": "Jaeyoung",
+        "last_name": "Kim",
+        "title": "CTO",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Apple",
+    "people": [
+      {
+        "first_name": "Maitrik",
+        "last_name": "Patel",
+        "title": "Senior Engineering Manager - AI/ML",
+        "email": "mpatel@apple.com"
+      }
+    ]
+  },
+  {
+    "company": "Synopsys",
+    "people": [
+      {
+        "first_name": "Sandeep",
+        "last_name": "Mehndiratta",
+        "title": "SVP - AI Partnerships",
+        "email": "sandeep.mehndiratta@synopsys.com"
+      },
+      {
+        "first_name": "Anthony",
+        "last_name": "Matarazzo",
+        "title": "Head of Physical AI GTM",
+        "email": "tony@synopsys.com"
+      }
+    ]
+  },
+  {
+    "company": "Latitude.sh",
+    "people": [
+      {
+        "first_name": "Cameron",
+        "last_name": "Daniel",
+        "title": "CTO",
+        "email": "cameron.daniel@megaport.com"
+      }
+    ]
+  },
+  {
+    "company": "EdgeCortix",
+    "people": [
+      {
+        "first_name": "Sakyasingha",
+        "last_name": "Dasgupta",
+        "title": "Co-Founder & CEO",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Rafay Systems",
+    "people": [
+      {
+        "first_name": "Haseeb",
+        "last_name": "Budhani",
+        "title": "Co-Founder & CEO",
+        "email": "haseeb.budhani@rafay.co"
+      }
+    ]
+  },
+  {
+    "company": "Vertical Compute",
+    "people": [
+      {
+        "first_name": "Sylvain",
+        "last_name": "Dubois",
+        "title": "Co-Founder & CEO",
+        "email": "sylvain.dubois@verticalcompute.com"
+      }
+    ]
+  },
+  {
+    "company": "vCluster",
+    "people": [
+      {
+        "first_name": "Lukas",
+        "last_name": "Gentele",
+        "title": "CEO",
+        "email": "lukas.gentele@vcluster.com"
+      }
+    ]
+  },
+  {
+    "company": "HyperAccel",
+    "people": [
+      {
+        "first_name": "Joo-Young",
+        "last_name": "Kim",
+        "title": "Founder & CEO",
+        "email": "jy.kim@hyperaccel.ai"
+      }
+    ]
+  },
+  {
+    "company": "Moreh",
+    "people": [
+      {
+        "first_name": "Gangwon",
+        "last_name": "Jo",
+        "title": "CEO",
+        "email": "gangwon.jo@moreh.io"
+      }
+    ]
+  },
+  {
+    "company": "Credo",
+    "people": [
+      {
+        "first_name": "Rajan",
+        "last_name": "Pai",
+        "title": "VP, Optical Technologies",
+        "email": "rajan.pai@credosemi.com"
+      },
+      {
+        "first_name": "Don",
+        "last_name": "Barnetson",
+        "title": "SVP, Product",
+        "email": "don.barnetson@credosemi.com"
+      },
+      {
+        "first_name": "Vishal",
+        "last_name": "Shah",
+        "title": "VP of Product, OmniConnect and PCIe",
+        "email": "vishal.shah@credosemi.com"
+      },
+      {
+        "first_name": "Vishal",
+        "last_name": "Shah",
+        "title": "Vice President of Product, OmniConnect and PCIe",
+        "email": "vishal.shah@credosemi.com"
+      }
+    ]
+  },
+  {
+    "company": "Oracle Cloud Infrastructure",
+    "people": [
+      {
+        "first_name": "Muhammad",
+        "last_name": "Gabr",
+        "title": "Principal Engineer",
+        "email": "hamada.ibrahim@oracle.com"
+      }
+    ]
+  },
+  {
+    "company": "RackN",
+    "people": [
+      {
+        "first_name": "Rob",
+        "last_name": "Hirschfeld",
+        "title": "CEO",
+        "email": "rob@rackn.com"
+      }
+    ]
+  },
+  {
+    "company": "Kentik",
+    "people": [
+      {
+        "first_name": "Justin",
+        "last_name": "Ryburn",
+        "title": "VP, Global Solution Engineering & Field CTO",
+        "email": "jryburn@kentik.com"
+      }
+    ]
+  },
+  {
+    "company": "Proteantecs",
+    "people": [
+      {
+        "first_name": "Alex",
+        "last_name": "Burlak",
+        "title": "VP, Engineering & Customer Success",
+        "email": "alex.burlak@proteantecs.com"
+      }
+    ]
+  },
+  {
+    "company": "Celesta Capital",
+    "people": [
+      {
+        "first_name": "David",
+        "last_name": "Goldman",
+        "title": "Partner",
+        "email": "david@celesta.vc"
+      }
+    ]
+  },
+  {
+    "company": "CXL Consortium",
+    "people": [
+      {
+        "first_name": "Debendra",
+        "last_name": "Das Sharma",
+        "title": "Board Chair",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Salience Labs",
+    "people": [
+      {
+        "first_name": "Vaysh",
+        "last_name": "Kewada",
+        "title": "CEO",
+        "email": "vaysh@saliencelabs.ai"
+      }
+    ]
+  },
+  {
+    "company": "Cornelis Networks",
+    "people": [
+      {
+        "first_name": "Lisa",
+        "last_name": "Spelman",
+        "title": "CEO",
+        "email": "lspelman@cornelisnetworks.com"
+      },
+      {
+        "first_name": "Nishant",
+        "last_name": "Lodha",
+        "title": "Senior Director, AI Networking",
+        "email": "nlodha@cornelisnetworks.com"
+      }
+    ]
+  },
+  {
+    "company": "AMD",
+    "people": [
+      {
+        "first_name": "Stephen",
+        "last_name": "Bates",
+        "title": "Fellow, AI Storage Software and Architecture",
+        "email": null
+      },
+      {
+        "first_name": "Nuwan",
+        "last_name": "Jayasena",
+        "title": "Fellow",
+        "email": "nuwan.jayasena@amd.com"
+      },
+      {
+        "first_name": "Kurtis",
+        "last_name": "Bowman",
+        "title": "UALink Consortium Board Chair and Director of Architecture and Strategy",
+        "email": "kurtis.bowman@amd.com"
+      },
+      {
+        "first_name": "Ellen",
+        "last_name": "Yang",
+        "title": "Director, Data Center",
+        "email": "ellen.yang@amd.com"
+      }
+    ]
+  },
+  {
+    "company": "Samsung",
+    "people": [
+      {
+        "first_name": "Pankaj",
+        "last_name": "Kalra",
+        "title": "Director, Product Planning",
+        "email": "pankaj.kalra@samsung.com"
+      }
+    ]
+  },
+  {
+    "company": "SK hynix",
+    "people": [
+      {
+        "first_name": "Euicheol",
+        "last_name": "Lim",
+        "title": "Fellow",
+        "email": "euicheol.lim@skhynix.com"
+      }
+    ]
+  },
+  {
+    "company": "Rambus",
+    "people": [
+      {
+        "first_name": "Steven",
+        "last_name": "Woo",
+        "title": "Fellow & Distinguished Inventor",
+        "email": "swoo@rambus.com"
+      }
+    ]
+  },
+  {
+    "company": "Eridu",
+    "people": [
+      {
+        "first_name": "Drew",
+        "last_name": "Perkins",
+        "title": "Co-Founder and CEO",
+        "email": "drew.perkins@eridu.ai"
+      }
+    ]
+  },
+  {
+    "company": "Samtec",
+    "people": [
+      {
+        "first_name": "Matthew",
+        "last_name": "Burns",
+        "title": "Global Director, Technical Marketing",
+        "email": "matt@picmg.org"
+      }
+    ]
+  },
+  {
+    "company": "Baya Systems",
+    "people": [
+      {
+        "first_name": "Nandan",
+        "last_name": "Nayampally",
+        "title": "CCO",
+        "email": "nandan.nayampally@bayasystems.com"
+      }
+    ]
+  },
+  {
+    "company": "Solidigm",
+    "people": [
+      {
+        "first_name": "Scott",
+        "last_name": "Shadley",
+        "title": "Director of Storage Planning and Pathfinding",
+        "email": "scott.shadley@solidigm.com"
+      }
+    ]
+  },
+  {
+    "company": "Upscale AI",
+    "people": [
+      {
+        "first_name": "Deepti",
+        "last_name": "Chandra",
+        "title": "VP, Product & Marketing",
+        "email": "dchandra@upscaleai.com"
+      }
+    ]
+  },
+  {
+    "company": "DriveNets",
+    "people": [
+      {
+        "first_name": "Dudy",
+        "last_name": "Cohen",
+        "title": "VP, Product Marketing",
+        "email": "dcohen@drivenets.com"
+      }
+    ]
+  },
+  {
+    "company": "Singtel",
+    "people": [
+      {
+        "first_name": "Srikanth",
+        "last_name": "Manthena",
+        "title": "Senior Manager, Solutions Management",
+        "email": "srikanth.manthena@singtel.com"
+      }
+    ]
+  },
+  {
+    "company": "Amphenol",
+    "people": [
+      {
+        "first_name": "Albert",
+        "last_name": "Chen",
+        "title": "Director of Applications Engineering and Solutions Architecture",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "iPronics",
+    "people": [
+      {
+        "first_name": "Vivek",
+        "last_name": "Sarathy",
+        "title": "VP, Product",
+        "email": "vivek.sarathy@ipronics.com"
+      }
+    ]
+  },
+  {
+    "company": "Astera Labs",
+    "people": [
+      {
+        "first_name": "Aanchal",
+        "last_name": "Sharma",
+        "title": "Senior Product Director",
+        "email": "aanchal.sharma@asteralabs.com"
+      }
+    ]
+  },
+  {
+    "company": "Argonne National Laboratory",
+    "people": [
+      {
+        "first_name": "Murali",
+        "last_name": "Krishna Emani",
+        "title": "Computer Scientist",
+        "email": "memani@anl.gov"
+      }
+    ]
+  },
+  {
+    "company": "Penguin Solutions",
+    "people": [
+      {
+        "first_name": "Andy",
+        "last_name": "Mills",
+        "title": "VP, Advanced Product Development",
+        "email": "andy.mills@penguinsolutions.com"
+      },
+      {
+        "first_name": "Andy",
+        "last_name": "Mills",
+        "title": "Vice President, Advanced Product Development",
+        "email": "andy.mills@penguinsolutions.com"
+      }
+    ]
+  },
+  {
+    "company": "PG&E",
+    "people": [
+      {
+        "first_name": "Chelle",
+        "last_name": "Izzi",
+        "title": "CCO",
+        "email": "chelle.izzi@pge.com"
+      }
+    ]
+  },
+  {
+    "company": "Digital Realty",
+    "people": [
+      {
+        "first_name": "Chris",
+        "last_name": "Sharp",
+        "title": "CTO",
+        "email": "csharp@digitalrealty.com"
+      }
+    ]
+  },
+  {
+    "company": "DataBank",
+    "people": [
+      {
+        "first_name": "Raul",
+        "last_name": "Martynek",
+        "title": "CEO",
+        "email": "rmartynek@databank.com"
+      }
+    ]
+  },
+  {
+    "company": "STACK Infrastructure",
+    "people": [
+      {
+        "first_name": "Bobby",
+        "last_name": "Hollis",
+        "title": "Chief Development Officer",
+        "email": "bhollis@stackinfra.com"
+      }
+    ]
+  },
+  {
+    "company": "Equinix",
+    "people": [
+      {
+        "first_name": "Jon",
+        "last_name": "Lin",
+        "title": "Chief Business Officer",
+        "email": "jlin@equinix.com"
+      }
+    ]
+  },
+  {
+    "company": "Data4",
+    "people": [
+      {
+        "first_name": "Fran\u00e7ois",
+        "last_name": "Sterin",
+        "title": "COO",
+        "email": "francois.sterin@data4group.com"
+      }
+    ]
+  },
+  {
+    "company": "JLL",
+    "people": [
+      {
+        "first_name": "Sean",
+        "last_name": "Farney",
+        "title": "VP, Data Center Strategy, Americas",
+        "email": "sean.farney@jll.com"
+      }
+    ]
+  },
+  {
+    "company": "Mortenson",
+    "people": [
+      {
+        "first_name": "Steve",
+        "last_name": "Knighton",
+        "title": "VP GM, Data Center Solutions",
+        "email": "steven.knighton@mortenson.com"
+      },
+      {
+        "first_name": "Steve",
+        "last_name": "Knighton",
+        "title": "VP General Manager, Data Center Solutions",
+        "email": "steve.knighton@mortenson.com"
+      }
+    ]
+  },
+  {
+    "company": "CBRE",
+    "people": [
+      {
+        "first_name": "Patrick",
+        "last_name": "Lynch",
+        "title": "Executive Managing Director, Data Center Solutions",
+        "email": "patrick.lynch@cbre.com"
+      }
+    ]
+  },
+  {
+    "company": "Aon",
+    "people": [
+      {
+        "first_name": "Brian",
+        "last_name": "Hearst",
+        "title": "Managing Director, Data Center & Life Sciences Builders Risk Leader",
+        "email": "brian.hearst@aon.com"
+      }
+    ]
+  },
+  {
+    "company": "Airsys",
+    "people": [
+      {
+        "first_name": "Tony",
+        "last_name": "Fischels",
+        "title": "VP, PowerOne",
+        "email": "tony.fischels@air-sys.us"
+      },
+      {
+        "first_name": "Tony",
+        "last_name": "Fischels",
+        "title": "Vice President, PowerOne",
+        "email": "tony.fischels@air-sys.us"
+      }
+    ]
+  },
+  {
+    "company": "DRW",
+    "people": [
+      {
+        "first_name": "Mike",
+        "last_name": "Bahr",
+        "title": "Head of Infrastructure, Data Center and Networking",
+        "email": "mbahr@drw.com"
+      }
+    ]
+  },
+  {
+    "company": "Vertiv",
+    "people": [
+      {
+        "first_name": "Steve",
+        "last_name": "Madara",
+        "title": "Distinguished Engineer and VP Thermal",
+        "email": "steve.madara@vertiv.com"
+      }
+    ]
+  },
+  {
+    "company": "Cirrascale",
+    "people": [
+      {
+        "first_name": "Dave",
+        "last_name": "Driggers",
+        "title": "CEO",
+        "email": "david.driggers@cirrascale.com"
+      }
+    ]
+  },
+  {
+    "company": "WTG Energy",
+    "people": [
+      {
+        "first_name": "Charlie",
+        "last_name": "Beecherl",
+        "title": "CEO",
+        "email": "cbeecherl@wtg-energy.com"
+      }
+    ]
+  },
+  {
+    "company": "California ISO",
+    "people": [
+      {
+        "first_name": "Neil",
+        "last_name": "Millar",
+        "title": "VP, Transmission Planning and Infrastructure Development",
+        "email": "nmillar@caiso.com"
+      }
+    ]
+  },
+  {
+    "company": "Intelliflex",
+    "people": [
+      {
+        "first_name": "Charles",
+        "last_name": "L'Ecuyer",
+        "title": "Founder & CEO",
+        "email": "c.lecuyer@intelliflex.io"
+      }
+    ]
+  },
+  {
+    "company": "Phononic",
+    "people": [
+      {
+        "first_name": "Matt",
+        "last_name": "Langman",
+        "title": "SVP and GM, Infrastructure Solutions",
+        "email": "matt.langman@phononic.com"
+      }
+    ]
+  },
+  {
+    "company": "Dell'Oro Group",
+    "people": [
+      {
+        "first_name": "Alex",
+        "last_name": "Cordovil",
+        "title": "Research Director",
+        "email": "alex@delloro.com"
+      }
+    ]
+  },
+  {
+    "company": "Power and Data Management",
+    "people": [
+      {
+        "first_name": "Jake",
+        "last_name": "Ring",
+        "title": "Co-Founder, President & CEO",
+        "email": "jring@pdmllc.net"
+      }
+    ]
+  },
+  {
+    "company": "Dynamix Corporation",
+    "people": [
+      {
+        "first_name": "Andrejka",
+        "last_name": "Bernatova",
+        "title": "Founder, Managing Partner, Chairman & CEO",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "GridCARE",
+    "people": [
+      {
+        "first_name": "Alaina",
+        "last_name": "Bookstein",
+        "title": "SVP, Head of Business Development",
+        "email": "alaina@gridcare.ai"
+      }
+    ]
+  },
+  {
+    "company": "OCP",
+    "people": [
+      {
+        "first_name": "James",
+        "last_name": "Kelly",
+        "title": "VP, Market Intelligence",
+        "email": "james@opencompute.org"
+      }
+    ]
+  },
+  {
+    "company": "Silverback Concrete",
+    "people": [
+      {
+        "first_name": "Frank",
+        "last_name": "Stankunas",
+        "title": "President",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Uptime Institute",
+    "people": [
+      {
+        "first_name": "Naveed",
+        "last_name": "Saeed",
+        "title": "VP, Global Technical Management",
+        "email": "muhammad.saeed@uptimeinstitute.com"
+      },
+      {
+        "first_name": "Naveed",
+        "last_name": "Saeed",
+        "title": "Sr. Vice President - Topology & Global Tier Authority",
+        "email": "nsaeed@uptimeinstitute.com"
+      }
+    ]
+  },
+  {
+    "company": "actnano",
+    "people": [
+      {
+        "first_name": "Taymur",
+        "last_name": "Ahmad",
+        "title": "Founder & CEO",
+        "email": "taymur.ahmad@actnano.com"
+      }
+    ]
+  },
+  {
+    "company": "MIT",
+    "people": [
+      {
+        "first_name": "Daniela",
+        "last_name": "Rus",
+        "title": "Director of the Computer Science & Artificial Intelligence Laboratory",
+        "email": "rus@mit.edu"
+      }
+    ]
+  },
+  {
+    "company": "Agility Robotics",
+    "people": [
+      {
+        "first_name": "Jonathan",
+        "last_name": "Hurst",
+        "title": "Co-Founder & Chief Robot Officer",
+        "email": "jonathan.hurst@agilityrobotics.com"
+      },
+      {
+        "first_name": "Ahmet",
+        "last_name": "Asarkaya",
+        "title": "Senior AI Research Engineer",
+        "email": "ahmet.asarkaya@agilityrobotics.com"
+      }
+    ]
+  },
+  {
+    "company": "Archetype AI",
+    "people": [
+      {
+        "first_name": "Ivan",
+        "last_name": "Poupyrev",
+        "title": "CEO",
+        "email": "ivan.poupyrev@archetypeai.io"
+      }
+    ]
+  },
+  {
+    "company": "Boeing",
+    "people": [
+      {
+        "first_name": "Philip",
+        "last_name": "Freeman",
+        "title": "Senior Technical Fellow Assembly Automation & Robotics Engineering & Technology Innovation",
+        "email": "philip.l.freeman@boeing.com"
+      },
+      {
+        "first_name": "Bala",
+        "last_name": "Chidambaram",
+        "title": "Senior Executive Director & Chief Engineer",
+        "email": "balaguruna.chidambaram@boeing.com"
+      }
+    ]
+  },
+  {
+    "company": "General Motors",
+    "people": [
+      {
+        "first_name": "Benjamin",
+        "last_name": "Guihaire",
+        "title": "Senior Executive Director - Autonomous Vehicle Simulation, Eval, Data, and Test - Machine Learning",
+        "email": "benjamin.guihaire@gm.com"
+      }
+    ]
+  },
+  {
+    "company": "Intel Client Computing Group",
+    "people": [
+      {
+        "first_name": "Nagesh",
+        "last_name": "Puppala",
+        "title": "General Manager - Physical AI & Robotics",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Formerly Google DeepMind",
+    "people": [
+      {
+        "first_name": "Pannag",
+        "last_name": "Sanketi",
+        "title": "Ex-Tech Lead Manager - Robotics",
+        "email": "psanketi@avolla.ai"
+      }
+    ]
+  },
+  {
+    "company": "General Robotics",
+    "people": [
+      {
+        "first_name": "Sai",
+        "last_name": "Vemprala",
+        "title": "Co-Founder & CTO",
+        "email": "sai@generalrobotics.company"
+      }
+    ]
+  },
+  {
+    "company": "Novelis",
+    "people": [
+      {
+        "first_name": "Senthil",
+        "last_name": "Ramamurthy",
+        "title": "Engineering Lead, Physical AI",
+        "email": "senthil.r@hcltech.com"
+      }
+    ]
+  },
+  {
+    "company": "Samsara",
+    "people": [
+      {
+        "first_name": "David",
+        "last_name": "Gal",
+        "title": "VP, Product & Engineering - Connected Equipment",
+        "email": "david@samsara.com"
+      },
+      {
+        "first_name": "David",
+        "last_name": "Gal",
+        "title": "Vice President, Product & Engineering",
+        "email": "david@samsara.com"
+      }
+    ]
+  },
+  {
+    "company": "Shield AI",
+    "people": [
+      {
+        "first_name": "Miguel",
+        "last_name": "Campo",
+        "title": "Chief Architect",
+        "email": "miguel.campo@shield.ai"
+      }
+    ]
+  },
+  {
+    "company": "GrayMatter Robotics",
+    "people": [
+      {
+        "first_name": "Satyandra",
+        "last_name": "Gupta",
+        "title": "Co-Founder & Chief Scientist",
+        "email": "satyandragupta@graymatter-robotics.com"
+      }
+    ]
+  },
+  {
+    "company": "Intuition Robotics",
+    "people": [
+      {
+        "first_name": "Assaf",
+        "last_name": "Gad",
+        "title": "Chief Strategy Officer & General Manager",
+        "email": "gad@intuitionrobotics.com"
+      }
+    ]
+  },
+  {
+    "company": "Quadric",
+    "people": [
+      {
+        "first_name": "Nigel",
+        "last_name": "Drego",
+        "title": "CTO & Co-Founder",
+        "email": "nigel.drego@quadric.ai"
+      }
+    ]
+  },
+  {
+    "company": "Axelera AI",
+    "people": [
+      {
+        "first_name": "Fabrizio",
+        "last_name": "Del Maffeo",
+        "title": "Co-Founder & CEO",
+        "email": "fabrizio.delmaffeo@axelera.ai"
+      },
+      {
+        "first_name": "Manuel",
+        "last_name": "Botija",
+        "title": "VP - Product Management",
+        "email": "manuel.botija@axelera.ai"
+      },
+      {
+        "first_name": "Manuel",
+        "last_name": "Botija",
+        "title": "Vice President - Product Management",
+        "email": "manuel.botija@axelera.ai"
+      }
+    ]
+  },
+  {
+    "company": "Xaba",
+    "people": [
+      {
+        "first_name": "Massimiliano",
+        "last_name": "Mouruzzi",
+        "title": "CEO",
+        "email": "massimiliano@web.facebook.com"
+      }
+    ]
+  },
+  {
+    "company": "Lockheed Martin",
+    "people": [
+      {
+        "first_name": "Eliana",
+        "last_name": "Stefani",
+        "title": "Portfolio Manager for Cognitive Agents & Sense-making",
+        "email": "eliana.stefani@lmco.com"
+      }
+    ]
+  },
+  {
+    "company": "Bedrock Robotics",
+    "people": [
+      {
+        "first_name": "Boris",
+        "last_name": "Sofman",
+        "title": "Co-Founder & CEO",
+        "email": "boris.sofman@bedrockrobotics.com"
+      }
+    ]
+  },
+  {
+    "company": "BAM Corner Point",
+    "people": [
+      {
+        "first_name": "Rashmi",
+        "last_name": "Gopinath",
+        "title": "Co-Founder & Managing Partner",
+        "email": "rashmi@bamcornerpoint.com"
+      }
+    ]
+  },
+  {
+    "company": "Path Robotics",
+    "people": [
+      {
+        "first_name": "Heather",
+        "last_name": "Carroll",
+        "title": "CRO",
+        "email": "hcarroll@path-robotics.com"
+      }
+    ]
+  },
+  {
+    "company": "Bluebeam",
+    "people": [
+      {
+        "first_name": "Usman",
+        "last_name": "Shuja",
+        "title": "CEO",
+        "email": "ushuja@bluebeam.com"
+      }
+    ]
+  },
+  {
+    "company": "Johnson & Johnson MedTech",
+    "people": [
+      {
+        "first_name": "Ali",
+        "last_name": "Afzal",
+        "title": "Senior Manager - Ottava Robotic System",
+        "email": "aafzal@its.jnj.com"
+      }
+    ]
+  },
+  {
+    "company": "Hitachi Ventures",
+    "people": [
+      {
+        "first_name": "Gayathri",
+        "last_name": "Radhakrishnan",
+        "title": "Partner",
+        "email": "gayathri@hitachi-ventures.com"
+      }
+    ]
+  },
+  {
+    "company": "Deplace",
+    "people": [
+      {
+        "first_name": "Pedro",
+        "last_name": "Milcent",
+        "title": "Co-Founder & CEO",
+        "email": "pedro@deplaceai.com"
+      }
+    ]
+  },
+  {
+    "company": "Physical Intelligence",
+    "people": [
+      {
+        "first_name": "Karan",
+        "last_name": "Dhabalia",
+        "title": "Roboticist",
+        "email": "karan@physicalintelligence.company"
+      }
+    ]
+  },
+  {
+    "company": "GigaIO",
+    "people": [
+      {
+        "first_name": "Alan",
+        "last_name": "Benjamin",
+        "title": "President & CEO",
+        "email": "abenjamin@gigaio.com"
+      }
+    ]
+  },
+  {
+    "company": "Waymo",
+    "people": [
+      {
+        "first_name": "Sabareesh",
+        "last_name": "Ravikumar",
+        "title": "Senior Staff Silicon Engineer",
+        "email": "rsabareesh@waymo.com"
+      }
+    ]
+  },
+  {
+    "company": "AiM Medical Robotics",
+    "people": [
+      {
+        "first_name": "Dave",
+        "last_name": "Saunders",
+        "title": "VP Product Engineering",
+        "email": "davesaunders@circumventglobal.com"
+      }
+    ]
+  },
+  {
+    "company": "LAM Capital",
+    "people": [
+      {
+        "first_name": "Yvonne",
+        "last_name": "Lutsch",
+        "title": "Investment Director",
+        "email": "yvonne.lutsch@lamresearch.com"
+      }
+    ]
+  },
+  {
+    "company": "Venrock",
+    "people": [
+      {
+        "first_name": "Ethan",
+        "last_name": "Batraski",
+        "title": "Partner",
+        "email": "ethan@venrock.com"
+      }
+    ]
+  },
+  {
+    "company": "Niantic Spatial",
+    "people": [
+      {
+        "first_name": "Inhi",
+        "last_name": "Cho Suh",
+        "title": "CEO",
+        "email": "inhi@nianticspatial.com"
+      }
+    ]
+  },
+  {
+    "company": "SewerAI",
+    "people": [
+      {
+        "first_name": "Abhinoor",
+        "last_name": "Dhull",
+        "title": "VP of Operations",
+        "email": "adhull@sewerai.com"
+      }
+    ]
+  },
+  {
+    "company": "Adobe",
+    "people": [
+      {
+        "first_name": "Charit",
+        "last_name": "Upadhyay",
+        "title": "Senior Site Reliability Engineer",
+        "email": "cupadhyay@adobe.com"
+      },
+      {
+        "first_name": "Jie",
+        "last_name": "Liao",
+        "title": "Engineering Director",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Mastercard",
+    "people": [
+      {
+        "first_name": "Rakesh",
+        "last_name": "Awasthi",
+        "title": "Principal Software Engineer",
+        "email": "rakesh.awasthi@mastercard.com"
+      }
+    ]
+  },
+  {
+    "company": "CloudRift",
+    "people": [
+      {
+        "first_name": "Dmitry",
+        "last_name": "Trifonov",
+        "title": "CEO",
+        "email": "dmitry@cloudrift.ai"
+      }
+    ]
+  },
+  {
+    "company": "Keysight Technologies",
+    "people": [
+      {
+        "first_name": "Venkat",
+        "last_name": "Pullela",
+        "title": "CTO, AI Infrastructure",
+        "email": "venkat.pullela@keysight.com"
+      }
+    ]
+  },
+  {
+    "company": "AllSpice.io",
+    "people": [
+      {
+        "first_name": "Valentina",
+        "last_name": "Ratner",
+        "title": "Co-Founder & CEO",
+        "email": "valentina@allspice.io"
+      }
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "people": [
+      {
+        "first_name": "Sachin",
+        "last_name": "Katti",
+        "title": "Vice President, Compute Strategy & GPT-Infra",
+        "email": "sachin@openai.com"
+      }
+    ]
+  },
+  {
+    "company": "WRITER",
+    "people": [
+      {
+        "first_name": "Raafat",
+        "last_name": "Zarka",
+        "title": "Director of Software Engineering",
+        "email": "raafat.zarka@writer.com"
+      }
+    ]
+  },
+  {
+    "company": "BAND",
+    "people": [
+      {
+        "first_name": "Arick",
+        "last_name": "Goomanovsky",
+        "title": "CEO & Co-Founder",
+        "email": "arick@band.ai"
+      }
+    ]
+  },
+  {
+    "company": "American Chemical Society",
+    "people": [
+      {
+        "first_name": "Jofia",
+        "last_name": "Jose Prakash",
+        "title": "Enterprise Architect - AI",
+        "email": "j_prakash@acs.org"
+      }
+    ]
+  },
+  {
+    "company": "Core42",
+    "people": [
+      {
+        "first_name": "Alex",
+        "last_name": "Trafton",
+        "title": "SVP & CISO",
+        "email": "alex.trafton@core42.ai"
+      }
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "people": [
+      {
+        "first_name": "Alibek",
+        "last_name": "Datbayev",
+        "title": "AI Platform Engineering Manager",
+        "email": "alibek.datbayev@booking.com"
+      }
+    ]
+  },
+  {
+    "company": "Alumni Ventures",
+    "people": [
+      {
+        "first_name": "Ray",
+        "last_name": "Wu",
+        "title": "Founding Managing Partner - AI First Fund",
+        "email": "ray@av.vc"
+      },
+      {
+        "first_name": "Bryan",
+        "last_name": "Liu",
+        "title": "Principal",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Eridu AI",
+    "people": [
+      {
+        "first_name": "Omar",
+        "last_name": "Hassen",
+        "title": "Co-Founder & Chief Product Officer",
+        "email": "omar.hassen@eridu.ai"
+      }
+    ]
+  },
+  {
+    "company": "Seagate",
+    "people": [
+      {
+        "first_name": "Jason",
+        "last_name": "Feist",
+        "title": "SVP, Cloud Business - Products and Markets",
+        "email": "jason.m.feist@seagate.com"
+      }
+    ]
+  },
+  {
+    "company": "GUC",
+    "people": [
+      {
+        "first_name": "Luke",
+        "last_name": "Huang",
+        "title": "Associate Director of Marketing",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Omen AI",
+    "people": [
+      {
+        "first_name": "Zach",
+        "last_name": "Laberge",
+        "title": "Founder & CEO",
+        "email": "zach@omen.ai"
+      }
+    ]
+  },
+  {
+    "company": "DIMAAG",
+    "people": [
+      {
+        "first_name": "Ian",
+        "last_name": "Wright",
+        "title": "Chief Technology Officer",
+        "email": "ian@dimaag.ai"
+      }
+    ]
+  },
+  {
+    "company": "Nokia",
+    "people": [
+      {
+        "first_name": "Clayton",
+        "last_name": "Wagar",
+        "title": "Leader, AI and High Performance Networking",
+        "email": "clayton.wagar@nokia.com"
+      }
+    ]
+  },
+  {
+    "company": "Lightbits Labs",
+    "people": [
+      {
+        "first_name": "Arthur",
+        "last_name": "Rasmusson",
+        "title": "Director of AI Architecture",
+        "email": "arthur@arccompute.io"
+      }
+    ]
+  },
+  {
+    "company": "Go!Foton",
+    "people": [
+      {
+        "first_name": "Brian",
+        "last_name": "Berdan",
+        "title": "Senior Product Manager",
+        "email": "brian.berdan@gofoton.com"
+      }
+    ]
+  },
+  {
+    "company": "Yasp",
+    "people": [
+      {
+        "first_name": "Stefan",
+        "last_name": "Krassin",
+        "title": "Co-Founder & CEO",
+        "email": "stefan.krassin@yasp.ai"
+      }
+    ]
+  },
+  {
+    "company": "Superlinked",
+    "people": [
+      {
+        "first_name": "Daniel",
+        "last_name": "Svonava",
+        "title": "Co-Founder & CEO",
+        "email": "daniel@superlinked.com"
+      }
+    ]
+  },
+  {
+    "company": "Scale Venture Partners",
+    "people": [
+      {
+        "first_name": "Jeremy",
+        "last_name": "Kaufmann",
+        "title": "Partner",
+        "email": "jeremyk@scalevp.com"
+      }
+    ]
+  },
+  {
+    "company": "Cowboy Space Corp.",
+    "people": [
+      {
+        "first_name": "Joe",
+        "last_name": "Yaffe",
+        "title": "COO & Chief Legal Officer",
+        "email": "joseph@cowboyspace.com"
+      }
+    ]
+  },
+  {
+    "company": "Tinder",
+    "people": [
+      {
+        "first_name": "Vinay",
+        "last_name": "Kuruvila",
+        "title": "CTO",
+        "email": "vinay.kuruvila@tinder.com"
+      }
+    ]
+  },
+  {
+    "company": "St. Jude Children's Research Hospital",
+    "people": [
+      {
+        "first_name": "Ed",
+        "last_name": "Suh",
+        "title": "Vice President, Research Informatics",
+        "email": "edward.s@stjude.org"
+      }
+    ]
+  },
+  {
+    "company": "Stanford",
+    "people": [
+      {
+        "first_name": "Daniel",
+        "last_name": "Wu",
+        "title": "Course Facilitator",
+        "email": "danielwu@stanford.edu"
+      }
+    ]
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "people": [
+      {
+        "first_name": "In",
+        "last_name": "Dong Kim",
+        "title": "Vice President, DRAM Product Planning and Business Enabling",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Micron",
+    "people": [
+      {
+        "first_name": "Karthik",
+        "last_name": "Ganesan",
+        "title": "Technical Fellow",
+        "email": "rganesan@micron.com"
+      }
+    ]
+  },
+  {
+    "company": "Legrand",
+    "people": [
+      {
+        "first_name": "David",
+        "last_name": "Skeans",
+        "title": "SVP of Sales",
+        "email": "dskeans@uecorp.com"
+      }
+    ]
+  },
+  {
+    "company": "FarmGPU",
+    "people": [
+      {
+        "first_name": "Jonmichael",
+        "last_name": "(JM) Hands",
+        "title": "CEO",
+        "email": "jonmichael@farmgpu.com"
+      }
+    ]
+  },
+  {
+    "company": "iMiller PR",
+    "people": [
+      {
+        "first_name": "Ilissa",
+        "last_name": "Miller",
+        "title": "Founder & CEO",
+        "email": "ilissa@imillerpr.com"
+      }
+    ]
+  },
+  {
+    "company": "Regenerative Infrastructure Holdings",
+    "people": [
+      {
+        "first_name": "Katie",
+        "last_name": "Hilborn",
+        "title": "Founder & Managing Director",
+        "email": "katie@londonspeakerbureau.com"
+      },
+      {
+        "first_name": "Christopher",
+        "last_name": "Gee",
+        "title": "Co-Founder",
+        "email": "g@shanzhai.city"
+      }
+    ]
+  },
+  {
+    "company": "DYNANIC",
+    "people": [
+      {
+        "first_name": "Lukas",
+        "last_name": "Kekely",
+        "title": "CTO & Co-Founder",
+        "email": "kekely@dyna-nic.com"
+      }
+    ]
+  },
+  {
+    "company": "The Bolden Group",
+    "people": [
+      {
+        "first_name": "Christian",
+        "last_name": "Bolden",
+        "title": "Founder & Principal",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Dnotitia",
+    "people": [
+      {
+        "first_name": "Se-Hyun",
+        "last_name": "Yang",
+        "title": "CTO",
+        "email": "hyun.yang@samsung.com"
+      }
+    ]
+  },
+  {
+    "company": "Amazon AGI Labs",
+    "people": [
+      {
+        "first_name": "Archana",
+        "last_name": "Suregaonkar",
+        "title": "Member of Technical Staff",
+        "email": "surega@amazon.com"
+      }
+    ]
+  },
+  {
+    "company": "Tiiny AI",
+    "people": [
+      {
+        "first_name": "Samar",
+        "last_name": "B",
+        "title": "GTM Director",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "Silicon Catalyst Ventures",
+    "people": [
+      {
+        "first_name": "Laura",
+        "last_name": "Swann",
+        "title": "General Partner",
+        "email": null
+      }
+    ]
+  },
+  {
+    "company": "reFaced",
+    "people": [
+      {
+        "first_name": "Rinzin",
+        "last_name": "Wangmo",
+        "title": "Co-Founder & CEO",
+        "email": null
+      }
+    ]
+  }
+]

@@ -44,6 +44,7 @@ import json
 import os
 import re
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib import request, parse, error
 
@@ -84,6 +85,19 @@ NET_NEW_LEAD_SOURCE = CONFIG["net_new_lead_source"]
 ABM_TIER_FIELD = CONFIG.get("abm_tier_field", "ABM_Tier__c")
 
 AD_HOC_REPORT_ID = CONFIG.get("ad_hoc_report_id")
+
+# Optional: path (relative to repo root) to a static JSON roster of this
+# event's attendees/speakers -- [{ "company": "...", "people": [{"first_name",
+# "last_name", "title", "email"}, ...] }, ...]. When set, this script
+# cross-references that roster against a LIVE, uncapped pull of ALL
+# ABM-tiered Accounts (not just the ones matched to booth-scan Leads) plus
+# their open Opportunities, reproducing a "pre-event tier mapping +
+# opportunity attribution" analysis on every sync run instead of a one-off
+# manual Excel export. The roster itself is static (re-upload a new file and
+# commit it if the attendee list changes) but the tier/opportunity data next
+# to it is refreshed every run. Skipped entirely (non-fatal) if unset or the
+# file is missing, so other events are unaffected.
+ATTENDEE_ROSTER_PATH = CONFIG.get("attendee_roster_path")
 
 OUT_DIR = REPO_ROOT / CONFIG.get("output_dir", "data")
 
@@ -153,6 +167,53 @@ def domain_of(url):
     u = u.split("?")[0].split("#")[0]  # strip query/fragment (belt & suspenders)
     u = u.split(":")[0]                # strip port
     return u or None
+
+
+# --- Company-name normalization for matching a static attendee roster (which
+# has no domain to key off of) against Salesforce Account.Name. Strips
+# punctuation and the most common legal-entity/business-word suffixes so
+# "Acme, Inc." and "Acme" both normalize to "acme". This is inherently
+# fuzzier than the domain-based matching used elsewhere in this script --
+# treat mismatches as a starting point for manual review, not ground truth.
+_COMPANY_SUFFIX_RE = re.compile(
+    r"\b(inc|llc|ltd|corp|corporation|co|company|group|technologies|"
+    r"technology|labs|lab|systems|holdings|international|the)\b"
+)
+
+
+def normalize_company_name(name):
+    if not name:
+        return ""
+    n = name.lower().strip()
+    n = re.sub(r"[.,]", "", n)
+    n = _COMPANY_SUFFIX_RE.sub("", n)
+    n = re.sub(r"\s+", " ", n).strip()
+    return n
+
+
+# --- Lightly groups a handful of known raw Campaign Names into a shared
+# "event family" label, purely for readability in the pre-event Opportunity
+# Attribution view. This is a hand-maintained pattern list, not a Salesforce
+# field -- extend it as new named campaigns show up tied to attending
+# accounts' Opportunities.
+_EVENT_FAMILY_RULES = [
+    (re.compile(r"raise\s*2025", re.I), "RAISE 2025 (Conference)"),
+    (re.compile(r"raise\s*2026", re.I), "RAISE 2026 (Conference)"),
+    (re.compile(r"pytorch\s*2025", re.I), "PyTorch 2025 (Conference)"),
+    (re.compile(r"pytorch\s*2026", re.I), "PyTorch 2026 (Conference)"),
+    (re.compile(r"ai infra summit\s*2025", re.I), "AI Infra Summit 2025 (Conference)"),
+    (re.compile(r"ai infra summit\s*2026", re.I), "AI Infra Summit 2026 (Conference)"),
+    (re.compile(r"webinar", re.I), "Webinar"),
+]
+
+
+def classify_event_family(campaign_name):
+    if not campaign_name:
+        return None
+    for rx, label in _EVENT_FAMILY_RULES:
+        if rx.search(campaign_name):
+            return label
+    return None
 
 
 def classify_lifecycle(status, notes):
@@ -255,6 +316,220 @@ def pull_campaign_leads(instance_url, token, campaign_ids):
             "sfdc_link": f"{instance_url}/lightning/r/Lead/{m.get('LeadId')}/view",
         })
     return out
+
+
+def pull_all_tiered_accounts(instance_url, token, tier_field):
+    """Live, uncapped pull of EVERY Account that has an ABM tier set,
+    regardless of whether it's tied to any booth-scan Lead. Unlike the
+    Salesforce Reports API (capped at 2,000 detail rows per run), a plain
+    SOQL query() paginates via nextRecordsUrl with no such cap, so this sees
+    the full tiered-account universe. Returns [] (non-fatal) if the query
+    fails, e.g. a field name here doesn't exist in this org."""
+    query = f"""
+        SELECT Id, Name, OwnerId, Owner.Name, {tier_field},
+               Industry, GPU_Segment__c, Target_Account__c, ICP_Account__c
+        FROM Account
+        WHERE {tier_field} != null
+    """
+    try:
+        return soql(instance_url, token, query)
+    except error.HTTPError:
+        print("Tiered-account pull failed (non-fatal) -- pre-event analysis will be skipped.",
+              file=sys.stderr)
+        return []
+
+
+def pull_opportunities_for_accounts(instance_url, token, account_ids):
+    """Pull ALL Opportunities (any stage, any owner) for a specific, bounded
+    set of Account Ids -- used for the pre-event tier-mapping analysis so
+    open-opportunity attribution isn't limited to accounts that happen to
+    have a Website populated (unlike the domain-matching Opportunity pull
+    used elsewhere in this script)."""
+    if not account_ids:
+        return []
+    id_list = ",".join(f"'{esc(i)}'" for i in account_ids)
+    query = f"""
+        SELECT Id, Name, AccountId, OwnerId, Owner.Name, Amount, StageName, Type,
+               CloseDate, LeadSource, CampaignId, Campaign.Name,
+               (SELECT Contact.Name, Contact.Title, Contact.Email FROM OpportunityContactRoles)
+        FROM Opportunity
+        WHERE AccountId IN ({id_list})
+    """
+    return soql(instance_url, token, query)
+
+
+def build_pre_event_analysis(instance_url, token, roster_path, tier_field):
+    """Cross-references a static attendee/speaker roster against a live,
+    uncapped pull of ABM-tiered Accounts and their open Opportunities.
+    Reproduces (approximately -- see the inline notes below) the kind of
+    manual "Tier Mapping & Opportunity Attribution" analysis that would
+    otherwise require exporting three separate Salesforce reports and
+    joining them by hand in Excel. Returns None (non-fatal) if the roster
+    file is missing or the tiered-account pull fails."""
+    roster_file = REPO_ROOT / roster_path
+    if not roster_file.exists():
+        print(f"Attendee roster not found at {roster_file} -- skipping pre-event analysis.",
+              file=sys.stderr)
+        return None
+    roster = json.loads(roster_file.read_text())
+
+    accounts = pull_all_tiered_accounts(instance_url, token, tier_field)
+    if not accounts:
+        return None
+
+    accounts_by_norm = {}
+    for a in accounts:
+        norm = normalize_company_name(a.get("Name"))
+        if norm and norm not in accounts_by_norm:  # first tiered account wins on a name collision
+            accounts_by_norm[norm] = a
+
+    matched_accounts = []
+    unmatched_companies = []
+    matched_account_ids = []
+
+    for entry in roster:
+        company = entry.get("company")
+        people = entry.get("people", [])
+        norm = normalize_company_name(company)
+        acct = accounts_by_norm.get(norm)
+        attendees = [
+            {"name": f"{p.get('first_name') or ''} {p.get('last_name') or ''}".strip(),
+             "title": p.get("title")}
+            for p in people
+        ]
+        if acct:
+            matched_account_ids.append(acct["Id"])
+            matched_accounts.append({
+                "tier": acct.get(tier_field) or "Untiered",
+                "company": acct.get("Name"),
+                "account_id": acct["Id"],
+                "owner": (acct.get("Owner") or {}).get("Name"),
+                "gpu_segment": acct.get("GPU_Segment__c"),
+                "industry": acct.get("Industry"),
+                "target_account": bool(acct.get("Target_Account__c")),
+                "icp_account": acct.get("ICP_Account__c"),
+                "attendee_count": len(people),
+                "attendees": attendees,
+                # filled in below once open-opportunity data is joined in
+                "has_open_opportunity": False,
+                "stage": "No Open Opportunity",
+                "amount": None,
+                "best_contact": None,
+                "opp_id": None,
+                "sfdc_link": None,
+            })
+        else:
+            unmatched_companies.append({
+                "company": company,
+                "attendee_count": len(people),
+                "attendees": attendees,
+            })
+
+    # --- Open-opportunity attribution, scoped to just the matched accounts.
+    # "Open" here means: not a Closed Won/Lost stage, Type doesn't look like
+    # a renewal, and Close Date falls in the current calendar year -- a
+    # best-effort reproduction of a typical "open pipeline this year, new
+    # business only" saved-report filter. If your org's actual saved report
+    # (e.g. a "Revenue Intel" style export) uses different filters, treat
+    # this as an approximation and reconcile against that report directly.
+    all_opps = pull_opportunities_for_accounts(instance_url, token, matched_account_ids)
+    current_year = str(datetime.now(timezone.utc).year)
+    open_opps_by_account = {}
+    for o in all_opps:
+        stage = o.get("StageName") or ""
+        if not is_open_stage(stage):
+            continue
+        if "renewal" in (o.get("Type") or "").lower():
+            continue
+        close_date = o.get("CloseDate") or ""
+        if not close_date.startswith(current_year):
+            continue
+        acct_id = o.get("AccountId")
+        if acct_id:
+            open_opps_by_account.setdefault(acct_id, []).append(o)
+
+    tier_breakdown = {}
+    source_attribution = {}
+    opportunity_rows = []
+    total_open_pipeline = 0
+    accounts_with_open_opp = 0
+    opps_tied_to_named_campaign = 0
+
+    for row in matched_accounts:
+        tier = row["tier"]
+        tier_breakdown.setdefault(tier, {"accounts": 0, "accounts_with_opp": 0, "open_pipeline": 0})
+        tier_breakdown[tier]["accounts"] += 1
+
+        acct_opps = open_opps_by_account.get(row["account_id"], [])
+        if acct_opps:
+            accounts_with_open_opp += 1
+            tier_breakdown[tier]["accounts_with_opp"] += 1
+            acct_pipeline = sum(o.get("Amount") or 0 for o in acct_opps)
+            tier_breakdown[tier]["open_pipeline"] += acct_pipeline
+            total_open_pipeline += acct_pipeline
+
+            best_opp = max(acct_opps, key=lambda o: o.get("Amount") or 0)
+            best_contact = None
+            roles = (best_opp.get("OpportunityContactRoles") or {}).get("records", [])
+            if roles:
+                best_contact = (roles[0].get("Contact") or {}).get("Name")
+
+            row.update({
+                "has_open_opportunity": True,
+                "stage": best_opp.get("StageName"),
+                "amount": best_opp.get("Amount"),
+                "best_contact": best_contact,
+                "opp_id": best_opp.get("Id"),
+                "sfdc_link": f"{instance_url}/lightning/r/Opportunity/{best_opp.get('Id')}/view",
+            })
+
+            for o in acct_opps:
+                lead_source = o.get("LeadSource") or "Not Set"
+                source_attribution.setdefault(lead_source, {"opportunities": 0, "pipeline": 0})
+                source_attribution[lead_source]["opportunities"] += 1
+                source_attribution[lead_source]["pipeline"] += o.get("Amount") or 0
+
+                campaign_name = (o.get("Campaign") or {}).get("Name")
+                event_family = classify_event_family(campaign_name)
+                if campaign_name:
+                    opps_tied_to_named_campaign += 1
+
+                opportunity_rows.append({
+                    "account": row["company"],
+                    "tier": tier,
+                    "owner": row["owner"],
+                    "opportunity_name": o.get("Name"),
+                    "stage": o.get("StageName"),
+                    "amount": o.get("Amount"),
+                    "close_date": o.get("CloseDate"),
+                    "lead_source": lead_source,
+                    "primary_campaign_raw": campaign_name,
+                    "event_family": event_family,
+                    "opp_id": o.get("Id"),
+                    "sfdc_link": f"{instance_url}/lightning/r/Opportunity/{o.get('Id')}/view",
+                })
+
+        del row["account_id"]  # internal-only join key, not needed downstream
+
+    matched_accounts.sort(key=lambda a: (a["tier"], -(a["amount"] or 0)))
+    unmatched_companies.sort(key=lambda u: -u["attendee_count"])
+    opportunity_rows.sort(key=lambda o: -(o["amount"] or 0))
+
+    return {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "summary": {
+            "attending_accounts": len(matched_accounts),
+            "unmatched_companies": len(unmatched_companies),
+            "accounts_with_open_opportunity": accounts_with_open_opp,
+            "open_pipeline_total": total_open_pipeline,
+            "opportunities_tied_to_named_campaign": opps_tied_to_named_campaign,
+            "tier_breakdown": tier_breakdown,
+            "source_attribution": source_attribution,
+        },
+        "accounts": matched_accounts,
+        "unmatched_companies": unmatched_companies,
+        "opportunities": opportunity_rows,
+    }
 
 
 def main():
@@ -715,6 +990,19 @@ def main():
             print(f"Wrote raw Report {AD_HOC_REPORT_ID} data to {OUT_DIR}/report_{AD_HOC_REPORT_ID}.json")
         else:
             print(f"Report {AD_HOC_REPORT_ID} fetch failed or unavailable (see stderr above) -- non-fatal.", file=sys.stderr)
+
+    # --- Pre-event tier mapping + opportunity attribution, live-reproduced
+    # from a static attendee roster (see ATTENDEE_ROSTER_PATH docstring
+    # above). Skipped entirely if this event's config doesn't set one.
+    if ATTENDEE_ROSTER_PATH:
+        pre_event = build_pre_event_analysis(instance_url, token, ATTENDEE_ROSTER_PATH, ABM_TIER_FIELD)
+        if pre_event is not None:
+            (OUT_DIR / "pre_event_analysis.json").write_text(json.dumps(pre_event, indent=2))
+            print(f"Wrote pre-event analysis ({pre_event['summary']['attending_accounts']} matched "
+                  f"accounts, {pre_event['summary']['unmatched_companies']} unmatched) to "
+                  f"{OUT_DIR}/pre_event_analysis.json")
+        else:
+            print("Pre-event analysis skipped (see stderr above) -- non-fatal.", file=sys.stderr)
 
 
 if __name__ == "__main__":
