@@ -20,17 +20,25 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run sync script
+      - name: Run Salesforce sync script
         env:
           SF_LOGIN_URL: ${{ secrets.SF_LOGIN_URL }}
           SF_CLIENT_ID: ${{ secrets.SF_CLIENT_ID }}
           SF_CLIENT_SECRET: ${{ secrets.SF_CLIENT_SECRET }}
         run: python scripts/sync_salesforce.py
 
+      - name: Run HubSpot MQA sync script
+        env:
+          HUBSPOT_ACCESS_TOKEN: ${{ secrets.HUBSPOT_ACCESS_TOKEN }}
+          SF_LOGIN_URL: ${{ secrets.SF_LOGIN_URL }}
+          SF_CLIENT_ID: ${{ secrets.SF_CLIENT_ID }}
+          SF_CLIENT_SECRET: ${{ secrets.SF_CLIENT_SECRET }}
+        run: python scripts/sync_hubspot.py
+
       - name: Commit updated data
         run: |
           git config user.name "sfdc-sync-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/
-          git diff --quiet --cached || git commit -m "Sync Salesforce data [automated]"
+          git diff --quiet --cached || git commit -m "Sync Salesforce + HubSpot data [automated]"
           git push
