@@ -1,0 +1,28 @@
+{
+  "event_name": "RAISE 2026",
+  "campaign_ids": [
+    "701TV00000oNI18YAG",
+    "701TV00000o71ibYAA",
+    "701TV00000o6wcTYAQ",
+    "701TV00000sNZu9YAG",
+    "701TV00000sNsqGYAS",
+    "701TV00000sNm8AYAS",
+    "701TV00000siYwYYAU",
+    "701TV00000o7EW5YAM"
+  ],
+  "campaign_ids_comment": "RAISE 2026 Booth Scan + venue-track campaigns (Paris): 3 Booth Scans (07-07/08/09), Machina, HumanX, VIP Access, [Raise26Paris] Panel Attendees (07-09-2026), Raise 2026 Paris (07-09-2026)",
+  "rep_names": ["Sean Coughlin", "Greg Mark", "Abrahem Miya", "Chris Bowen"],
+  "rep_names_comment": "'Abrahem' matches the exact spelling of this Owner.Name in Salesforce",
+  "default_opp_amount": 200000,
+  "qualified_stages": ["In Progress (MQL)", "In Progress (SAL)"],
+  "qualified_stages_comment": "Must match the dashboard's own definition of 'Qualified'",
+  "comparison_campaign_id": "701TV00000SLsriYAD",
+  "comparison_campaign_comment": "RAISE 2025's directly-comparable in-person booth campaign (Booth Visitors | Post-Conf) -- booth-only apples-to-apples comparison, NOT the full RAISE 2025 event",
+  "event_start_date": "2026-07-07",
+  "event_start_date_comment": "Event start date (Paris). Used to distinguish Opportunities genuinely NEW because of this event from pre-existing pipeline that happens to match a booth-scan account by domain",
+  "net_new_lead_source": "RAISE 2026",
+  "net_new_lead_source_comment": "Exact Lead Source value reps tag on Opportunities sourced from this event",
+  "abm_tier_field": "ABM_Tier__c",
+  "ad_hoc_report_id": "00OTV00000RC7fi2AD",
+  "output_dir": "data"
+}

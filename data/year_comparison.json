@@ -1,0 +1,1250 @@
+{
+  "methodology": "Booth-only comparison: RAISE 2025 'Booth Visitors | Post-Conf' campaign vs RAISE 2026's 6 in-person campaigns (3 'Booth Scans' + Machina, HumanX, and VIP Access). Opportunities matched to booth leads by website domain (not CampaignId, which undercounts for both years). Pipegen potential uses a UNIFORM $200,000 per Opportunity for both years (not real Opportunity Amounts), per explicit request, so the two years are compared on the same yardstick.",
+  "raise_2025": {
+    "campaign_id": "701TV00000SLsriYAD",
+    "lead_count": 41,
+    "opportunity_count": 7,
+    "lifecycle_stage_counts": {
+      "In Progress (SAL)": 9,
+      "Unqualified": 20,
+      "In Progress (MQL)": 5,
+      "Nurture": 6,
+      "Remarket": 1
+    },
+    "opp_stage_counts": {
+      "Closed Lost": 5,
+      "00 - Prospecting": 2
+    },
+    "pipegen_potential": 1400000,
+    "real_opportunity_amount_total": 1440000.0,
+    "opportunities": [
+      {
+        "opp_id": "006Kb00000JlkS6IAJ",
+        "owner": "Dan Zheng",
+        "account": "G-Research",
+        "domain": "gresearch.co.uk",
+        "amount": 0.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkS6IAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkSSIAZ",
+        "owner": "Amy Lee",
+        "account": "G-Research",
+        "domain": "gresearch.co.uk",
+        "amount": 90000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Ramesh Ragunathan",
+            "title": "Solutions Architect",
+            "email": "ramesh.ragunathan@gresearch.co.uk"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkSSIAZ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkV3IAJ",
+        "owner": "Kent Kawahara",
+        "account": "G-Research",
+        "domain": "gresearch.co.uk",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkV3IAJ/view"
+      },
+      {
+        "opp_id": "006TV00000G22m5YAB",
+        "owner": "Sean Coughlin",
+        "account": "ByteDance",
+        "domain": "bytedance.com",
+        "amount": 750000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Sophie Xie",
+            "title": "Network Software Development Engineer",
+            "email": "sophie.xie@bytedance.com"
+          },
+          {
+            "name": "Yuanyuan Li",
+            "title": "Network Software Engineer",
+            "email": "yuanyuanli@bytedance.com"
+          },
+          {
+            "name": "Zhaobo Zhang",
+            "title": "GPU & Ai Application Architect",
+            "email": "zhaobo.zhang@bytedance.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000G22m5YAB/view"
+      },
+      {
+        "opp_id": "006TV00000MB0RTYA1",
+        "owner": "Sean Coughlin",
+        "account": "Scaleway",
+        "domain": "scaleway.com",
+        "amount": 200000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Fred Bardolle",
+            "title": "Head of Product, AI",
+            "email": "fbardolle@scaleway.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000MB0RTYA1/view"
+      },
+      {
+        "opp_id": "006TV00000OtANWYA3",
+        "owner": "Abrahem Miya",
+        "account": "Cudo Compute",
+        "domain": "cudocompute.com",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OtANWYA3/view"
+      },
+      {
+        "opp_id": "006TV00000Wz0aAYAR",
+        "owner": "Abrahem Miya",
+        "account": "G-Research",
+        "domain": "gresearch.co.uk",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000Wz0aAYAR/view"
+      }
+    ]
+  },
+  "raise_2026": {
+    "campaign_ids": [
+      "701TV00000oNI18YAG",
+      "701TV00000o71ibYAA",
+      "701TV00000o6wcTYAQ",
+      "701TV00000sNZu9YAG",
+      "701TV00000sNsqGYAS",
+      "701TV00000sNm8AYAS",
+      "701TV00000siYwYYAU",
+      "701TV00000o7EW5YAM"
+    ],
+    "lead_count": 472,
+    "opportunity_count": 59,
+    "lifecycle_stage_counts": {
+      "In Progress (MQL)": 43,
+      "In Progress (MEL)": 129,
+      "In Progress (SAL)": 93,
+      "Marketing Engaged Lead": 204,
+      "Unqualified": 3
+    },
+    "opp_stage_counts": {
+      "Closed Won": 6,
+      "Closed Lost": 32,
+      "02 - Pilot Kick Off": 1,
+      "03 - Technical Validation": 5,
+      "01 - Qualified": 6,
+      "00 - Prospecting": 9
+    },
+    "pipegen_potential": 11800000,
+    "real_opportunity_amount_total": 15160000.0,
+    "opportunities": [
+      {
+        "opp_id": "006Kb00000JlkRdIAJ",
+        "owner": "Dan Zheng",
+        "account": "Nasdaq",
+        "domain": "nasdaq.com",
+        "amount": 400000.0,
+        "stage": "Closed Won",
+        "contacts": [
+          {
+            "name": "Nikolai Larbalestier",
+            "title": "Senior Vice President Cloud Strategy and Enterprise Architecture",
+            "email": "nikolai.larbalestier@nasdaq.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkRdIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkRhIAJ",
+        "owner": "Dan Zheng",
+        "account": "Nasdaq",
+        "domain": "nasdaq.com",
+        "amount": 300000.0,
+        "stage": "Closed Won",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkRhIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkRyIAJ",
+        "owner": "Kent Kawahara",
+        "account": "Microsoft",
+        "domain": "microsoft.com",
+        "amount": 0.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Gavin Freyberg",
+            "title": null,
+            "email": "gavin.freyberg@microsoft.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkRyIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkS0IAJ",
+        "owner": "Dan Zheng",
+        "account": "Deutsche Bank",
+        "domain": "db.com",
+        "amount": 180000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Matthew Bealing",
+            "title": "Technical Project Manager",
+            "email": "matthew.bealing@db.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkS0IAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkS9IAJ",
+        "owner": "Dan Zheng",
+        "account": "Goldman Sachs Group",
+        "domain": "goldmansachs.com",
+        "amount": 500000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Simon Yorke-Wade",
+            "title": null,
+            "email": "simon.yorke-wade@gs.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkS9IAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkSHIAZ",
+        "owner": "Dan Zheng",
+        "account": "Google",
+        "domain": "google.com",
+        "amount": 0.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkSHIAZ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkSIIAZ",
+        "owner": "Dan Zheng",
+        "account": "Nasdaq",
+        "domain": "nasdaq.com",
+        "amount": 100000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkSIIAZ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkSkIAJ",
+        "owner": "Dan Zheng",
+        "account": "Cloudflare",
+        "domain": "cloudflare.com",
+        "amount": 100000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkSkIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkSxIAJ",
+        "owner": "Kent Kawahara",
+        "account": "Microsoft",
+        "domain": "microsoft.com",
+        "amount": 0.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Umesh Madan",
+            "title": null,
+            "email": "umeshma@microsoft.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkSxIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkT5IAJ",
+        "owner": "Dan Zheng",
+        "account": "Gigamon",
+        "domain": "gigamon.com",
+        "amount": 0.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkT5IAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkTAIAZ",
+        "owner": "Dan Zheng",
+        "account": "MongoDB",
+        "domain": "mongodb.com",
+        "amount": 0.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkTAIAZ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkTIIAZ",
+        "owner": "Kent Kawahara",
+        "account": "Google",
+        "domain": "google.com",
+        "amount": 0.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Emma Harris",
+            "title": null,
+            "email": "harris.e@kelleretoro.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkTIIAZ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkTqIAJ",
+        "owner": "Amy Lee",
+        "account": "Uber",
+        "domain": "uber.com",
+        "amount": 1500000.0,
+        "stage": "Closed Won",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkTqIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkUuIAJ",
+        "owner": "Kent Kawahara",
+        "account": "Microsoft",
+        "domain": "microsoft.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkUuIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkUvIAJ",
+        "owner": "Kent Kawahara",
+        "account": "Google",
+        "domain": "google.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkUvIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkUxIAJ",
+        "owner": "Kent Kawahara",
+        "account": "Google",
+        "domain": "google.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkUxIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkUyIAJ",
+        "owner": "Kent Kawahara",
+        "account": "Bank of America",
+        "domain": "bankofamerica.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkUyIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkV1IAJ",
+        "owner": "Kent Kawahara",
+        "account": "Microsoft",
+        "domain": "microsoft.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkV1IAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkVFIAZ",
+        "owner": "Kent Kawahara",
+        "account": "Cisco",
+        "domain": "cisco.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkVFIAZ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkX3IAJ",
+        "owner": "Sean Coughlin",
+        "account": "Cloudflare",
+        "domain": "cloudflare.com",
+        "amount": 250000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkX3IAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkXIIAZ",
+        "owner": "Dan Zheng",
+        "account": "Nvidia",
+        "domain": "nvidia.com",
+        "amount": 250000.0,
+        "stage": "02 - Pilot Kick Off",
+        "contacts": [
+          {
+            "name": "Michael Kagan",
+            "title": "Chief Technology Officer",
+            "email": null
+          },
+          {
+            "name": "Kevin Deierling",
+            "title": "Vice President, Marketing",
+            "email": "kevind@mellanox.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkXIIAZ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlkXcIAJ",
+        "owner": "Dan Zheng",
+        "account": "Nasdaq",
+        "domain": "nasdaq.com",
+        "amount": 250000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkXcIAJ/view"
+      },
+      {
+        "opp_id": "006Kb00000JlmiYIAR",
+        "owner": "Amy Lee",
+        "account": "Cisco",
+        "domain": "cisco.com",
+        "amount": 250000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Joel Jose",
+            "title": "Solutions Engineer",
+            "email": "joeljos@cisco.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlmiYIAR/view"
+      },
+      {
+        "opp_id": "006Kb00000Jln0DIAR",
+        "owner": "Amy Lee",
+        "account": "Fujitsu",
+        "domain": "fujitsu.com",
+        "amount": 250000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Devindra Sharma",
+            "title": "Head of Technical Consulting / Chief Technologist",
+            "email": "devindra.sharma@fujitsu.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000Jln0DIAR/view"
+      },
+      {
+        "opp_id": "006TV000009u2I9YAI",
+        "owner": "Amy Lee",
+        "account": "Uber",
+        "domain": "uber.com",
+        "amount": 1500000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV000009u2I9YAI/view"
+      },
+      {
+        "opp_id": "006TV00000A9g0iYAB",
+        "owner": "Sean Coughlin",
+        "account": "BlackRock",
+        "domain": "blackrock.com",
+        "amount": 275000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Leon Flaksin",
+            "title": "Managing Director, Head of Technology Risk",
+            "email": "leon.flaksin@blackrock.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000A9g0iYAB/view"
+      },
+      {
+        "opp_id": "006TV00000A9g0nYAB",
+        "owner": "Sean Coughlin",
+        "account": "Bank of America",
+        "domain": "bankofamerica.com",
+        "amount": 655000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000A9g0nYAB/view"
+      },
+      {
+        "opp_id": "006TV00000AAYidYAH",
+        "owner": "Sean Coughlin",
+        "account": "MongoDB",
+        "domain": "mongodb.com",
+        "amount": 100000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000AAYidYAH/view"
+      },
+      {
+        "opp_id": "006TV00000CRorRYAT",
+        "owner": "Dan Zheng",
+        "account": "CoreWeave",
+        "domain": "coreweave.com",
+        "amount": 250000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Chen Goldberg",
+            "title": "Executive Vice President of Product & Engineering",
+            "email": "cgoldberg@coreweave.com"
+          },
+          {
+            "name": "Kurt See",
+            "title": "Senior Product Manager, Networking Products",
+            "email": "kcheungmunsee@coreweave.com"
+          },
+          {
+            "name": "Rickhard C.",
+            "title": "Head of HPC Network",
+            "email": null
+          },
+          {
+            "name": "Peter Salanki",
+            "title": "Chief Technology Officer",
+            "email": "peter@coreweave.com"
+          },
+          {
+            "name": "Michael Intrator",
+            "title": "CEO",
+            "email": "mintrator@coreweave.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CRorRYAT/view"
+      },
+      {
+        "opp_id": "006TV00000D6AreYAF",
+        "owner": "Dan Zheng",
+        "account": "Meta",
+        "domain": "meta.com",
+        "amount": 300000.0,
+        "stage": "03 - Technical Validation",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6AreYAF/view"
+      },
+      {
+        "opp_id": "006TV00000D6Zd7YAF",
+        "owner": "Sean Coughlin",
+        "account": "Nebius",
+        "domain": "nebius.com",
+        "amount": 120000.0,
+        "stage": "Closed Won",
+        "contacts": [
+          {
+            "name": "Roman Luchkov",
+            "title": "AI Product Manager",
+            "email": "luchkov@nebius.com"
+          },
+          {
+            "name": "Roman Chernin",
+            "title": "Cofounder & CBO",
+            "email": "rommich@nebius.com"
+          },
+          {
+            "name": "Ivan Bogdanov",
+            "title": "Observability Platform & Devtools Head",
+            "email": "spooner@nebius.com"
+          },
+          {
+            "name": "Narek Tatevosyan",
+            "title": "Product Director",
+            "email": "narek@nebius.com"
+          },
+          {
+            "name": "Danila Shtan",
+            "title": "Chief Technology Officer",
+            "email": "danila@nebius.com"
+          },
+          {
+            "name": "Ilya Strebulaev",
+            "title": "CEO",
+            "email": "istrebulaev@stanford.edu"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6Zd7YAF/view"
+      },
+      {
+        "opp_id": "006TV00000D6aMHYAZ",
+        "owner": "Greg Mark",
+        "account": "Together AI",
+        "domain": "together.ai",
+        "amount": 360000.0,
+        "stage": "Closed Won",
+        "contacts": [
+          {
+            "name": "David Stringer",
+            "title": null,
+            "email": "dstringer@together.ai"
+          },
+          {
+            "name": "Sarthak Agrawal",
+            "title": null,
+            "email": "sagrawal@together.ai"
+          },
+          {
+            "name": "Nik Mitra",
+            "title": null,
+            "email": "nmitra@together.ai"
+          },
+          {
+            "name": "Clark Zinzow",
+            "title": "Senior Staff SWE",
+            "email": "clark@together.ai"
+          },
+          {
+            "name": "Pavneet Ahluwalia",
+            "title": "Product Lead- IaaS",
+            "email": "pahluwalia@together.ai"
+          },
+          {
+            "name": "Vipul Ved Prakash",
+            "title": "CEO",
+            "email": "vipul@fb.com"
+          },
+          {
+            "name": "Paul Porter",
+            "title": "Head of Networking",
+            "email": "paulporter@together.ai"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6aMHYAZ/view"
+      },
+      {
+        "opp_id": "006TV00000Dg090YAB",
+        "owner": "Dan Zheng",
+        "account": "Uber",
+        "domain": "uber.com",
+        "amount": 1000000.0,
+        "stage": "Closed Won",
+        "contacts": [
+          {
+            "name": "Namit Jain",
+            "title": "Senior Director of Engineering",
+            "email": "namit.jain@uber.com"
+          },
+          {
+            "name": "Kamran Zargahi",
+            "title": "Sr. Director of Tech Strategy",
+            "email": null
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000Dg090YAB/view"
+      },
+      {
+        "opp_id": "006TV00000Dg1LDYAZ",
+        "owner": "Greg Mark",
+        "account": "Cirrascale",
+        "domain": "cirrascale.com",
+        "amount": 0.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "PJ Go",
+            "title": "Chief Executive Officer",
+            "email": "pj.go@cirrascale.com"
+          },
+          {
+            "name": "Will Hanau",
+            "title": "Ai Pipeline Software Engineer",
+            "email": "will.hanau@cirrascale.com"
+          },
+          {
+            "name": "David Driggers",
+            "title": "Chief Technology Officer",
+            "email": "dave.driggers@cirrascale.com"
+          },
+          {
+            "name": "Alexander Nataros",
+            "title": "Principal Software Architect",
+            "email": "alex.nataros@cirrascale.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000Dg1LDYAZ/view"
+      },
+      {
+        "opp_id": "006TV00000FBuB7YAL",
+        "owner": "Sean Coughlin",
+        "account": "SuperMicro",
+        "domain": "supermicro.com",
+        "amount": 350000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000FBuB7YAL/view"
+      },
+      {
+        "opp_id": "006TV00000FTNwkYAH",
+        "owner": "Sean Coughlin",
+        "account": "IREN",
+        "domain": "iren.com",
+        "amount": 100000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Denis Skrinnikoff",
+            "title": "CTO",
+            "email": "denis.skrinnikoff@iren.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000FTNwkYAH/view"
+      },
+      {
+        "opp_id": "006TV00000ISyIFYA1",
+        "owner": "Dan Zheng",
+        "account": "AMD",
+        "domain": "amd.com",
+        "amount": 750000.0,
+        "stage": "03 - Technical Validation",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000ISyIFYA1/view"
+      },
+      {
+        "opp_id": "006TV00000IT9OvYAL",
+        "owner": "Dan Zheng",
+        "account": "Cisco",
+        "domain": "cisco.com",
+        "amount": 750000.0,
+        "stage": "03 - Technical Validation",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000IT9OvYAL/view"
+      },
+      {
+        "opp_id": "006TV00000LLYgvYAH",
+        "owner": "Sean Coughlin",
+        "account": "Nvidia",
+        "domain": "nvidia.com",
+        "amount": 200000.0,
+        "stage": "01 - Qualified",
+        "contacts": [
+          {
+            "name": "Joe Arnold",
+            "title": "AI infrastructure DGX Architecture",
+            "email": "josepha@nvidia.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000LLYgvYAH/view"
+      },
+      {
+        "opp_id": "006TV00000MB0RTYA1",
+        "owner": "Sean Coughlin",
+        "account": "Scaleway",
+        "domain": "scaleway.com",
+        "amount": 200000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Fred Bardolle",
+            "title": "Head of Product, AI",
+            "email": "fbardolle@scaleway.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000MB0RTYA1/view"
+      },
+      {
+        "opp_id": "006TV00000Mk6tnYAB",
+        "owner": "Dan Zheng",
+        "account": "Uber",
+        "domain": "uber.com",
+        "amount": 1000000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [
+          {
+            "name": "Cecilia Deng",
+            "title": null,
+            "email": "dcecilia@uber.com"
+          },
+          {
+            "name": "Xinlong Zhang",
+            "title": null,
+            "email": "xinlongz@uber.com"
+          },
+          {
+            "name": "Wen Luo",
+            "title": null,
+            "email": "wenl@uber.com"
+          },
+          {
+            "name": "Shoucong Chen",
+            "title": "Tech Lead / Senior Staff Software Engineer",
+            "email": "shoucong.chen@uber.com"
+          },
+          {
+            "name": "Sandeep Sheshadri",
+            "title": "Director of Engineering",
+            "email": "sandeep.sheshadri@uber.com"
+          },
+          {
+            "name": "Feng Min",
+            "title": "Senior Staff Engineer",
+            "email": "fengm@uber.com"
+          },
+          {
+            "name": "Namit Jain",
+            "title": "Senior Director of Engineering",
+            "email": "namit.jain@uber.com"
+          },
+          {
+            "name": "Kamran Zargahi",
+            "title": "Sr. Director of Tech Strategy",
+            "email": null
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000Mk6tnYAB/view"
+      },
+      {
+        "opp_id": "006TV00000OaNUvYAN",
+        "owner": "Greg Mark",
+        "account": "Equinix",
+        "domain": "equinix.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OaNUvYAN/view"
+      },
+      {
+        "opp_id": "006TV00000OahgYYAR",
+        "owner": "Greg Mark",
+        "account": "Meta",
+        "domain": "meta.com",
+        "amount": null,
+        "stage": "00 - Prospecting",
+        "contacts": [
+          {
+            "name": "Luccabb Luccabb",
+            "title": "Software Engineer",
+            "email": "luccabazzo@gmail.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OahgYYAR/view"
+      },
+      {
+        "opp_id": "006TV00000OtANWYA3",
+        "owner": "Abrahem Miya",
+        "account": "Cudo Compute",
+        "domain": "cudocompute.com",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OtANWYA3/view"
+      },
+      {
+        "opp_id": "006TV00000OtKGRYA3",
+        "owner": "Greg Mark",
+        "account": "Cisco",
+        "domain": "cisco.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "samir parkikh",
+            "title": "product managmen exec",
+            "email": "saparikh@cisco.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OtKGRYA3/view"
+      },
+      {
+        "opp_id": "006TV00000RPlsHYAT",
+        "owner": "Sean Coughlin",
+        "account": "Nebius",
+        "domain": "nebius.com",
+        "amount": 120000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [
+          {
+            "name": "Keyvan Hedayati",
+            "title": null,
+            "email": "keyvan@nebius.com"
+          },
+          {
+            "name": "Ivan Bludov",
+            "title": null,
+            "email": "ivan.bludov@nebius.com"
+          },
+          {
+            "name": "Mikhail Mokrushin",
+            "title": "Development Team Lead",
+            "email": "rodrijjke@nebius.com"
+          },
+          {
+            "name": "Roman Luchkov",
+            "title": "AI Product Manager",
+            "email": "luchkov@nebius.com"
+          },
+          {
+            "name": "Roman Chernin",
+            "title": "Cofounder & CBO",
+            "email": "rommich@nebius.com"
+          },
+          {
+            "name": "Narek Tatevosyan",
+            "title": "Product Director",
+            "email": "narek@nebius.com"
+          },
+          {
+            "name": "Ivan Bogdanov",
+            "title": "Observability Platform & Devtools Head",
+            "email": "spooner@nebius.com"
+          },
+          {
+            "name": "Danila Shtan",
+            "title": "Chief Technology Officer",
+            "email": "danila@nebius.com"
+          },
+          {
+            "name": "Ilya Strebulaev",
+            "title": "CEO",
+            "email": "istrebulaev@stanford.edu"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000RPlsHYAT/view"
+      },
+      {
+        "opp_id": "006TV00000SESQvYAP",
+        "owner": "Greg Mark",
+        "account": "Synopsys",
+        "domain": "synopsys.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SESQvYAP/view"
+      },
+      {
+        "opp_id": "006TV00000SnzDVYAZ",
+        "owner": "Greg Mark",
+        "account": "Microsoft",
+        "domain": "microsoft.com",
+        "amount": 300000.0,
+        "stage": "03 - Technical Validation",
+        "contacts": [
+          {
+            "name": "Deepak Bansal",
+            "title": "General Manager and Corporate Vice President",
+            "email": "dbansal@microsoft.com"
+          },
+          {
+            "name": "Chandan Aggarwal",
+            "title": "Partner Group Engineering Manager, Azure Core",
+            "email": "chandan.aggarwal@microsoft.com"
+          },
+          {
+            "name": "Mathew Merrick",
+            "title": null,
+            "email": "mathew.merrick@microsoft.com"
+          },
+          {
+            "name": "Marina Gonzalez",
+            "title": "Sr Software Engineer",
+            "email": "marina.gonzalez@wayve.ai"
+          },
+          {
+            "name": "Ashvin Deodhar",
+            "title": "Principal Software Engineer",
+            "email": "ashvin.deodhar@microsoft.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SnzDVYAZ/view"
+      },
+      {
+        "opp_id": "006TV00000U4duMYAR",
+        "owner": "Sean Coughlin",
+        "account": "CoreWeave",
+        "domain": "coreweave.com",
+        "amount": 550000.0,
+        "stage": "03 - Technical Validation",
+        "contacts": [
+          {
+            "name": "Tara Madhyastha",
+            "title": "Senior Solutions Architect",
+            "email": "tmadhyastha@coreweave.com"
+          },
+          {
+            "name": "Andreas Lundin",
+            "title": null,
+            "email": "alundin@coreweave.com"
+          },
+          {
+            "name": "Liang Yan",
+            "title": null,
+            "email": "lyan@coreweave.com"
+          },
+          {
+            "name": "Christopher Fregly",
+            "title": null,
+            "email": "cfregly@coreweave.com"
+          },
+          {
+            "name": "Suchit Bansal",
+            "title": null,
+            "email": "sbansal@coreweave.com"
+          },
+          {
+            "name": "Anton Gunnarsson",
+            "title": null,
+            "email": "agunnarsson@coreweave.com"
+          },
+          {
+            "name": "Rickhard C.",
+            "title": "Head of HPC Network",
+            "email": null
+          },
+          {
+            "name": "Peter Salanki",
+            "title": "Chief Technology Officer",
+            "email": "peter@coreweave.com"
+          },
+          {
+            "name": "Chen Goldberg",
+            "title": "Executive Vice President of Product & Engineering",
+            "email": "cgoldberg@coreweave.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000U4duMYAR/view"
+      },
+      {
+        "opp_id": "006TV00000WyvdjYAB",
+        "owner": "Sean Coughlin",
+        "account": "Runway AI",
+        "domain": "runwayml.com",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000WyvdjYAB/view"
+      },
+      {
+        "opp_id": "006TV00000Wz6VtYAJ",
+        "owner": "Sean Coughlin",
+        "account": "Modal Labs",
+        "domain": "modal.com",
+        "amount": 150000.0,
+        "stage": "01 - Qualified",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000Wz6VtYAJ/view"
+      },
+      {
+        "opp_id": "006TV00000Wz7RxYAJ",
+        "owner": "Sean Coughlin",
+        "account": "Nebius",
+        "domain": "nebius.com",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000Wz7RxYAJ/view"
+      },
+      {
+        "opp_id": "006TV00000YfSJJYA3",
+        "owner": "Sean Coughlin",
+        "account": "Nebius",
+        "domain": "nebius.com",
+        "amount": 150000.0,
+        "stage": "01 - Qualified",
+        "contacts": [
+          {
+            "name": "Narek Tatevosyan",
+            "title": "Product Director",
+            "email": "narek@nebius.com"
+          },
+          {
+            "name": "Evgenii Zubairov",
+            "title": null,
+            "email": "evgenii.zubairov@nebius.com"
+          },
+          {
+            "name": "Aleksandr Breger",
+            "title": null,
+            "email": "avbr@nebius.com"
+          },
+          {
+            "name": "Keyvan Hedayati",
+            "title": null,
+            "email": "keyvan@nebius.com"
+          },
+          {
+            "name": "Ivan Bludov",
+            "title": null,
+            "email": "ivan.bludov@nebius.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000YfSJJYA3/view"
+      },
+      {
+        "opp_id": "006TV00000akBztYAE",
+        "owner": "Chris Bowen",
+        "account": "Siemens",
+        "domain": "siemens.com",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000akBztYAE/view"
+      },
+      {
+        "opp_id": "006TV00000bo5jxYAA",
+        "owner": "Greg Mark",
+        "account": "IREN",
+        "domain": "iren.com",
+        "amount": 150000.0,
+        "stage": "01 - Qualified",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000bo5jxYAA/view"
+      },
+      {
+        "opp_id": "006TV00000dP7vtYAC",
+        "owner": "Abrahem Miya",
+        "account": "NexGen Cloud",
+        "domain": "nexgencloud.com",
+        "amount": 150000.0,
+        "stage": "01 - Qualified",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000dP7vtYAC/view"
+      },
+      {
+        "opp_id": "006TV00000dR3t3YAC",
+        "owner": "Abrahem Miya",
+        "account": "Cassava",
+        "domain": "cassavatechnologies.com",
+        "amount": 150000.0,
+        "stage": "01 - Qualified",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000dR3t3YAC/view"
+      },
+      {
+        "opp_id": "006TV00000dWYxmYAG",
+        "owner": "Greg Mark",
+        "account": "Microsoft",
+        "domain": "microsoft.com",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000dWYxmYAG/view"
+      },
+      {
+        "opp_id": "006TV00000dWlAEYA0",
+        "owner": "Greg Mark",
+        "account": "Together AI",
+        "domain": "together.ai",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000dWlAEYA0/view"
+      }
+    ]
+  },
+  "overlap": {
+    "overlapping_lead_emails": [
+      "manuel.botija@axelera.ai"
+    ],
+    "overlapping_leads_2025": [
+      {
+        "campaign": "Booth Visitors | Post-Conf | RAISE 2025",
+        "member_status": "Visited Booth",
+        "lead_id": "00QTV00000M4AzR2AV",
+        "owner": "Joe Tarantino",
+        "company": "Axelera AI",
+        "website": "http://axelera.ai",
+        "domain": "axelera.ai",
+        "first_name": "Manuel",
+        "last_name": "Botija Rodenas",
+        "title": "VP - Product Management",
+        "email": "manuel.botija@axelera.ai",
+        "mobile": "33688751975",
+        "linkedin_url": "https://www.linkedin.com/in/manubotija",
+        "lead_source": "Event",
+        "notes": null,
+        "lifecycle_stage": "In Progress (MQL)",
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Lead/00QTV00000M4AzR2AV/view",
+        "company_already_engaged": "Yes"
+      }
+    ],
+    "overlapping_leads_2026": [
+      {
+        "campaign": "[Raise26Paris] Panel Attendees | 07-09-2026",
+        "member_status": "Attendee",
+        "lead_id": "00QTV00000M4AzR2AV",
+        "owner": "Joe Tarantino",
+        "company": "Axelera AI",
+        "website": "http://axelera.ai",
+        "domain": "axelera.ai",
+        "first_name": "Manuel",
+        "last_name": "Botija Rodenas",
+        "title": "VP - Product Management",
+        "email": "manuel.botija@axelera.ai",
+        "mobile": "33688751975",
+        "linkedin_url": "https://www.linkedin.com/in/manubotija",
+        "lead_source": "Event",
+        "notes": null,
+        "lifecycle_stage": "In Progress (MQL)",
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Lead/00QTV00000M4AzR2AV/view",
+        "company_already_engaged": "Yes"
+      }
+    ],
+    "overlapping_companies": [
+      "axelera.ai",
+      "cudocompute.com",
+      "scaleway.com",
+      "sgdl.com"
+    ],
+    "overlapping_opportunities_2025": [
+      {
+        "opp_id": "006TV00000MB0RTYA1",
+        "owner": "Sean Coughlin",
+        "account": "Scaleway",
+        "domain": "scaleway.com",
+        "amount": 200000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Fred Bardolle",
+            "title": "Head of Product, AI",
+            "email": "fbardolle@scaleway.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000MB0RTYA1/view"
+      },
+      {
+        "opp_id": "006TV00000OtANWYA3",
+        "owner": "Abrahem Miya",
+        "account": "Cudo Compute",
+        "domain": "cudocompute.com",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OtANWYA3/view"
+      }
+    ],
+    "overlapping_opportunities_2026": [
+      {
+        "opp_id": "006TV00000MB0RTYA1",
+        "owner": "Sean Coughlin",
+        "account": "Scaleway",
+        "domain": "scaleway.com",
+        "amount": 200000.0,
+        "stage": "Closed Lost"
+      },
+      {
+        "opp_id": "006TV00000OtANWYA3",
+        "owner": "Abrahem Miya",
+        "account": "Cudo Compute",
+        "domain": "cudocompute.com",
+        "amount": 200000.0,
+        "stage": "00 - Prospecting"
+      }
+    ]
+  }
+}
