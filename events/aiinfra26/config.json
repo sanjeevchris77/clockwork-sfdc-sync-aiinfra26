@@ -14,7 +14,7 @@
   "net_new_lead_source": "AI Infra Summit 2026 Santa Clara",
   "net_new_lead_source_comment": "Exact Lead Source value reps tag on Opportunities sourced from this event",
   "abm_tier_field": "ABM_Tier__c",
-  "ad_hoc_report_id": "00OTV00000RZK4O2AX",
-  "ad_hoc_report_id_comment": "AI Infra Summit 2025 comparison report (replaces the earlier RAISE placeholder). Raw Reports API shape is unknown until synced — inspect data/report_00OTV00000RZK4O2AX.json once the workflow runs before assuming its structure.",
+  "ad_hoc_report_id": "00OTV00000SAiyv2AD",
+  "ad_hoc_report_id_comment": "ABM tier report, used to cross-reference the AI Infra Summit attendee/speaker list against Salesforce ABM tiers. The prior AI Infra Summit 2025 comparison report (00OTV00000RZK4O2AX) stays saved at data/report_00OTV00000RZK4O2AX.json and won't be lost — it just won't be re-fetched going forward since that 2025 snapshot is frozen historical data anyway.",
   "output_dir": "data"
 }
