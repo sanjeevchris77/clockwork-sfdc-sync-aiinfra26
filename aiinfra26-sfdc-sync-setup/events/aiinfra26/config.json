@@ -1,0 +1,20 @@
+{
+  "event_name": "AI Infra Summit 2026",
+  "campaign_ids": ["701TV00000tqRm2YAE"],
+  "campaign_ids_comment": "AI Infra Summit 2026 (Santa Clara) — single tracked campaign; add more IDs here if additional sub-campaigns (booth scans, sales leads, etc.) get created in Salesforce",
+  "rep_names": ["Sean Coughlin", "Greg Mark", "Abrahem Miya", "Chris Bowen"],
+  "rep_names_comment": "Reused from RAISE 2026 per direction — 'Abrahem' matches the exact spelling of this Owner.Name in Salesforce",
+  "default_opp_amount": 200000,
+  "qualified_stages": ["In Progress (MQL)", "In Progress (SAL)"],
+  "qualified_stages_comment": "Must match the dashboard's own definition of 'Qualified' — reused from RAISE 2026",
+  "comparison_campaign_id": "",
+  "comparison_campaign_comment": "No prior AI Infra Summit event was hosted — YoY comparison intentionally disabled. Left as an empty string rather than omitted, since scripts/sync_salesforce.py reads this key directly (CONFIG[\"comparison_campaign_id\"]) and would raise a KeyError if it were missing entirely. An empty string produces a harmless zero-result comparison query.",
+  "event_start_date": "2026-09-15",
+  "event_start_date_comment": "AI Infra Summit 2026 event date (Santa Clara). Used to distinguish Opportunities genuinely NEW because of this event from pre-existing pipeline that happens to match a booth-scan account by domain",
+  "net_new_lead_source": "AI Infra Summit 2026 Santa Clara",
+  "net_new_lead_source_comment": "Exact Lead Source value reps tag on Opportunities sourced from this event",
+  "abm_tier_field": "ABM_Tier__c",
+  "ad_hoc_report_id": "00OTV00000RC7fi2AD",
+  "ad_hoc_report_id_comment": "Reused from RAISE 2026 per direction — this report was originally built for RAISE's own pipeline lookups, so double-check it's actually the right/accessible report before trusting its output for AI Infra Summit.",
+  "output_dir": "data"
+}
