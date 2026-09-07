@@ -99,6 +99,13 @@ AD_HOC_REPORT_ID = CONFIG.get("ad_hoc_report_id")
 # file is missing, so other events are unaffected.
 ATTENDEE_ROSTER_PATH = CONFIG.get("attendee_roster_path")
 
+# Org's Lightning "My Domain" base URL, used to build Account-level record
+# links for the pre-event tier mapping table (Opportunity/Lead links elsewhere
+# in this script already use instance_url from the OAuth response, which
+# points at the *.my.salesforce.com host -- functionally equivalent, but this
+# constant matches the exact Lightning domain requested for Account links).
+SFDC_LIGHTNING_DOMAIN = CONFIG.get("sfdc_lightning_domain", "https://clockworksystems.lightning.force.com")
+
 OUT_DIR = REPO_ROOT / CONFIG.get("output_dir", "data")
 
 
@@ -403,6 +410,7 @@ def build_pre_event_analysis(instance_url, token, roster_path, tier_field):
                 "tier": acct.get(tier_field) or "Untiered",
                 "company": acct.get("Name"),
                 "account_id": acct["Id"],
+                "account_sfdc_link": f"{SFDC_LIGHTNING_DOMAIN}/lightning/r/Account/{acct['Id']}/view",
                 "owner": (acct.get("Owner") or {}).get("Name"),
                 "gpu_segment": acct.get("GPU_Segment__c"),
                 "industry": acct.get("Industry"),
