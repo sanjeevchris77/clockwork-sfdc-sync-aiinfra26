@@ -27,6 +27,19 @@ Why "MQA" is computed this way (per direction from the dashboard owner):
     exact same domain-matching technique sync_salesforce.py already uses
     throughout for Lead/Opportunity/Account matching.
 
+Why there's no per-contact "activity trail" here: a live check of this
+portal found that ~98% of MQL+ contacts have hs_analytics_source = OFFLINE
+and zero form conversions -- meaning qualification here comes from bulk
+CRM sync/import criteria, not tracked marketing engagement (page views,
+form fills, email clicks). Building a rich activity feed from that data
+would mostly be empty and misleading. Instead, this script surfaces the two
+signals that ARE reliably populated for the account's best (highest-stage)
+contact: the date it entered its current qualifying stage
+(hs_v2_date_entered_marketingqualifiedlead, "qualified_since") and the most
+recent logged activity of any kind (notes_last_updated, "last_activity_date")
+-- an honest proxy for "is anyone actually engaging with this account,"
+not a marketing-attribution story.
+
 Required env vars:
   HUBSPOT_ACCESS_TOKEN   Private App access token, scoped to read
                           crm.objects.contacts and crm.objects.companies.
@@ -126,6 +139,17 @@ def lifecycle_label(stage):
     return LIFECYCLE_LABEL.get((stage or "").lower(), stage or "(none)")
 
 
+def hs_ms_to_iso(ms_str):
+    """HubSpot timestamp properties come back as a string of milliseconds
+    since epoch. Returns an ISO 8601 string, or None if unset/unparseable."""
+    if not ms_str:
+        return None
+    try:
+        return datetime.fromtimestamp(int(ms_str) / 1000, tz=timezone.utc).isoformat()
+    except (ValueError, TypeError):
+        return None
+
+
 # ---------------------------------------------------------------------------
 # Salesforce helpers (duplicated from sync_salesforce.py -- see module
 # docstring for why this script stays standalone).
@@ -211,21 +235,27 @@ def hubspot_request(path, method="GET", body=None, max_retries=4):
     raise RuntimeError(f"HubSpot request exhausted retries: {method} {path}")
 
 
+CONTACT_PROPERTIES = ["lifecyclestage", "firstname", "lastname", "jobtitle", "email",
+                       "hs_v2_date_entered_marketingqualifiedlead", "notes_last_updated"]
+
+
 def pull_contacts_with_company_associations():
-    """Paginates ALL Contacts, pulling lifecyclestage + associated Company
-    ids. This is the expensive direction (potentially many pages for a large
-    portal) but it's the only reliable way to compute a per-company MAX
-    lifecycle stage without a native rollup field -- runs on a schedule, not
-    in the request path of anything user-facing, so pagination cost is
-    acceptable. Returns a dict: {company_id: [contact_lifecyclestage, ...]}."""
-    company_stages = {}
+    """Paginates ALL Contacts, pulling lifecyclestage plus a handful of
+    identity/activity properties, and their associated Company ids. This is
+    the expensive direction (potentially many pages for a large portal) but
+    it's the only reliable way to compute a per-company MAX lifecycle stage
+    without a native rollup field -- runs on a schedule, not in the request
+    path of anything user-facing, so pagination cost is acceptable.
+    Returns a dict: {company_id: [contact_dict, ...]}, where each
+    contact_dict has stage/name/title/email/mql_date_ms/last_activity_ms."""
+    company_contacts = {}
     after = None
     page = 0
     while True:
         page += 1
         qs = {
             "limit": "100",
-            "properties": "lifecyclestage",
+            "properties": ",".join(CONTACT_PROPERTIES),
             "associations": "companies",
         }
         if after:
@@ -233,19 +263,27 @@ def pull_contacts_with_company_associations():
         path = f"/crm/v3/objects/contacts?{parse.urlencode(qs)}"
         data = hubspot_request(path)
         for contact in data.get("results", []):
-            stage = (contact.get("properties") or {}).get("lifecyclestage")
+            props = contact.get("properties") or {}
+            info = {
+                "stage": props.get("lifecyclestage"),
+                "name": f"{props.get('firstname') or ''} {props.get('lastname') or ''}".strip() or None,
+                "title": props.get("jobtitle"),
+                "email": props.get("email"),
+                "mql_date_ms": props.get("hs_v2_date_entered_marketingqualifiedlead"),
+                "last_activity_ms": props.get("notes_last_updated"),
+            }
             company_ids = [
                 r["id"] for r in
                 ((contact.get("associations") or {}).get("companies") or {}).get("results", [])
             ]
             for cid in company_ids:
-                company_stages.setdefault(cid, []).append(stage)
+                company_contacts.setdefault(cid, []).append(info)
         print(f"  contacts page {page}: {len(data.get('results', []))} contacts, "
-              f"{len(company_stages)} distinct companies seen so far", file=sys.stderr)
+              f"{len(company_contacts)} distinct companies seen so far", file=sys.stderr)
         after = (data.get("paging") or {}).get("next", {}).get("after")
         if not after:
             break
-    return company_stages
+    return company_contacts
 
 
 def pull_companies_by_id(company_ids):
@@ -266,12 +304,12 @@ def pull_companies_by_id(company_ids):
 
 
 def build_hubspot_mqa(sf_instance_url, sf_token):
-    company_stages = pull_contacts_with_company_associations()
-    if not company_stages:
+    company_contacts = pull_contacts_with_company_associations()
+    if not company_contacts:
         print("No Contact-to-Company associations found -- nothing to roll up.", file=sys.stderr)
         return None
 
-    companies_props = pull_companies_by_id(company_stages.keys())
+    companies_props = pull_companies_by_id(company_contacts.keys())
 
     # --- Salesforce side of the join: all ABM-tiered Accounts with a
     # Website, keyed by domain (same technique as sync_salesforce.py).
@@ -283,11 +321,18 @@ def build_hubspot_mqa(sf_instance_url, sf_token):
             sf_by_domain[d] = a
 
     rows = []
-    for company_id, stages in company_stages.items():
+    for company_id, contacts in company_contacts.items():
         props = companies_props.get(company_id, {})
-        ranks = [lifecycle_rank(s) for s in stages]
+        ranks = [lifecycle_rank(c["stage"]) for c in contacts]
         best_rank = max(ranks) if ranks else -1
-        best_stage = stages[ranks.index(best_rank)] if ranks else None
+        # Best contact = highest-ranked; tie-break on most recently entering
+        # that stage (a later mql_date_ms wins), so "best_contact" points at
+        # whichever real person most recently drove the qualification.
+        best_idx = max(
+            range(len(contacts)),
+            key=lambda i: (ranks[i], contacts[i].get("mql_date_ms") or "0"),
+        ) if contacts else None
+        best = contacts[best_idx] if best_idx is not None else {}
         mql_plus_count = sum(1 for r in ranks if r >= MQA_RANK_THRESHOLD)
 
         domain = domain_of(props.get("domain"))
@@ -301,10 +346,15 @@ def build_hubspot_mqa(sf_instance_url, sf_token):
             "hubspot_abm_tier": props.get("abm_tier"),
             "hubspot_icp_account": props.get("icp_account"),
             "hubspot_target_account": props.get("hs_is_target_account"),
-            "contact_count": len(stages),
-            "highest_lifecyclestage": lifecycle_label(best_stage),
+            "contact_count": len(contacts),
+            "highest_lifecyclestage": lifecycle_label(best.get("stage")),
             "mql_plus_contact_count": mql_plus_count,
             "is_mqa": best_rank >= MQA_RANK_THRESHOLD,
+            "best_contact_name": best.get("name"),
+            "best_contact_title": best.get("title"),
+            "best_contact_email": best.get("email"),
+            "qualified_since": hs_ms_to_iso(best.get("mql_date_ms")),
+            "last_activity_date": hs_ms_to_iso(best.get("last_activity_ms")),
             "sfdc_matched": sf_acct is not None,
             "sfdc_account_id": sf_acct["Id"] if sf_acct else None,
             "sfdc_tier": (sf_acct.get(ABM_TIER_FIELD) if sf_acct else None) or ("Untiered" if sf_acct else None),
@@ -333,7 +383,18 @@ def build_hubspot_mqa(sf_instance_url, sf_token):
             "to Salesforce Accounts by domain (Company.domain <-> "
             "Account.Website), the same technique used elsewhere in this "
             "pipeline -- accounts with no Website or no domain match show as "
-            "'Not Matched to Salesforce'."
+            "'Not Matched to Salesforce'. 'best_contact' fields identify the "
+            "single contact whose stage drove the MQA status (highest stage, "
+            "ties broken by most recently qualified). 'qualified_since' is "
+            "when that contact entered its current stage; 'last_activity_date' "
+            "is the most recent logged activity of any kind on that contact. "
+            "Note: a live check of this portal found ~98% of MQL+ contacts "
+            "have no tracked marketing engagement (no form conversions, "
+            "hs_analytics_source = OFFLINE) -- qualification here comes "
+            "predominantly from bulk CRM sync/import criteria, not organic "
+            "funnel activity, so these two fields are the closest reliable "
+            "'is anyone engaging with this account' signal available, not a "
+            "marketing-attribution trail."
         ),
         "summary": {
             "companies_with_contacts": len(rows),
