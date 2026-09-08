@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T01:35:24.556728+00:00",
+  "generated_at": "2026-09-08T10:09:18.464121+00:00",
   "methodology": "A Company is a Marketing Qualified Account (MQA) once at least one associated Contact has reached HubSpot lifecyclestage 'Marketing Qualified Lead' or later (Sales Accepted Lead, SQL, Opportunity, Customer) -- this portal has no native numeric lead-scoring field, so the lifecycle-stage funnel IS the scoring methodology. Matched to Salesforce Accounts by domain (Company.domain <-> Account.Website), the same technique used elsewhere in this pipeline -- accounts with no Website or no domain match show as 'Not Matched to Salesforce'.",
   "summary": {
     "companies_with_contacts": 2216,
