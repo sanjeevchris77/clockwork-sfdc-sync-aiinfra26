@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-08T14:23:13.476871+00:00",
+  "generated_at": "2026-09-08T15:26:50.073976+00:00",
   "methodology": "A Company is a Marketing Qualified Account (MQA) once at least one associated Contact has reached HubSpot lifecyclestage 'Marketing Qualified Lead' or later (Sales Accepted Lead, SQL, Opportunity, Customer) -- this portal has no native numeric lead-scoring field, so the lifecycle-stage funnel IS the scoring methodology. Matched to Salesforce Accounts by domain (Company.domain <-> Account.Website), the same technique used elsewhere in this pipeline -- accounts with no Website or no domain match show as 'Not Matched to Salesforce'. 'best_contact' fields identify the single contact whose stage drove the MQA status (highest stage, ties broken by most recently qualified). 'qualified_since' is when that contact entered its current stage; 'last_activity_date' is the most recent logged activity of any kind on that contact. Note: a live check of this portal found ~98% of MQL+ contacts have no tracked marketing engagement (no form conversions, hs_analytics_source = OFFLINE) -- qualification here comes predominantly from bulk CRM sync/import criteria, not organic funnel activity, so these two fields are the closest reliable 'is anyone engaging with this account' signal available, not a marketing-attribution trail.",
   "summary": {
-    "companies_with_contacts": 2216,
-    "mqa_count": 1335,
-    "sfdc_matched_count": 1788,
-    "sfdc_matched_mqa_count": 1201,
+    "companies_with_contacts": 2217,
+    "mqa_count": 1336,
+    "sfdc_matched_count": 1789,
+    "sfdc_matched_mqa_count": 1202,
     "tier_breakdown": {
       "Tier 1": 358,
       "Tier 2": 364,
       "Tier 3": 353,
       "Not Matched to Salesforce": 134,
-      "Tier 4": 126
+      "Tier 4": 127
     }
   },
   "companies": [
@@ -30512,6 +30512,29 @@
       "sfdc_tier": null,
       "sfdc_owner": null,
       "account_sfdc_link": null
+    },
+    {
+      "hubspot_company_id": "344983981817",
+      "name": "Lila Sciences",
+      "domain": "lila.ai",
+      "industry": "Life Sciences",
+      "hubspot_abm_tier": "Tier 4",
+      "hubspot_icp_account": null,
+      "hubspot_target_account": null,
+      "contact_count": 2,
+      "highest_lifecyclestage": "Opportunity",
+      "mql_plus_contact_count": 2,
+      "is_mqa": true,
+      "best_contact_name": "Tyler Titsworth",
+      "best_contact_title": "AI Platform Lead",
+      "best_contact_email": "ttitsworth@lila.ai",
+      "qualified_since": null,
+      "last_activity_date": null,
+      "sfdc_matched": true,
+      "sfdc_account_id": "001TV00000w0KPRYA2",
+      "sfdc_tier": "Tier 4",
+      "sfdc_owner": "Abhijeet Bhanoori",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000w0KPRYA2/view"
     },
     {
       "hubspot_company_id": "61373845208",

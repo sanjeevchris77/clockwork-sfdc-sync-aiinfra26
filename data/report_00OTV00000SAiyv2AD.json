@@ -129760,9 +129760,9 @@
               "value": null
             },
             {
-              "label": "9/6/2026",
+              "label": "9/8/2026",
               "recordId": "001Kb00001GwpvLIAR",
-              "value": "2026-09-06"
+              "value": "2026-09-08"
             },
             {
               "label": "false",
@@ -158063,20 +158063,20 @@
     "T!T": {
       "aggregates": [
         {
-          "label": "100",
-          "value": 100.0
+          "label": "101",
+          "value": 101.0
         },
         {
-          "label": "71,364",
-          "value": 71364.0
+          "label": "71,389",
+          "value": 71389.0
         },
         {
           "label": "348",
           "value": 348.0
         },
         {
-          "label": "1.9%",
-          "value": 1.9
+          "label": "2.0%",
+          "value": 2.0
         },
         {
           "label": "5,173",
