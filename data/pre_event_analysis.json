@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T20:50:44.236850+00:00",
+  "generated_at": "2026-09-08T01:34:29.903504+00:00",
   "summary": {
-    "attending_accounts": 97,
-    "unmatched_companies": 112,
+    "attending_accounts": 98,
+    "unmatched_companies": 111,
     "accounts_with_open_opportunity": 15,
     "open_pipeline_total": 2791451.0,
     "opportunities_tied_to_named_campaign": 4,
@@ -23,7 +23,7 @@
         "open_pipeline": 200000.0
       },
       "Tier 4": {
-        "accounts": 11,
+        "accounts": 12,
         "accounts_with_opp": 0,
         "open_pipeline": 0
       }
@@ -2490,6 +2490,29 @@
     },
     {
       "tier": "Tier 4",
+      "company": "Physical Intelligence",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000w0KPXYA2/view",
+      "owner": "Abhijeet Bhanoori",
+      "gpu_segment": null,
+      "industry": "Technology",
+      "target_account": false,
+      "icp_account": null,
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Karan Dhabalia",
+          "title": "Roboticist"
+        }
+      ],
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
+      "amount": null,
+      "best_contact": null,
+      "opp_id": null,
+      "sfdc_link": null
+    },
+    {
+      "tier": "Tier 4",
       "company": "Micron Technology",
       "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001Kb00001Gwpx9IAB/view",
       "owner": "Greg Mark",
@@ -3368,16 +3391,6 @@
         {
           "name": "Pedro Milcent",
           "title": "Co-Founder & CEO"
-        }
-      ]
-    },
-    {
-      "company": "Physical Intelligence",
-      "attendee_count": 1,
-      "attendees": [
-        {
-          "name": "Karan Dhabalia",
-          "title": "Roboticist"
         }
       ]
     },

@@ -27,8 +27,8 @@
           "value": 1.8
         },
         {
-          "label": "1,628",
-          "value": 1628
+          "label": "1,630",
+          "value": 1630
         }
       ],
       "rows": [
@@ -126663,9 +126663,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vANHCYA4",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -126742,9 +126742,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAO0NYAW",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -126821,9 +126821,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vARMQYA4",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -126900,9 +126900,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAWaXYAW",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -126979,9 +126979,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAhcQYAS",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127058,9 +127058,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAt7HYAS",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127137,9 +127137,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAuHtYAK",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127216,9 +127216,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAuzPYAS",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127295,9 +127295,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAv7VYAS",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127374,9 +127374,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAxZ7YAK",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127453,9 +127453,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vAzUVYA0",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127532,9 +127532,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB1OAYA0",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127586,9 +127586,9 @@
               "value": 0
             },
             {
-              "label": "Tier 2",
+              "label": "Tier 4",
               "recordId": "001TV00000vB2SJYA0",
-              "value": "Tier 2"
+              "value": "Tier 4"
             },
             {
               "label": "0",
@@ -127611,9 +127611,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB2SJYA0",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127665,9 +127665,9 @@
               "value": 0
             },
             {
-              "label": "Tier 2",
+              "label": "Tier 4",
               "recordId": "001TV00000vB3csYAC",
-              "value": "Tier 2"
+              "value": "Tier 4"
             },
             {
               "label": "0",
@@ -127690,9 +127690,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB3csYAC",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127744,9 +127744,9 @@
               "value": 0
             },
             {
-              "label": "Tier 2",
+              "label": "Tier 4",
               "recordId": "001TV00000vB5mkYAC",
-              "value": "Tier 2"
+              "value": "Tier 4"
             },
             {
               "label": "0",
@@ -127769,9 +127769,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB5mkYAC",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127848,9 +127848,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB6MEYA0",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127902,9 +127902,9 @@
               "value": 0
             },
             {
-              "label": "Tier 2",
+              "label": "Tier 4",
               "recordId": "001TV00000vB89WYAS",
-              "value": "Tier 2"
+              "value": "Tier 4"
             },
             {
               "label": "0",
@@ -127927,9 +127927,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB89WYAS",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -127981,9 +127981,9 @@
               "value": 0
             },
             {
-              "label": "Tier 2",
+              "label": "Tier 4",
               "recordId": "001TV00000vB8EMYA0",
-              "value": "Tier 2"
+              "value": "Tier 4"
             },
             {
               "label": "0",
@@ -128006,9 +128006,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8EMYA0",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -128060,9 +128060,9 @@
               "value": 0
             },
             {
-              "label": "Tier 3",
+              "label": "Tier 4",
               "recordId": "001TV00000vB8FyYAK",
-              "value": "Tier 3"
+              "value": "Tier 4"
             },
             {
               "label": "0",
@@ -128085,9 +128085,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8FyYAK",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -128139,9 +128139,9 @@
               "value": 0
             },
             {
-              "label": "Tier 2",
+              "label": "Tier 4",
               "recordId": "001TV00000vB8KnYAK",
-              "value": "Tier 2"
+              "value": "Tier 4"
             },
             {
               "label": "0",
@@ -128164,9 +128164,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8KnYAK",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -128243,9 +128243,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8MPYA0",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -128322,9 +128322,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8PdYAK",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -128401,9 +128401,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8PeYAK",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -128455,9 +128455,9 @@
               "value": 0
             },
             {
-              "label": "Tier 3",
+              "label": "Tier 4",
               "recordId": "001TV00000vB8W5YAK",
-              "value": "Tier 3"
+              "value": "Tier 4"
             },
             {
               "label": "0",
@@ -128480,9 +128480,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8W5YAK",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -128559,9 +128559,9 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8cXYAS",
-              "value": null
+              "value": "Third-Party Database"
             }
           ]
         },
@@ -128638,9 +128638,167 @@
               "value": false
             },
             {
-              "label": "-",
+              "label": "Third-Party Database",
               "recordId": "001TV00000vB8mDYAS",
+              "value": "Third-Party Database"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Otherside AI",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": "001TV00000w0KPVYA2"
+            },
+            {
+              "label": "Abhijeet Bhanoori",
+              "value": "005TV000008M12TYAS"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.othersideai.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.othersideai.com (New Window)\">http://www.othersideai.com</a>",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": "http://www.othersideai.com"
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000w0KPVYA2",
               "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": null
+            },
+            {
+              "label": "Software",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": "Software"
+            },
+            {
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": "AI/Machine Learning Software"
+            },
+            {
+              "label": "0",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": 0
+            },
+            {
+              "label": "Prospect",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": "Prospect"
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": false
+            },
+            {
+              "label": "Third-Party Database",
+              "recordId": "001TV00000w0KPVYA2",
+              "value": "Third-Party Database"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Substrate Labs",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": "001TV00000w0KPdYAM"
+            },
+            {
+              "label": "Abhijeet Bhanoori",
+              "value": "005TV000008M12TYAS"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.substrate.run%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.substrate.run (New Window)\">http://www.substrate.run</a>",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": "http://www.substrate.run"
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": null
+            },
+            {
+              "label": "Software",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": "Software"
+            },
+            {
+              "escapedLabel": "AI Infrastructure &amp; MLOps",
+              "label": "AI Infrastructure & MLOps",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": "AI Infrastructure & MLOps"
+            },
+            {
+              "label": "0",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": 0
+            },
+            {
+              "label": "Prospect",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": "Prospect"
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": false
+            },
+            {
+              "label": "Third-Party Database",
+              "recordId": "001TV00000w0KPdYAM",
+              "value": "Third-Party Database"
             }
           ]
         }
@@ -128665,8 +128823,8 @@
           "value": 2.6
         },
         {
-          "label": "1,476",
-          "value": 1476
+          "label": "1,481",
+          "value": 1481
         }
       ],
       "rows": [
@@ -157899,164 +158057,6 @@
               "value": "BDR"
             }
           ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Folio3",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": "001Kb00001Gx1nSIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.folio3.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.folio3.com (New Window)\">http://www.folio3.com</a>",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": "http://www.folio3.com"
-            },
-            {
-              "label": "Hybrid",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": "Hybrid"
-            },
-            {
-              "label": "Partner",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": "Partner"
-            },
-            {
-              "label": "Medium",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": "Medium"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 4",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": "Tier 4"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nSIAR",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "MindTickle",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": "001Kb00001Gx1nUIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.mindtickle.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.mindtickle.com (New Window)\">http://www.mindtickle.com</a>",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": "http://www.mindtickle.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "AI Builder",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": "AI Builder"
-            },
-            {
-              "label": "Medium",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": "Medium"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 2",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": "Tier 2"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nUIAR",
-              "value": "BDR"
-            }
-          ]
         }
       ]
     },
@@ -158079,8 +158079,8 @@
           "value": 1.9
         },
         {
-          "label": "5,142",
-          "value": 5142
+          "label": "5,173",
+          "value": 5173
         }
       ],
       "rows": []
@@ -158853,6 +158853,11 @@
             "apiName": "Ample markets",
             "label": "Ample markets",
             "name": "Ample markets"
+          },
+          {
+            "apiName": "Third-Party Database",
+            "label": "Third-Party Database",
+            "name": "Third-Party Database"
           }
         ],
         "filterable": true,

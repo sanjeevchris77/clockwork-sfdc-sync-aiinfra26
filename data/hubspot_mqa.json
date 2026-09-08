@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-07T20:51:33.828271+00:00",
+  "generated_at": "2026-09-08T01:35:24.556728+00:00",
   "methodology": "A Company is a Marketing Qualified Account (MQA) once at least one associated Contact has reached HubSpot lifecyclestage 'Marketing Qualified Lead' or later (Sales Accepted Lead, SQL, Opportunity, Customer) -- this portal has no native numeric lead-scoring field, so the lifecycle-stage funnel IS the scoring methodology. Matched to Salesforce Accounts by domain (Company.domain <-> Account.Website), the same technique used elsewhere in this pipeline -- accounts with no Website or no domain match show as 'Not Matched to Salesforce'.",
   "summary": {
     "companies_with_contacts": 2216,
     "mqa_count": 1335,
-    "sfdc_matched_count": 1787,
+    "sfdc_matched_count": 1788,
     "sfdc_matched_mqa_count": 1201,
     "tier_breakdown": {
       "Tier 1": 358,
@@ -38223,11 +38223,11 @@
       "highest_lifecyclestage": "Lead",
       "mql_plus_contact_count": 0,
       "is_mqa": false,
-      "sfdc_matched": false,
-      "sfdc_account_id": null,
-      "sfdc_tier": null,
-      "sfdc_owner": null,
-      "account_sfdc_link": null
+      "sfdc_matched": true,
+      "sfdc_account_id": "001TV00000w0KPfYAM",
+      "sfdc_tier": "Tier 4",
+      "sfdc_owner": "Abhijeet Bhanoori",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000w0KPfYAM/view"
     },
     {
       "hubspot_company_id": "61610457849",
