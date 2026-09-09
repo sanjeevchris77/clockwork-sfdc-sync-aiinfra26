@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:27:34.125710+00:00",
+  "generated_at": "2026-09-09T20:06:50.467071+00:00",
   "methodology": "A Company is a Marketing Qualified Account (MQA) once at least one associated Contact has reached HubSpot lifecyclestage 'Marketing Qualified Lead' or later (Sales Accepted Lead, SQL, Opportunity, Customer) -- this portal has no native numeric lead-scoring field, so the lifecycle-stage funnel IS the scoring methodology. Matched to Salesforce Accounts by domain (Company.domain <-> Account.Website), the same technique used elsewhere in this pipeline -- accounts with no Website or no domain match show as 'Not Matched to Salesforce'. 'best_contact' fields identify the single contact whose stage drove the MQA status (highest stage, ties broken by most recently qualified). 'qualified_since' is when that contact entered its current stage; 'last_activity_date' is the most recent logged activity of any kind on that contact. Note: a live check of this portal found ~98% of MQL+ contacts have no tracked marketing engagement (no form conversions, hs_analytics_source = OFFLINE) -- qualification here comes predominantly from bulk CRM sync/import criteria, not organic funnel activity, so these two fields are the closest reliable 'is anyone engaging with this account' signal available, not a marketing-attribution trail.",
   "summary": {
     "companies_with_contacts": 2217,
@@ -5290,7 +5290,7 @@
       "hubspot_abm_tier": "Tier 1",
       "hubspot_icp_account": "High",
       "hubspot_target_account": null,
-      "contact_count": 48,
+      "contact_count": 50,
       "highest_lifecyclestage": "Sales Qualified Lead (SQL)",
       "mql_plus_contact_count": 10,
       "is_mqa": true,
@@ -10879,7 +10879,7 @@
       "hubspot_abm_tier": "Tier 2",
       "hubspot_icp_account": "High",
       "hubspot_target_account": null,
-      "contact_count": 18,
+      "contact_count": 20,
       "highest_lifecyclestage": "Sales Accepted Lead",
       "mql_plus_contact_count": 4,
       "is_mqa": true,
