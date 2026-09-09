@@ -358,6 +358,7 @@ def pull_opportunities_for_accounts(instance_url, token, account_ids):
     query = f"""
         SELECT Id, Name, AccountId, OwnerId, Owner.Name, Amount, StageName, Type,
                CloseDate, LeadSource, CampaignId, Campaign.Name,
+               CreatedDate, LastActivityDate,
                (SELECT Contact.Name, Contact.Title, Contact.Email FROM OpportunityContactRoles)
         FROM Opportunity
         WHERE AccountId IN ({id_list})
@@ -423,6 +424,12 @@ def build_pre_event_analysis(instance_url, token, roster_path, tier_field):
                 "stage": "No Open Opportunity",
                 "amount": None,
                 "best_contact": None,
+                "best_contact_title": None,
+                "best_contact_email": None,
+                "primary_campaign": None,
+                "event_family": None,
+                "first_touch": None,
+                "last_touch": None,
                 "opp_id": None,
                 "sfdc_link": None,
             })
@@ -478,15 +485,28 @@ def build_pre_event_analysis(instance_url, token, roster_path, tier_field):
 
             best_opp = max(acct_opps, key=lambda o: o.get("Amount") or 0)
             best_contact = None
+            best_contact_title = None
+            best_contact_email = None
             roles = (best_opp.get("OpportunityContactRoles") or {}).get("records", [])
             if roles:
-                best_contact = (roles[0].get("Contact") or {}).get("Name")
+                best_role_contact = roles[0].get("Contact") or {}
+                best_contact = best_role_contact.get("Name")
+                best_contact_title = best_role_contact.get("Title")
+                best_contact_email = best_role_contact.get("Email")
+
+            campaign_name = (best_opp.get("Campaign") or {}).get("Name")
 
             row.update({
                 "has_open_opportunity": True,
                 "stage": best_opp.get("StageName"),
                 "amount": best_opp.get("Amount"),
                 "best_contact": best_contact,
+                "best_contact_title": best_contact_title,
+                "best_contact_email": best_contact_email,
+                "primary_campaign": campaign_name,
+                "event_family": classify_event_family(campaign_name),
+                "first_touch": best_opp.get("CreatedDate"),
+                "last_touch": best_opp.get("LastActivityDate"),
                 "opp_id": best_opp.get("Id"),
                 "sfdc_link": f"{instance_url}/lightning/r/Opportunity/{best_opp.get('Id')}/view",
             })
