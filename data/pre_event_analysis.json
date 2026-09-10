@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:06:44.366546+00:00",
+  "generated_at": "2026-09-10T15:16:58.136422+00:00",
   "summary": {
     "attending_accounts": 98,
     "unmatched_companies": 111,
@@ -143,7 +143,7 @@
       "primary_campaign": null,
       "event_family": null,
       "first_touch": "2025-06-27T17:15:42.000+0000",
-      "last_touch": "2026-09-03",
+      "last_touch": "2026-09-15",
       "opp_id": "006TV00000LLYgvYAH",
       "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000LLYgvYAH/view"
     },
