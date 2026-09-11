@@ -11,8 +11,8 @@
     "0!T": {
       "aggregates": [
         {
-          "label": "29",
-          "value": 29.0
+          "label": "30",
+          "value": 30.0
         },
         {
           "label": "24,860",
@@ -1846,6 +1846,85 @@
               "label": "BDR",
               "recordId": "001TV00000LD7Z4YAL",
               "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "NYU",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": "001TV00000OWM0BYAX"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fnyu.edu%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://nyu.edu (New Window)\">http://nyu.edu</a>",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": "http://nyu.edu"
+            },
+            {
+              "label": "Hybrid",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": "Hybrid"
+            },
+            {
+              "label": "Enterprise AI Builder",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": "Enterprise AI Builder"
+            },
+            {
+              "label": "High",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": "High"
+            },
+            {
+              "label": "Higher Education",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": "Higher Education"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": null
+            },
+            {
+              "label": "1",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": 1
+            },
+            {
+              "label": "Tier 2",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": "Tier 2"
+            },
+            {
+              "label": "45",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": 45
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": null
+            },
+            {
+              "label": "9/10/2026",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": "2026-09-10"
+            },
+            {
+              "label": "true",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": true
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000OWM0BYAX",
+              "value": null
             }
           ]
         },
@@ -8548,9 +8627,9 @@
               "value": null
             },
             {
-              "label": "9/10/2026",
+              "label": "9/11/2026",
               "recordId": "001Kb00001GwitaIAB",
-              "value": "2026-09-10"
+              "value": "2026-09-11"
             },
             {
               "label": "true",
@@ -105974,85 +106053,6 @@
         {
           "dataCells": [
             {
-              "label": "NYU",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": "001TV00000OWM0BYAX"
-            },
-            {
-              "label": "Sean Coughlin",
-              "value": "005Kb00000AlYFjIAN"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fnyu.edu%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://nyu.edu (New Window)\">http://nyu.edu</a>",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": "http://nyu.edu"
-            },
-            {
-              "label": "Hybrid",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": "Hybrid"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "High",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": "High"
-            },
-            {
-              "label": "Higher Education",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": "Higher Education"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": 0
-            },
-            {
-              "label": "Tier 2",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": "Tier 2"
-            },
-            {
-              "label": "45",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": 45
-            },
-            {
-              "label": "-",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": null
-            },
-            {
-              "label": "9/10/2026",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": "2026-09-10"
-            },
-            {
-              "label": "true",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": true
-            },
-            {
-              "label": "-",
-              "recordId": "001TV00000OWM0BYAX",
-              "value": null
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
               "label": "iRobot",
               "recordId": "001TV00000OWM0DYAX",
               "value": "001TV00000OWM0DYAX"
@@ -158063,8 +158063,8 @@
     "T!T": {
       "aggregates": [
         {
-          "label": "102",
-          "value": 102.0
+          "label": "103",
+          "value": 103.0
         },
         {
           "label": "71,416",
