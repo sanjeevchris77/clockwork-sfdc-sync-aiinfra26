@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T11:01:47.252592+00:00",
+  "generated_at": "2026-09-14T17:05:37.277246+00:00",
   "summary": {
     "attending_accounts": 98,
     "unmatched_companies": 111,
-    "accounts_with_open_opportunity": 15,
-    "open_pipeline_total": 2791451.0,
-    "opportunities_tied_to_named_campaign": 4,
+    "accounts_with_open_opportunity": 12,
+    "open_pipeline_total": 2291451.0,
+    "opportunities_tied_to_named_campaign": 3,
     "tier_breakdown": {
       "Tier 2": {
         "accounts": 25,
@@ -14,12 +14,12 @@
       },
       "Tier 1": {
         "accounts": 44,
-        "accounts_with_opp": 11,
-        "open_pipeline": 2441451.0
+        "accounts_with_opp": 9,
+        "open_pipeline": 1941451.0
       },
       "Tier 3": {
         "accounts": 17,
-        "accounts_with_opp": 2,
+        "accounts_with_opp": 1,
         "open_pipeline": 200000.0
       },
       "Tier 4": {
@@ -30,8 +30,8 @@
     },
     "source_attribution": {
       "Sales": {
-        "opportunities": 14,
-        "pipeline": 2216451.0
+        "opportunities": 10,
+        "pipeline": 1716451.0
       },
       "Event": {
         "opportunities": 2,
@@ -219,35 +219,6 @@
     },
     {
       "tier": "Tier 1",
-      "company": "Apple",
-      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001Kb00001GwpvLIAR/view",
-      "owner": "Greg Mark",
-      "gpu_segment": "Enterprise AI Builder",
-      "industry": "Computers and Electronics Manufacturing",
-      "target_account": false,
-      "icp_account": "High",
-      "attendee_count": 1,
-      "attendees": [
-        {
-          "name": "Maitrik Patel",
-          "title": "Senior Engineering Manager - AI/ML"
-        }
-      ],
-      "has_open_opportunity": true,
-      "stage": "01 - Qualified",
-      "amount": 200000.0,
-      "best_contact": "Haocheng Bian",
-      "best_contact_title": "Software Eng",
-      "best_contact_email": "h_bian@apple.com",
-      "primary_campaign": null,
-      "event_family": null,
-      "first_touch": "2025-11-10T17:41:55.000+0000",
-      "last_touch": "2026-04-21",
-      "opp_id": "006TV00000RHmVJYA1",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000RHmVJYA1/view"
-    },
-    {
-      "tier": "Tier 1",
       "company": "eBay",
       "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001Kb00001Gwis8IAB/view",
       "owner": "Greg Mark",
@@ -307,39 +278,6 @@
       "last_touch": "2026-03-16",
       "opp_id": "006TV00000SUtzpYAD",
       "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SUtzpYAD/view"
-    },
-    {
-      "tier": "Tier 1",
-      "company": "Adobe",
-      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001Kb00001GwpwPIAR/view",
-      "owner": "Greg Mark",
-      "gpu_segment": "Enterprise AI Builder",
-      "industry": "Software Development",
-      "target_account": false,
-      "icp_account": "High",
-      "attendee_count": 2,
-      "attendees": [
-        {
-          "name": "Charit Upadhyay",
-          "title": "Senior Site Reliability Engineer"
-        },
-        {
-          "name": "Jie Liao",
-          "title": "Engineering Director"
-        }
-      ],
-      "has_open_opportunity": true,
-      "stage": "01 - Qualified",
-      "amount": 150000.0,
-      "best_contact": null,
-      "best_contact_title": null,
-      "best_contact_email": null,
-      "primary_campaign": null,
-      "event_family": null,
-      "first_touch": "2026-03-25T00:37:17.000+0000",
-      "last_touch": "2026-04-27",
-      "opp_id": "006TV00000WxGuMYAV",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000WxGuMYAV/view"
     },
     {
       "tier": "Tier 1",
@@ -970,6 +908,35 @@
     },
     {
       "tier": "Tier 1",
+      "company": "Apple",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001Kb00001GwpvLIAR/view",
+      "owner": "Greg Mark",
+      "gpu_segment": "Enterprise AI Builder",
+      "industry": "Computers and Electronics Manufacturing",
+      "target_account": false,
+      "icp_account": "High",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Maitrik Patel",
+          "title": "Senior Engineering Manager - AI/ML"
+        }
+      ],
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
+      "amount": null,
+      "best_contact": null,
+      "best_contact_title": null,
+      "best_contact_email": null,
+      "primary_campaign": null,
+      "event_family": null,
+      "first_touch": null,
+      "last_touch": null,
+      "opp_id": null,
+      "sfdc_link": null
+    },
+    {
+      "tier": "Tier 1",
       "company": "Moreh",
       "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000aksWvYAI/view",
       "owner": "Joe Tarantino",
@@ -1321,6 +1288,39 @@
         {
           "name": "Sabareesh Ravikumar",
           "title": "Senior Staff Silicon Engineer"
+        }
+      ],
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
+      "amount": null,
+      "best_contact": null,
+      "best_contact_title": null,
+      "best_contact_email": null,
+      "primary_campaign": null,
+      "event_family": null,
+      "first_touch": null,
+      "last_touch": null,
+      "opp_id": null,
+      "sfdc_link": null
+    },
+    {
+      "tier": "Tier 1",
+      "company": "Adobe",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001Kb00001GwpwPIAR/view",
+      "owner": "Greg Mark",
+      "gpu_segment": "Enterprise AI Builder",
+      "industry": "Software Development",
+      "target_account": false,
+      "icp_account": "High",
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Charit Upadhyay",
+          "title": "Senior Site Reliability Engineer"
+        },
+        {
+          "name": "Jie Liao",
+          "title": "Engineering Director"
         }
       ],
       "has_open_opportunity": false,
@@ -2294,18 +2294,18 @@
           "title": "VP, AI/ML Product Management"
         }
       ],
-      "has_open_opportunity": true,
-      "stage": "00 - Prospecting",
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
       "amount": null,
       "best_contact": null,
       "best_contact_title": null,
       "best_contact_email": null,
-      "primary_campaign": "[Webinar] Enterprise AI at Scale | 2025-11-11",
-      "event_family": "Webinar",
-      "first_touch": "2025-12-12T17:56:34.000+0000",
-      "last_touch": "2025-12-11",
-      "opp_id": "006TV00000SgXM3YAN",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SgXM3YAN/view"
+      "primary_campaign": null,
+      "event_family": null,
+      "first_touch": null,
+      "last_touch": null,
+      "opp_id": null,
+      "sfdc_link": null
     },
     {
       "tier": "Tier 3",
@@ -4383,20 +4383,6 @@
       "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CRnybYAD/view"
     },
     {
-      "account": "Apple",
-      "tier": "Tier 1",
-      "owner": "Greg Mark",
-      "opportunity_name": "Apple GPU | New Business | 2025-11-10",
-      "stage": "01 - Qualified",
-      "amount": 200000.0,
-      "close_date": "2026-12-30",
-      "lead_source": "Sales",
-      "primary_campaign_raw": null,
-      "event_family": null,
-      "opp_id": "006TV00000RHmVJYA1",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000RHmVJYA1/view"
-    },
-    {
       "account": "eBay",
       "tier": "Tier 1",
       "owner": "Greg Mark",
@@ -4425,20 +4411,6 @@
       "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SUtzpYAD/view"
     },
     {
-      "account": "LinkedIn",
-      "tier": "Tier 1",
-      "owner": "Greg Mark",
-      "opportunity_name": "LinkedIn Storage | New Business | 2026-05-26",
-      "stage": "01 - Qualified",
-      "amount": 150000.0,
-      "close_date": "2026-12-31",
-      "lead_source": "Sales",
-      "primary_campaign_raw": null,
-      "event_family": null,
-      "opp_id": "006TV00000Zei1OYAR",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000Zei1OYAR/view"
-    },
-    {
       "account": "Argonne National Laboratory",
       "tier": "Tier 2",
       "owner": "Chris Bowen",
@@ -4451,20 +4423,6 @@
       "event_family": null,
       "opp_id": "006TV00000ZROq6YAH",
       "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000ZROq6YAH/view"
-    },
-    {
-      "account": "Adobe",
-      "tier": "Tier 1",
-      "owner": "Greg Mark",
-      "opportunity_name": "Adobe GPU | New Business | 2026-03-24",
-      "stage": "01 - Qualified",
-      "amount": 150000.0,
-      "close_date": "2026-12-30",
-      "lead_source": "Sales",
-      "primary_campaign_raw": null,
-      "event_family": null,
-      "opp_id": "006TV00000WxGuMYAV",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000WxGuMYAV/view"
     },
     {
       "account": "Dell Technologies",
@@ -4493,20 +4451,6 @@
       "event_family": "PyTorch 2025 (Conference)",
       "opp_id": "006TV00000OahgYYAR",
       "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OahgYYAR/view"
-    },
-    {
-      "account": "Qualcomm",
-      "tier": "Tier 3",
-      "owner": "Greg Mark",
-      "opportunity_name": "Qualcomm GPU | New Business | 2025-12-12",
-      "stage": "00 - Prospecting",
-      "amount": null,
-      "close_date": "2026-12-28",
-      "lead_source": "Sales",
-      "primary_campaign_raw": "[Webinar] Enterprise AI at Scale | 2025-11-11",
-      "event_family": "Webinar",
-      "opp_id": "006TV00000SgXM3YAN",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SgXM3YAN/view"
     },
     {
       "account": "AWS",
