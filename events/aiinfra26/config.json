@@ -30,5 +30,19 @@
   "attendee_roster_path_comment": "Static roster of AI Infra Summit 2026 attendees/speakers (209 companies, 280 people), uploaded once. Cross-referenced live every sync run against an uncapped pull of ALL ABM-tiered Accounts + their open Opportunities to reproduce a Tier Mapping & Opportunity Attribution analysis -- see build_pre_event_analysis() in sync_salesforce.py. Re-upload and commit a new attendee_roster.json if the attendee list changes.",
   "ad_hoc_report_id": "00OTV00000SAiyv2AD",
   "ad_hoc_report_id_comment": "ABM tier report, used to cross-reference the AI Infra Summit attendee/speaker list against Salesforce ABM tiers. The prior AI Infra Summit 2025 comparison report (00OTV00000RZK4O2AX) stays saved at data/report_00OTV00000RZK4O2AX.json and won't be lost \u2014 it just won't be re-fetched going forward since that 2025 snapshot is frozen historical data anyway.",
-  "output_dir": "data"
+  "output_dir": "data",
+  "ae_pipeline_report_ids": [
+    "00OTV00000TXHz42AH",
+    "00OTV00000TXatd2AD",
+    "00OTV00000TXaIY2A1",
+    "00OTV00000TXTvO2AX"
+  ],
+  "ae_pipeline_report_ids_comment": "AE-assigned booth lead / pipeline reports for the Booth Leads & AE Pipeline tab on aiinfra-2026-sales-priorities.html -- fetched raw via the Reports REST API into data/report_<id>.json, one per AE/segment.",
+  "contact_report_ids": [
+    "00OTV00000TXbJR2A1",
+    "00OTV00000TXbOH2A1",
+    "00OTV00000TXbRV2A1",
+    "00OTV00000TXbUj2AL"
+  ],
+  "contact_report_ids_comment": "Contact reports for booth-scan accounts, shown in the Contacts dropdown on the same tab -- fetched raw the same way as ae_pipeline_report_ids."
 }

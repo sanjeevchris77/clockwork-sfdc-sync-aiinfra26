@@ -86,6 +86,13 @@ ABM_TIER_FIELD = CONFIG.get("abm_tier_field", "ABM_Tier__c")
 
 AD_HOC_REPORT_ID = CONFIG.get("ad_hoc_report_id")
 
+# Additional one-off report ids for the Booth Leads & AE Pipeline tab
+# (aiinfra-2026-sales-priorities.html): 4 AE/pipeline reports + 4 contact
+# reports. Fetched the exact same non-fatal way as AD_HOC_REPORT_ID, just
+# looped -- see fetch_report() and the ad-hoc pull at the bottom of main().
+ADDITIONAL_REPORT_IDS = list(CONFIG.get("ae_pipeline_report_ids", [])) + \
+    list(CONFIG.get("contact_report_ids", []))
+
 # Optional: path (relative to repo root) to a static JSON roster of this
 # event's attendees/speakers -- [{ "company": "...", "people": [{"first_name",
 # "last_name", "title", "email"}, ...] }, ...]. When set, this script
@@ -1011,13 +1018,13 @@ def main():
     # names one. Read-only, non-fatal: dumps the raw Reports API response
     # as-is so its actual structure (tabular/summary/matrix) can be inspected
     # before any further processing is built around it.
-    if AD_HOC_REPORT_ID:
-        report_data = fetch_report(instance_url, token, AD_HOC_REPORT_ID)
+    for report_id in ([AD_HOC_REPORT_ID] if AD_HOC_REPORT_ID else []) + ADDITIONAL_REPORT_IDS:
+        report_data = fetch_report(instance_url, token, report_id)
         if report_data is not None:
-            (OUT_DIR / f"report_{AD_HOC_REPORT_ID}.json").write_text(json.dumps(report_data, indent=2))
-            print(f"Wrote raw Report {AD_HOC_REPORT_ID} data to {OUT_DIR}/report_{AD_HOC_REPORT_ID}.json")
+            (OUT_DIR / f"report_{report_id}.json").write_text(json.dumps(report_data, indent=2))
+            print(f"Wrote raw Report {report_id} data to {OUT_DIR}/report_{report_id}.json")
         else:
-            print(f"Report {AD_HOC_REPORT_ID} fetch failed or unavailable (see stderr above) -- non-fatal.", file=sys.stderr)
+            print(f"Report {report_id} fetch failed or unavailable (see stderr above) -- non-fatal.", file=sys.stderr)
 
     # --- Pre-event tier mapping + opportunity attribution, live-reproduced
     # from a static attendee roster (see ATTENDEE_ROSTER_PATH docstring
