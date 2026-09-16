@@ -12,15 +12,126 @@
   },
   "raise_2026": {
     "campaign_ids": [
-      "701TV00000tqRm2YAE"
+      "701TV00000tqIKgYAM",
+      "701TV00000tqT6JYAU",
+      "701TV00000tqTXjYAM"
     ],
-    "lead_count": 0,
-    "opportunity_count": 0,
-    "lifecycle_stage_counts": {},
-    "opp_stage_counts": {},
-    "pipegen_potential": 0,
-    "real_opportunity_amount_total": 0,
-    "opportunities": []
+    "lead_count": 9,
+    "opportunity_count": 4,
+    "lifecycle_stage_counts": {
+      "Remarket": 1,
+      "In Progress (SAL)": 1,
+      "Marketing Engaged Lead": 5,
+      "In Progress (MEL)": 1,
+      "Marketing Qualified Lead": 1
+    },
+    "opp_stage_counts": {
+      "Closed Lost": 2,
+      "03 - Technical Validation": 1,
+      "01 - Qualified": 1
+    },
+    "pipegen_potential": 800000,
+    "real_opportunity_amount_total": 625000.0,
+    "opportunities": [
+      {
+        "opp_id": "006Kb00000JlkSGIAZ",
+        "owner": "Dan Zheng",
+        "account": "Options Technology",
+        "domain": "options-it.com",
+        "amount": 100000.0,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkSGIAZ/view"
+      },
+      {
+        "opp_id": "006TV00000D6UglYAF",
+        "owner": "Dan Zheng",
+        "account": "Dell Technologies",
+        "domain": "dell.com",
+        "amount": 300000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Venkatesan Mahalinga",
+            "title": null,
+            "email": "venkatesan.mahalinga@dell.com"
+          },
+          {
+            "name": "Joseph White",
+            "title": "Fellow",
+            "email": "joseph.l.white@dell.com"
+          },
+          {
+            "name": "Claudio DeSanti",
+            "title": "Sr. Distinguished Engineer",
+            "email": "claudio.desanti@dell.com"
+          },
+          {
+            "name": "Saurabh Kapoor",
+            "title": "Director, Product Management & Strategy | Emerging Networking Technologies",
+            "email": "saurabh.kapoor@dell.com"
+          },
+          {
+            "name": "Mike Lazar",
+            "title": "Distinguished Technologist, Chief Technology Office",
+            "email": "mike.lazar@dell.com"
+          },
+          {
+            "name": "Balaji Rajagopalan",
+            "title": "Director Of Software Development",
+            "email": "balaji.rajagopalan@dell.com"
+          },
+          {
+            "name": "Senthil Kumar Ganesan",
+            "title": "Engineer",
+            "email": "senthil_kumar_ganesa@dell.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6UglYAF/view"
+      },
+      {
+        "opp_id": "006TV00000QHtKTYA1",
+        "owner": "Dan Zheng",
+        "account": "Dell Technologies",
+        "domain": "dell.com",
+        "amount": 75000.0,
+        "stage": "03 - Technical Validation",
+        "contacts": [
+          {
+            "name": "Joseph White",
+            "title": "Fellow",
+            "email": "joseph.l.white@dell.com"
+          },
+          {
+            "name": "Vinoth Arumugam",
+            "title": "Tech Staff Engineering Technologist",
+            "email": "vinoth.arumugam@dell.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000QHtKTYA1/view"
+      },
+      {
+        "opp_id": "006TV00000ZROq6YAH",
+        "owner": "Chris Bowen",
+        "account": "Argonne National Laboratory",
+        "domain": "anl.gov",
+        "amount": 150000.0,
+        "stage": "01 - Qualified",
+        "contacts": [
+          {
+            "name": "Venkat Vishwanath",
+            "title": null,
+            "email": "venkat@anl.gov"
+          },
+          {
+            "name": "Sam Foreman",
+            "title": "Computational Scientist",
+            "email": "foremans@anl.gov"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000ZROq6YAH/view"
+      }
+    ]
   },
   "overlap": {
     "overlapping_lead_emails": [],

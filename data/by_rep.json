@@ -4,15 +4,145 @@
     "opportunities": []
   },
   "Greg Mark": {
-    "leads": [],
+    "leads": [
+      {
+        "campaign": "[AIInfra26] Booth Scans | 09-15-2026",
+        "member_status": "Visited Booth",
+        "lead_id": "00QTV00000SGxjy2AD",
+        "owner": "Greg Mark",
+        "company": "TRUENAS",
+        "website": "http://truenas.com",
+        "domain": "truenas.com",
+        "first_name": "Brett",
+        "last_name": "Davis",
+        "title": "Executive Vice President",
+        "email": "brett.davis@truenas.com",
+        "mobile": null,
+        "linkedin_url": "https://www.linkedin.com/in/brettiandavis/",
+        "lead_source": "Email",
+        "notes": null,
+        "lifecycle_stage": "Remarket",
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Lead/00QTV00000SGxjy2AD/view",
+        "company_already_engaged": "Yes"
+      },
+      {
+        "campaign": "[AIInfra26] Booth Scans | 09-15-2026",
+        "member_status": "Visited Booth",
+        "lead_id": "00QTV00000WVaBQ2A1",
+        "owner": "Greg Mark",
+        "company": "AWS",
+        "website": "https://amazon.de",
+        "domain": "amazon.de",
+        "first_name": "Roy",
+        "last_name": "Allela",
+        "title": "AI infra Lead",
+        "email": "rallela@amazon.de",
+        "mobile": "+4917632142731",
+        "linkedin_url": "https://www.linkedin.com/in/allelaroy",
+        "lead_source": "Event",
+        "notes": null,
+        "lifecycle_stage": "In Progress (SAL)",
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Lead/00QTV00000WVaBQ2A1/view",
+        "company_already_engaged": "No"
+      },
+      {
+        "campaign": "[AIInfra26] Booth Scans | 09-15-2026",
+        "member_status": "Visited Booth",
+        "lead_id": "00QTV00000bmrZO2AY",
+        "owner": "Greg Mark",
+        "company": "Vast Networks",
+        "website": "http://vastnetworks.com",
+        "domain": "vastnetworks.com",
+        "first_name": "Ray",
+        "last_name": "Brown",
+        "title": "Enterprise Executive",
+        "email": "rbrown@cvin.com",
+        "mobile": null,
+        "linkedin_url": "https://www.linkedin.com/in/ray-brown-44535a8",
+        "lead_source": "Event",
+        "notes": "Contact Qualifications: Scanned by Alexandria Russell, Connected with Alexandria Russell, Viewed Alexandria Russell, Has been qualified by Alexandria Russell, Lead Comments: Marcello \nCreated by: Alexandria Russell\nDate Created: 15/09/2026 18:51\n-------",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Lead/00QTV00000bmrZO2AY/view",
+        "company_already_engaged": "No"
+      },
+      {
+        "campaign": "[AIInfra26] Booth Scans | 09-15-2026",
+        "member_status": "Visited Booth",
+        "lead_id": "00QTV00000bnaQ12AI",
+        "owner": "Greg Mark",
+        "company": "Samsung Semiconductor",
+        "website": "http://samsung.com",
+        "domain": "samsung.com",
+        "first_name": "Grishma",
+        "last_name": "Mehta",
+        "title": "Graphics Designer",
+        "email": "grishma.m@partner.samsung.com",
+        "mobile": "13103076805",
+        "linkedin_url": "https://www.linkedin.com/in/grishma-mehta",
+        "lead_source": "Event",
+        "notes": "Contact Qualifications: Scanned by Navtej Singh, Connected with Navtej Singh",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Lead/00QTV00000bnaQ12AI/view",
+        "company_already_engaged": "Yes"
+      }
+    ],
     "opportunities": []
   },
   "Abrahem Miya": {
-    "leads": [],
+    "leads": [
+      {
+        "campaign": "[AIInfra26] Booth Scans | 09-15-2026",
+        "member_status": "Visited Booth",
+        "lead_id": "00QTV00000aCTKu2AO",
+        "owner": "Abrahem Miya",
+        "company": "KRAI",
+        "website": "http://krai.ai",
+        "domain": "krai.ai",
+        "first_name": "Anton",
+        "last_name": "Lokhmotov",
+        "title": "Founder",
+        "email": "anton@krai.ai",
+        "mobile": "447973417548",
+        "linkedin_url": "https://www.linkedin.com/in/lokhmotov",
+        "lead_source": "Event",
+        "notes": null,
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Lead/00QTV00000aCTKu2AO/view",
+        "company_already_engaged": "No"
+      }
+    ],
     "opportunities": []
   },
   "Chris Bowen": {
     "leads": [],
-    "opportunities": []
+    "opportunities": [
+      {
+        "opp_id": "006TV00000ZROq6YAH",
+        "owner": "Chris Bowen",
+        "account": "Argonne National Laboratory",
+        "account_website": "https://www.anl.gov/",
+        "domain": "anl.gov",
+        "amount": 150000.0,
+        "stage": "01 - Qualified",
+        "is_open": true,
+        "lead_source": "Sales",
+        "created_date": "2026-05-21T14:04:16.000+0000",
+        "origin": "Existing",
+        "campaign": null,
+        "contacts": [
+          {
+            "name": "Venkat Vishwanath",
+            "title": null,
+            "email": "venkat@anl.gov"
+          },
+          {
+            "name": "Sam Foreman",
+            "title": "Computational Scientist",
+            "email": "foremans@anl.gov"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000ZROq6YAH/view"
+      }
+    ]
   }
 }

@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "opp_id": "006TV00000ZROq6YAH",
+    "owner": "Chris Bowen",
+    "account": "Argonne National Laboratory",
+    "account_website": "https://www.anl.gov/",
+    "domain": "anl.gov",
+    "amount": 150000.0,
+    "stage": "01 - Qualified",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2026-05-21T14:04:16.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Venkat Vishwanath",
+        "title": null,
+        "email": "venkat@anl.gov"
+      },
+      {
+        "name": "Sam Foreman",
+        "title": "Computational Scientist",
+        "email": "foremans@anl.gov"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000ZROq6YAH/view"
+  }
+]
