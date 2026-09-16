@@ -1,0 +1,1523 @@
+{
+  "attributes": {
+    "describeUrl": "/services/data/v60.0/analytics/reports/00OTV00000TXatd2AD/describe",
+    "instancesUrl": "/services/data/v60.0/analytics/reports/00OTV00000TXatd2AD/instances",
+    "reportId": "00OTV00000TXatd2AD",
+    "reportName": "2026 AI Infra Summit Campaign leads-Joe",
+    "type": "Report"
+  },
+  "allData": true,
+  "factMap": {
+    "T!T": {
+      "aggregates": [
+        {
+          "label": "6",
+          "value": 6
+        }
+      ],
+      "rows": [
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "701TV00000tqIKgYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqIKgYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "SK hynix",
+              "recordId": "00QTV00000bnb482AA",
+              "value": "00QTV00000bnb482AA"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Lead",
+              "label": "Lead",
+              "value": "Lead"
+            },
+            {
+              "label": "Jihun",
+              "recordId": "00QTV00000bnb482AA",
+              "value": "00QTV00000bnb482AA"
+            },
+            {
+              "label": "Lee",
+              "recordId": "00QTV00000bnb482AA",
+              "value": "00QTV00000bnb482AA"
+            },
+            {
+              "label": "Research Engineer",
+              "recordId": "00QTV00000bnb482AA",
+              "value": "Research Engineer"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Anita Pandey, Connected with Anita Pandey, Viewed Anita Pandey, Has been qualified by Anita Pandey, Lead Comments: SK Hynix<br>Created by: Anita Pandey<br>Date Created: 15/09/2026 18:56<br>-------",
+              "label": "Contact Qualifications: Scanned by Anita Pandey, Connected with Anita Pandey, Viewed Anita Pandey, Has been qualified by Anita Pandey, Lead Comments: SK Hynix\nCreated by: Anita Pandey\nDate Created: 15/09/2026 18:56\n-------",
+              "value": "Contact Qualifications: Scanned by Anita Pandey, Connected with Anita Pandey, Viewed Anita Pandey, Has been qualified by Anita Pandey, Lead Comments: SK Hynix\nCreated by: Anita Pandey\nDate Created: 15/09/2026 18:56\n-------"
+            },
+            {
+              "label": "jihun.lee@skhynix.com",
+              "recordId": "00QTV00000bnb482AA",
+              "value": "jihun.lee@skhynix.com"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnb482AA",
+              "value": null
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bnb482AA",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjihun-lee-565222101%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/jihun-lee-565222101 (New Window)\">https://www.linkedin.com/in/jihun-lee-565222101</a>",
+              "recordId": "00QTV00000bnb482AA",
+              "value": "https://www.linkedin.com/in/jihun-lee-565222101"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnb482AA",
+              "value": null
+            },
+            {
+              "escapedLabel": "Enterprise; Partner OEM; ",
+              "label": "Enterprise; Partner OEM; ",
+              "value": "Enterprise; Partner OEM; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "00QTV00000bnb482AA",
+              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bnb482AA",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "701TV00000tqIKgYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqIKgYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "HCLTech",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "00QTV00000bnjOV2AY"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Lead",
+              "label": "Lead",
+              "value": "Lead"
+            },
+            {
+              "label": "Kartik",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "00QTV00000bnjOV2AY"
+            },
+            {
+              "label": "Shah",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "00QTV00000bnjOV2AY"
+            },
+            {
+              "label": "Senior Director",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "Senior Director"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Meeting with Marcello Golfieri, Connected with Marcello Golfieri, Swiped Marcello Golfieri, Viewed Clockwork.io, Viewed Marcello Golfieri",
+              "label": "Contact Qualifications: Meeting with Marcello Golfieri, Connected with Marcello Golfieri, Swiped Marcello Golfieri, Viewed Clockwork.io, Viewed Marcello Golfieri",
+              "value": "Contact Qualifications: Meeting with Marcello Golfieri, Connected with Marcello Golfieri, Swiped Marcello Golfieri, Viewed Clockwork.io, Viewed Marcello Golfieri"
+            },
+            {
+              "label": "kartik.shah@hcltech.com",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "kartik.shah@hcltech.com"
+            },
+            {
+              "label": "17049152926",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "17049152926"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshahkartik24%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/shahkartik24 (New Window)\">https://www.linkedin.com/in/shahkartik24</a>",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "https://www.linkedin.com/in/shahkartik24"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": null
+            },
+            {
+              "escapedLabel": "Enterprise; Partner SI; ",
+              "label": "Enterprise; Partner SI; ",
+              "value": "Enterprise; Partner SI; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bnjOV2AY",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "701TV00000tqIKgYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqIKgYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Cerebro Cloud",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "00QTV00000bnjPD2AY"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Lead",
+              "label": "Lead",
+              "value": "Lead"
+            },
+            {
+              "label": "Tea",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "00QTV00000bnjPD2AY"
+            },
+            {
+              "label": "Kvolik",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "00QTV00000bnjPD2AY"
+            },
+            {
+              "label": "Business Executive",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "Business Executive"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Kim DeRose, Connected with Kim DeRose, Swiped Alexandria Russell, Swiped Clockwork.io, Viewed Alexandria Russell, Viewed Clockwork.io",
+              "label": "Contact Qualifications: Scanned by Kim DeRose, Connected with Kim DeRose, Swiped Alexandria Russell, Swiped Clockwork.io, Viewed Alexandria Russell, Viewed Clockwork.io",
+              "value": "Contact Qualifications: Scanned by Kim DeRose, Connected with Kim DeRose, Swiped Alexandria Russell, Swiped Clockwork.io, Viewed Alexandria Russell, Viewed Clockwork.io"
+            },
+            {
+              "label": "tea.kvolik@barrage.net",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "tea.kvolik@barrage.net"
+            },
+            {
+              "label": "385955367920",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "385955367920"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftea-kvolik%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/tea-kvolik (New Window)\">https://www.linkedin.com/in/tea-kvolik</a>",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "https://www.linkedin.com/in/tea-kvolik"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": null
+            },
+            {
+              "escapedLabel": "Neo Cloud; Enterprise; ",
+              "label": "Neo Cloud; Enterprise; ",
+              "value": "Neo Cloud; Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bnjPD2AY",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "701TV00000tqIKgYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqIKgYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Sumitomo Corporation",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": "00QTV00000bnjTK2AY"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Lead",
+              "label": "Lead",
+              "value": "Lead"
+            },
+            {
+              "label": "Louis",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": "00QTV00000bnjTK2AY"
+            },
+            {
+              "label": "Toyonaga",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": "00QTV00000bnjTK2AY"
+            },
+            {
+              "label": "Investment Manager",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": "Investment Manager"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Meeting with Gavin Cohen, Connected with Gavin Cohen, Swiped Gavin Cohen, Viewed Gavin Cohen",
+              "label": "Contact Qualifications: Meeting with Gavin Cohen, Connected with Gavin Cohen, Swiped Gavin Cohen, Viewed Gavin Cohen",
+              "value": "Contact Qualifications: Meeting with Gavin Cohen, Connected with Gavin Cohen, Swiped Gavin Cohen, Viewed Gavin Cohen"
+            },
+            {
+              "label": "tl@sumitomocorp.com",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": "tl@sumitomocorp.com"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": null
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": ""
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": null
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": null
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bnjTK2AY",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "701TV00000tqIKgYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqIKgYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Cerebro Cloud",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": "00QTV00000bnjTN2AY"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Lead",
+              "label": "Lead",
+              "value": "Lead"
+            },
+            {
+              "label": "Gabrijela",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": "00QTV00000bnjTN2AY"
+            },
+            {
+              "label": "\u0160ipek",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": "00QTV00000bnjTN2AY"
+            },
+            {
+              "label": "Business Executive",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": "Business Executive"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Kim DeRose, Scanned Gavin Cohen, Connected with Kim DeRose, Connected with Gavin Cohen, Viewed Gavin Cohen",
+              "label": "Contact Qualifications: Scanned by Kim DeRose, Scanned Gavin Cohen, Connected with Kim DeRose, Connected with Gavin Cohen, Viewed Gavin Cohen",
+              "value": "Contact Qualifications: Scanned by Kim DeRose, Scanned Gavin Cohen, Connected with Kim DeRose, Connected with Gavin Cohen, Viewed Gavin Cohen"
+            },
+            {
+              "label": "gabrijela.sipek@barrage.net",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": "gabrijela.sipek@barrage.net"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": null
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabrijela-sipek-79bb40259%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/gabrijela-sipek-79bb40259 (New Window)\">https://www.linkedin.com/in/gabrijela-sipek-79bb40259</a>",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": "https://www.linkedin.com/in/gabrijela-sipek-79bb40259"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": null
+            },
+            {
+              "escapedLabel": "Neo Cloud; Enterprise; ",
+              "label": "Neo Cloud; Enterprise; ",
+              "value": "Neo Cloud; Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bnjTN2AY",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "701TV00000tqIKgYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqIKgYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Nokia",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "00QTV00000bnjTy2AI"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Lead",
+              "label": "Lead",
+              "value": "Lead"
+            },
+            {
+              "label": "Shean",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "00QTV00000bnjTy2AI"
+            },
+            {
+              "label": "Leigon",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "00QTV00000bnjTy2AI"
+            },
+            {
+              "label": "AIDC Product Strategy",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "AIDC Product Strategy"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Meeting with Marcello Golfieri, Connected with Marcello Golfieri, Swiped Marcello Golfieri, Viewed Marcello Golfieri, Joined session session:319308-Preserving Progress and Goodput: Workload-Aware Fault Tolerance for Distributed Tr...",
+              "label": "Contact Qualifications: Meeting with Marcello Golfieri, Connected with Marcello Golfieri, Swiped Marcello Golfieri, Viewed Marcello Golfieri, Joined session session:319308-Preserving Progress and Goodput: Workload-Aware Fault Tolerance for Distributed Tr...",
+              "value": "Contact Qualifications: Meeting with Marcello Golfieri, Connected with Marcello Golfieri, Swiped Marcello Golfieri, Viewed Marcello Golfieri, Joined session session:319308-Preserving Progress and Goodput: Workload-Aware Fault Tolerance for Distributed Tr..."
+            },
+            {
+              "label": "shean.leigon@nokia.com",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "shean.leigon@nokia.com"
+            },
+            {
+              "label": "17023346312",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "17023346312"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsheanleigon%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/sheanleigon (New Window)\">https://www.linkedin.com/in/sheanleigon</a>",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "https://www.linkedin.com/in/sheanleigon"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": null
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bnjTy2AI",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "groupingsAcross": {
+    "groupings": []
+  },
+  "groupingsDown": {
+    "groupings": []
+  },
+  "hasDetailRows": true,
+  "picklistColors": {},
+  "reportExtendedMetadata": {
+    "aggregateColumnInfo": {
+      "RowCount": {
+        "dataType": "int",
+        "label": "Record Count"
+      }
+    },
+    "availableDashboardSettings": null,
+    "detailColumnInfo": {
+      "CAMPAIGN_CREATED_DATE": {
+        "dataType": "date",
+        "entityColumnName": "Campaign.CreatedDate",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CreatedDate",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Created Date",
+        "uniqueCountable": true
+      },
+      "CAMPAIGN_NAME": {
+        "dataType": "string",
+        "entityColumnName": "Campaign.Name",
+        "fieldInfo": {
+          "entityName": "Campaign",
+          "fieldName": "Name",
+          "lookupEntityName": "Campaign"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.Name",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "Campaign Name",
+        "uniqueCountable": true
+      },
+      "MEMBER_STATUS": {
+        "dataType": "picklist",
+        "entityColumnName": "CampaignMember.Status",
+        "filterValues": [
+          {
+            "apiName": "Accepted",
+            "label": "Accepted",
+            "name": "Accepted"
+          },
+          {
+            "apiName": "Attended",
+            "label": "Attended",
+            "name": "Attended"
+          },
+          {
+            "apiName": "Attendee",
+            "label": "Attendee",
+            "name": "Attendee"
+          },
+          {
+            "apiName": "Bounced",
+            "label": "Bounced",
+            "name": "Bounced"
+          },
+          {
+            "apiName": "Cancelled",
+            "label": "Cancelled",
+            "name": "Cancelled"
+          },
+          {
+            "apiName": "Chat Replied",
+            "label": "Chat Replied",
+            "name": "Chat Replied"
+          },
+          {
+            "apiName": "Chat Requested",
+            "label": "Chat Requested",
+            "name": "Chat Requested"
+          },
+          {
+            "apiName": "Clicked",
+            "label": "Clicked",
+            "name": "Clicked"
+          },
+          {
+            "apiName": "Declined",
+            "label": "Declined",
+            "name": "Declined"
+          },
+          {
+            "apiName": "Delivered",
+            "label": "Delivered",
+            "name": "Delivered"
+          },
+          {
+            "apiName": "Demo Requested",
+            "label": "Demo Requested",
+            "name": "Demo Requested"
+          },
+          {
+            "apiName": "Followed Up With",
+            "label": "Followed Up With",
+            "name": "Followed Up With"
+          },
+          {
+            "apiName": "Inbound Scans",
+            "label": "Inbound Scans",
+            "name": "Inbound Scans"
+          },
+          {
+            "apiName": "Invited",
+            "label": "Invited",
+            "name": "Invited"
+          },
+          {
+            "apiName": "Marked As Spam",
+            "label": "Marked As Spam",
+            "name": "Marked As Spam"
+          },
+          {
+            "apiName": "Meeting Booked",
+            "label": "Meeting Booked",
+            "name": "Meeting Booked"
+          },
+          {
+            "apiName": "No Show",
+            "label": "No Show",
+            "name": "No Show"
+          },
+          {
+            "apiName": "On-Site Meeting",
+            "label": "On-Site Meeting",
+            "name": "On-Site Meeting"
+          },
+          {
+            "apiName": "Opened",
+            "label": "Opened",
+            "name": "Opened"
+          },
+          {
+            "apiName": "Opted Out",
+            "label": "Opted Out",
+            "name": "Opted Out"
+          },
+          {
+            "apiName": "Pending",
+            "label": "Pending",
+            "name": "Pending"
+          },
+          {
+            "apiName": "Pending Approval",
+            "label": "Pending Approval",
+            "name": "Pending Approval"
+          },
+          {
+            "apiName": "Registered",
+            "label": "Registered",
+            "name": "Registered"
+          },
+          {
+            "apiName": "Rejected",
+            "label": "Rejected",
+            "name": "Rejected"
+          },
+          {
+            "apiName": "Resilience Talk Attendees",
+            "label": "Resilience Talk Attendees",
+            "name": "Resilience Talk Attendees"
+          },
+          {
+            "apiName": "Responded",
+            "label": "Responded",
+            "name": "Responded"
+          },
+          {
+            "apiName": "Sent",
+            "label": "Sent",
+            "name": "Sent"
+          },
+          {
+            "apiName": "Unsubscribed",
+            "label": "Unsubscribed",
+            "name": "Unsubscribed"
+          },
+          {
+            "apiName": "Viewed On-Demand",
+            "label": "Viewed On-Demand",
+            "name": "Viewed On-Demand"
+          },
+          {
+            "apiName": "Virtual Booth Visitor",
+            "label": "Virtual Booth Visitor",
+            "name": "Virtual Booth Visitor"
+          },
+          {
+            "apiName": "Visited Booth",
+            "label": "Visited Booth",
+            "name": "Visited Booth"
+          },
+          {
+            "apiName": "Waitlist",
+            "label": "Waitlist",
+            "name": "Waitlist"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Status",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Member Status",
+        "uniqueCountable": true
+      },
+      "COMPANY": {
+        "dataType": "string",
+        "entityColumnName": "Lead.Company",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "Company",
+          "lookupEntityName": "Lead"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Company",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "Company",
+        "uniqueCountable": true
+      },
+      "LEAD_OWNER": {
+        "dataType": "string",
+        "entityColumnName": "Owner.Name",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Owner.Name",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "Lead Owner",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Lifecycle_Stage__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Lifecycle_Stage__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lifecycle_Stage__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Lifecycle Stage",
+        "uniqueCountable": true
+      },
+      "FIRST_NAME": {
+        "dataType": "string",
+        "entityColumnName": "Lead.Name",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "FirstName",
+          "lookupEntityName": "Lead"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.FirstName",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "First Name",
+        "uniqueCountable": true
+      },
+      "LAST_NAME": {
+        "dataType": "string",
+        "entityColumnName": "Lead.Name",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "LastName",
+          "lookupEntityName": "Lead"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.LastName",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "Last Name",
+        "uniqueCountable": true
+      },
+      "TITLE": {
+        "dataType": "string",
+        "entityColumnName": "Lead.Title",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "Title"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Title",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Title",
+        "uniqueCountable": true
+      },
+      "Lead.Lead_Notes__c": {
+        "dataType": "textarea",
+        "entityColumnName": "Lead.Lead_Notes__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Lead_Notes__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Lead Notes",
+        "uniqueCountable": false
+      },
+      "EMAIL": {
+        "dataType": "email",
+        "entityColumnName": "Lead.Email",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "Email"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Email",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Email",
+        "uniqueCountable": true
+      },
+      "MOBILE_PHONE": {
+        "dataType": "phone",
+        "entityColumnName": "Lead.MobilePhone",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "MobilePhone"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.MobilePhone",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Mobile",
+        "uniqueCountable": true
+      },
+      "Lead.Account_Type__c": {
+        "dataType": "string",
+        "entityColumnName": "Lead.Account_Type__c",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "Account_Type__c"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Account_Type__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Account Type",
+        "uniqueCountable": true
+      },
+      "Lead.LinkedIn__c": {
+        "dataType": "url",
+        "entityColumnName": "Lead.LinkedIn__c",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "LinkedIn__c"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.LinkedIn__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "LinkedIn",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Original_Source__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Original_Source__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Original_Source__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Original Source",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Original_Lead_Source__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Original_Lead_Source__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Original_Lead_Source__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Original Lead Source",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Latest_Source__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Latest_Source__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Latest_Source__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Latest Source",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Latest_Lead_Source__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Latest_Lead_Source__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Latest_Lead_Source__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Latest Lead Source",
+        "uniqueCountable": true
+      },
+      "Lead.Role_Groupings__c": {
+        "dataType": "picklist",
+        "entityColumnName": "Lead.Role_Groupings__c",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "Role_Groupings__c"
+        },
+        "filterValues": [
+          {
+            "apiName": "Technical Executive",
+            "label": "Technical Executive",
+            "name": "Technical Executive"
+          },
+          {
+            "apiName": "Business Executive",
+            "label": "Business Executive",
+            "name": "Business Executive"
+          },
+          {
+            "apiName": "Infrastructure",
+            "label": "Infrastructure",
+            "name": "Infrastructure"
+          },
+          {
+            "apiName": "Practitioner",
+            "label": "Practitioner",
+            "name": "Practitioner"
+          },
+          {
+            "apiName": "Technical Influencer",
+            "label": "Technical Influencer",
+            "name": "Technical Influencer"
+          },
+          {
+            "apiName": "Business Influencer",
+            "label": "Business Influencer",
+            "name": "Business Influencer"
+          },
+          {
+            "apiName": "Other / Unknown",
+            "label": "Other / Unknown",
+            "name": "Other / Unknown"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Role_Groupings__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Role Groupings",
+        "uniqueCountable": true
+      },
+      "CampaignMember.GTM_Persona__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.GTM_Persona__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.GTM_Persona__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "GTM Persona",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Clockwork_Persona__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Clockwork_Persona__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Clockwork_Persona__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Clockwork Persona",
+        "uniqueCountable": true
+      },
+      "CampaignMember.ICP_Persona__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.ICP_Persona__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.ICP_Persona__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "ICP Persona",
+        "uniqueCountable": true
+      },
+      "Lead.Latest_Marketing_Campaign__c": {
+        "dataType": "string",
+        "entityColumnName": "Lead.Latest_Marketing_Campaign__c",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "Latest_Marketing_Campaign__c"
+        },
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Latest_Marketing_Campaign__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Latest Marketing Campaign",
+        "uniqueCountable": true
+      },
+      "Lead.Event_Name__c": {
+        "dataType": "picklist",
+        "entityColumnName": "Lead.Event_Name__c",
+        "fieldInfo": {
+          "entityName": "Lead",
+          "fieldName": "Event_Name__c"
+        },
+        "filterValues": [
+          {
+            "apiName": "NVIDIA GTC 2026",
+            "label": "NVIDIA GTC 2026",
+            "name": "NVIDIA GTC 2026"
+          },
+          {
+            "apiName": "Supercomputing 2025",
+            "label": "Supercomputing 2025",
+            "name": "Supercomputing 2025"
+          },
+          {
+            "apiName": "Ray Summit 2025",
+            "label": "Ray Summit 2025",
+            "name": "Ray Summit 2025"
+          },
+          {
+            "apiName": "GTC DC 10-2025",
+            "label": "GTC DC 10-2025",
+            "name": "GTC DC 10-2025"
+          },
+          {
+            "apiName": "PyTorch Conference 2025",
+            "label": "PyTorch Conference 2025",
+            "name": "PyTorch Conference 2025"
+          },
+          {
+            "apiName": "AI Infra Summit 2025",
+            "label": "AI Infra Summit 2025",
+            "name": "AI Infra Summit 2025"
+          },
+          {
+            "apiName": "RAISE Summit 2025",
+            "label": "RAISE Summit 2025",
+            "name": "RAISE Summit 2025"
+          },
+          {
+            "apiName": "NVIDIA GTC Happy Hour 2025",
+            "label": "NVIDIA GTC Happy Hour 2025",
+            "name": "NVIDIA GTC Happy Hour 2025"
+          },
+          {
+            "apiName": "HumanX 2025",
+            "label": "HumanX 2025",
+            "name": "HumanX 2025"
+          },
+          {
+            "apiName": "Millenium Alliance - Miami - 2024",
+            "label": "Millenium Alliance - Miami - 2024",
+            "name": "Millenium Alliance - Miami - 2024"
+          },
+          {
+            "apiName": "SRECon Dublin 2024",
+            "label": "SRECon Dublin 2024",
+            "name": "SRECon Dublin 2024"
+          },
+          {
+            "apiName": "Gartner IT Symposium 2024",
+            "label": "Gartner IT Symposium 2024",
+            "name": "Gartner IT Symposium 2024"
+          },
+          {
+            "apiName": "Millenium Alliance - Austin -2024",
+            "label": "Millenium Alliance - Austin -2024",
+            "name": "Millenium Alliance - Austin -2024"
+          },
+          {
+            "apiName": "Oracle Cloud World 2024",
+            "label": "Oracle Cloud World 2024",
+            "name": "Oracle Cloud World 2024"
+          },
+          {
+            "apiName": "Cisco Live 2024",
+            "label": "Cisco Live 2024",
+            "name": "Cisco Live 2024"
+          },
+          {
+            "apiName": "Google Cloud Next 2024",
+            "label": "Google Cloud Next 2024",
+            "name": "Google Cloud Next 2024"
+          },
+          {
+            "apiName": "Oracle CloudWorld 2023",
+            "label": "Oracle CloudWorld 2023",
+            "name": "Oracle CloudWorld 2023"
+          },
+          {
+            "apiName": "AI Conference 2023",
+            "label": "AI Conference 2023",
+            "name": "AI Conference 2023"
+          },
+          {
+            "apiName": "FinOpsX 2023",
+            "label": "FinOpsX 2023",
+            "name": "FinOpsX 2023"
+          },
+          {
+            "apiName": "KubeCon EU 2023",
+            "label": "KubeCon EU 2023",
+            "name": "KubeCon EU 2023"
+          },
+          {
+            "apiName": "The Trading Show 2022",
+            "label": "The Trading Show 2022",
+            "name": "The Trading Show 2022"
+          },
+          {
+            "apiName": "KubeCon NA 2022",
+            "label": "KubeCon NA 2022",
+            "name": "KubeCon NA 2022"
+          },
+          {
+            "apiName": "OSS 2022",
+            "label": "OSS 2022",
+            "name": "OSS 2022"
+          },
+          {
+            "apiName": "GDC 2022",
+            "label": "GDC 2022",
+            "name": "GDC 2022"
+          },
+          {
+            "apiName": "STAC London Nov 2019",
+            "label": "STAC London Nov 2019",
+            "name": "STAC London Nov 2019"
+          },
+          {
+            "apiName": "STAC NY Oct 2019",
+            "label": "STAC NY Oct 2019",
+            "name": "STAC NY Oct 2019"
+          },
+          {
+            "apiName": "STAC Chicago Jun 2019",
+            "label": "STAC Chicago Jun 2019",
+            "name": "STAC Chicago Jun 2019"
+          },
+          {
+            "apiName": "PyTorch EU 2026",
+            "label": "PyTorch EU 2026",
+            "name": "PyTorch EU 2026"
+          },
+          {
+            "apiName": "HumanX 2026",
+            "label": "HumanX 2026",
+            "name": "HumanX 2026"
+          },
+          {
+            "apiName": "AI Infra Summit 2026",
+            "label": "AI Infra Summit 2026",
+            "name": "AI Infra Summit 2026"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lead.Event_Name__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Event Name",
+        "uniqueCountable": true
+      }
+    },
+    "groupingColumnInfo": {}
+  },
+  "reportMetadata": {
+    "aggregates": [
+      "RowCount"
+    ],
+    "chart": null,
+    "crossFilters": [],
+    "currency": null,
+    "dashboardSetting": null,
+    "description": null,
+    "detailColumns": [
+      "CAMPAIGN_CREATED_DATE",
+      "CAMPAIGN_NAME",
+      "MEMBER_STATUS",
+      "COMPANY",
+      "LEAD_OWNER",
+      "CampaignMember.Lifecycle_Stage__c",
+      "FIRST_NAME",
+      "LAST_NAME",
+      "TITLE",
+      "Lead.Lead_Notes__c",
+      "EMAIL",
+      "MOBILE_PHONE",
+      "Lead.Account_Type__c",
+      "Lead.LinkedIn__c",
+      "CampaignMember.Original_Source__c",
+      "CampaignMember.Original_Lead_Source__c",
+      "CampaignMember.Latest_Source__c",
+      "CampaignMember.Latest_Lead_Source__c",
+      "Lead.Role_Groupings__c",
+      "CampaignMember.GTM_Persona__c",
+      "CampaignMember.Clockwork_Persona__c",
+      "CampaignMember.ICP_Persona__c",
+      "Lead.Latest_Marketing_Campaign__c",
+      "Lead.Event_Name__c"
+    ],
+    "developerName": "X2026_Raise_Event_Campaigns_MembersJoe_LP3",
+    "division": null,
+    "folderId": "00DKb000000OzIgMAK",
+    "groupingsAcross": [],
+    "groupingsDown": [],
+    "hasDetailRows": true,
+    "hasRecordCount": true,
+    "historicalSnapshotDates": [],
+    "id": "00OTV00000TXatd2AD",
+    "name": "2026 AI Infra Summit Campaign leads-Joe",
+    "presentationOptions": {
+      "hasStackedSummaries": true
+    },
+    "reportBooleanFilter": null,
+    "reportFilters": [
+      {
+        "column": "CAMPAIGN_NAME",
+        "filterType": "fieldValue",
+        "isRunPageEditable": true,
+        "operator": "equals",
+        "value": "[AIInfra26] Booth Scans | 09-15-2026,[AIInfra26] Booth Scans | 09-16-2026,[AIInfra26] Booth Scans | 09-17-2026"
+      },
+      {
+        "column": "LEAD_OWNER",
+        "filterType": "fieldValue",
+        "isRunPageEditable": true,
+        "operator": "contains",
+        "value": "Joe"
+      }
+    ],
+    "reportFormat": "TABULAR",
+    "reportType": {
+      "label": "Campaigns with Leads",
+      "type": "CampaignLead"
+    },
+    "scope": "orgAll",
+    "showGrandTotal": true,
+    "showSubtotals": true,
+    "sortBy": [],
+    "standardDateFilter": null,
+    "standardFilters": [],
+    "supportsRoleHierarchy": false,
+    "userOrHierarchyFilterId": null
+  }
+}

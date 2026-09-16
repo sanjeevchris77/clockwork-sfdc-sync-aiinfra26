@@ -1,5 +1,510 @@
 [
   {
+    "opp_id": "006Kb00000JlkX4IAJ",
+    "owner": "Sean Coughlin",
+    "account": "Walmart",
+    "account_website": "walmart.com",
+    "domain": "walmart.com",
+    "amount": 250000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2024-04-26T17:42:01.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Jon Alferness",
+        "title": "EVP and Chief Product Officer",
+        "email": null
+      },
+      {
+        "name": "Jason Forrester",
+        "title": "Group Director/Technical Fellow",
+        "email": null
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkX4IAJ/view"
+  },
+  {
+    "opp_id": "006TV00000A9g0mYAB",
+    "owner": "Sean Coughlin",
+    "account": "Citi Bank",
+    "account_website": "www.citi.com",
+    "domain": "citi.com",
+    "amount": 450000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2024-09-12T17:42:46.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000A9g0mYAB/view"
+  },
+  {
+    "opp_id": "006TV00000A9g0oYAB",
+    "owner": "Sean Coughlin",
+    "account": "Adobe",
+    "account_website": "www.adobe.com",
+    "domain": "adobe.com",
+    "amount": 275000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2024-09-12T17:42:46.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000A9g0oYAB/view"
+  },
+  {
+    "opp_id": "006TV00000CGG1uYAH",
+    "owner": "Sean Coughlin",
+    "account": "Apple",
+    "account_website": "www.apple.com",
+    "domain": "apple.com",
+    "amount": 250000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2024-11-18T20:36:41.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Madhusudan Srivastava",
+        "title": "Manager, Site Reliability Engineering",
+        "email": "madhusudan_srivastava@apple.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CGG1uYAH/view"
+  },
+  {
+    "opp_id": "006TV00000CRnybYAD",
+    "owner": "Greg Mark",
+    "account": "Crusoe",
+    "account_website": "www.crusoe.ai",
+    "domain": "crusoe.ai",
+    "amount": 200000.0,
+    "stage": "03 - Technical Validation",
+    "is_open": true,
+    "lead_source": "Event",
+    "created_date": "2024-11-22T20:25:56.000+0000",
+    "origin": "Existing",
+    "campaign": "Speakers | Pre-Conf | RAISE 2025",
+    "contacts": [
+      {
+        "name": "Rose Brutkiewicz",
+        "title": null,
+        "email": "rbrutkiewicz@crusoe.ai"
+      },
+      {
+        "name": "Eloy Martinez",
+        "title": null,
+        "email": "emartinez@crusoe.ai"
+      },
+      {
+        "name": "Ryan Kiskis",
+        "title": null,
+        "email": "rkiskis@crusoe.ai"
+      },
+      {
+        "name": "Erwan James",
+        "title": "Group Product Manager - Networking",
+        "email": "ejames@crusoe.ai"
+      },
+      {
+        "name": "Aditya Shanker",
+        "title": "Group Product Manager",
+        "email": "ashanker@crusoe.ai"
+      },
+      {
+        "name": "Tamanna Sait",
+        "title": "VP of Engineering, Cloud",
+        "email": "tsait@crusoe.ai"
+      },
+      {
+        "name": "Raghav Bhargava",
+        "title": "Director, Network Engineering Ai & HPC Infrastructure",
+        "email": "rbhargava@crusoe.ai"
+      },
+      {
+        "name": "Nitin Perumbeti",
+        "title": "Chief Technology Officer",
+        "email": "nitin@crusoe.ai"
+      },
+      {
+        "name": "Nadav Eiron",
+        "title": "Senior VP, Cloud Engineering",
+        "email": "neiron@crusoe.ai"
+      },
+      {
+        "name": "Gavin McKee",
+        "title": "Senior Staff Engineer",
+        "email": "gavin@fluidstack.io"
+      },
+      {
+        "name": "Dathan Pattishall",
+        "title": "Director, Site Reliability Engineering",
+        "email": "dpattishall@crusoe.ai"
+      },
+      {
+        "name": "Chase Lochmiller",
+        "title": "Co-Founder & CEO",
+        "email": "chase@crusoe.ai"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CRnybYAD/view"
+  },
+  {
+    "opp_id": "006TV00000DLOKoYAP",
+    "owner": "Sean Coughlin",
+    "account": "GMI Cloud",
+    "account_website": "www.gmicloud.ai",
+    "domain": "gmicloud.ai",
+    "amount": 200000.0,
+    "stage": "01 - Qualified",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2024-12-13T23:39:46.000+0000",
+    "origin": "Existing",
+    "campaign": "One-Off | Marketing Event Catch All",
+    "contacts": [
+      {
+        "name": "Yujing Qian",
+        "title": "Vice President, Engineering",
+        "email": "yujing.q@gmicloud.ai"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000DLOKoYAP/view"
+  },
+  {
+    "opp_id": "006TV00000Dg1LDYAZ",
+    "owner": "Greg Mark",
+    "account": "Cirrascale",
+    "account_website": "www.cirrascale.com",
+    "domain": "cirrascale.com",
+    "amount": 200000,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Event",
+    "created_date": "2024-12-20T22:36:41.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "PJ Go",
+        "title": "Chief Executive Officer",
+        "email": "pj.go@cirrascale.com"
+      },
+      {
+        "name": "Will Hanau",
+        "title": "Ai Pipeline Software Engineer",
+        "email": "will.hanau@cirrascale.com"
+      },
+      {
+        "name": "David Driggers",
+        "title": "Chief Technology Officer",
+        "email": "dave.driggers@cirrascale.com"
+      },
+      {
+        "name": "Alexander Nataros",
+        "title": "Principal Software Architect",
+        "email": "alex.nataros@cirrascale.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000Dg1LDYAZ/view"
+  },
+  {
+    "opp_id": "006TV00000FBlKlYAL",
+    "owner": "Sean Coughlin",
+    "account": "Snowflake",
+    "account_website": "http://www.snowflake.com",
+    "domain": "snowflake.com",
+    "amount": 500000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2025-01-24T19:00:59.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000FBlKlYAL/view"
+  },
+  {
+    "opp_id": "006TV00000FBuB7YAL",
+    "owner": "Sean Coughlin",
+    "account": "SuperMicro",
+    "account_website": "www.supermicro.com",
+    "domain": "supermicro.com",
+    "amount": 350000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2025-01-24T18:51:49.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000FBuB7YAL/view"
+  },
+  {
+    "opp_id": "006TV00000FkfsOYAR",
+    "owner": "Sean Coughlin",
+    "account": "Walmart",
+    "account_website": "walmart.com",
+    "domain": "walmart.com",
+    "amount": 200000,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2025-02-07T22:14:12.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Roman Portnov",
+        "title": "Sr. Director Infrastructure Engineering",
+        "email": "roman.portnov@walmart.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000FkfsOYAR/view"
+  },
+  {
+    "opp_id": "006TV00000OahgYYAR",
+    "owner": "Greg Mark",
+    "account": "Meta",
+    "account_website": "meta.com",
+    "domain": "meta.com",
+    "amount": 200000,
+    "stage": "00 - Prospecting",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2025-09-15T18:54:38.000+0000",
+    "origin": "Existing",
+    "campaign": "PyTorch 2025 | Booth Leads | 2025-10-22",
+    "contacts": [
+      {
+        "name": "Luccabb Luccabb",
+        "title": "Software Engineer",
+        "email": "luccabazzo@gmail.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OahgYYAR/view"
+  },
+  {
+    "opp_id": "006TV00000OtKGRYA3",
+    "owner": "Greg Mark",
+    "account": "Cisco",
+    "account_website": "www.cisco.com",
+    "domain": "cisco.com",
+    "amount": 200000,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2025-09-22T16:58:17.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "samir parkikh",
+        "title": "product managmen exec",
+        "email": "saparikh@cisco.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OtKGRYA3/view"
+  },
+  {
+    "opp_id": "006TV00000RHmVJYA1",
+    "owner": "Greg Mark",
+    "account": "Apple",
+    "account_website": "www.apple.com",
+    "domain": "apple.com",
+    "amount": 200000.0,
+    "stage": "01 - Qualified",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2025-11-10T17:41:55.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Haocheng Bian",
+        "title": "Software Eng",
+        "email": "h_bian@apple.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000RHmVJYA1/view"
+  },
+  {
+    "opp_id": "006TV00000SEYUlYAP",
+    "owner": "Greg Mark",
+    "account": "eBay",
+    "account_website": "www.ebay.com",
+    "domain": "ebay.com",
+    "amount": 150000.0,
+    "stage": "01 - Qualified",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2025-12-01T18:38:25.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SEYUlYAP/view"
+  },
+  {
+    "opp_id": "006TV00000SgXM3YAN",
+    "owner": "Greg Mark",
+    "account": "Qualcomm",
+    "account_website": "www.qualcomm.com",
+    "domain": "qualcomm.com",
+    "amount": 200000,
+    "stage": "00 - Prospecting",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2025-12-12T17:56:34.000+0000",
+    "origin": "Existing",
+    "campaign": "[Webinar] Enterprise AI at Scale | 2025-11-11",
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SgXM3YAN/view"
+  },
+  {
+    "opp_id": "006TV00000SnzDVYAZ",
+    "owner": "Greg Mark",
+    "account": "Microsoft",
+    "account_website": "www.microsoft.com",
+    "domain": "microsoft.com",
+    "amount": 300000.0,
+    "stage": "03 - Technical Validation",
+    "is_open": true,
+    "lead_source": "Event",
+    "created_date": "2025-12-15T19:33:30.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Deepak Bansal",
+        "title": "General Manager and Corporate Vice President",
+        "email": "dbansal@microsoft.com"
+      },
+      {
+        "name": "Chandan Aggarwal",
+        "title": "Partner Group Engineering Manager, Azure Core",
+        "email": "chandan.aggarwal@microsoft.com"
+      },
+      {
+        "name": "Mathew Merrick",
+        "title": null,
+        "email": "mathew.merrick@microsoft.com"
+      },
+      {
+        "name": "Marina Gonzalez",
+        "title": "Sr Software Engineer",
+        "email": "marina.gonzalez@wayve.ai"
+      },
+      {
+        "name": "Ashvin Deodhar",
+        "title": "Principal Software Engineer",
+        "email": "ashvin.deodhar@microsoft.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SnzDVYAZ/view"
+  },
+  {
+    "opp_id": "006TV00000U4duMYAR",
+    "owner": "Sean Coughlin",
+    "account": "CoreWeave",
+    "account_website": "www.coreweave.com",
+    "domain": "coreweave.com",
+    "amount": 550000.0,
+    "stage": "03 - Technical Validation",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2026-01-16T18:54:27.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Tara Madhyastha",
+        "title": "Senior Solutions Architect",
+        "email": "tmadhyastha@coreweave.com"
+      },
+      {
+        "name": "Andreas Lundin",
+        "title": null,
+        "email": "alundin@coreweave.com"
+      },
+      {
+        "name": "Liang Yan",
+        "title": null,
+        "email": "lyan@coreweave.com"
+      },
+      {
+        "name": "Christopher Fregly",
+        "title": null,
+        "email": "cfregly@coreweave.com"
+      },
+      {
+        "name": "Suchit Bansal",
+        "title": null,
+        "email": "sbansal@coreweave.com"
+      },
+      {
+        "name": "Anton Gunnarsson",
+        "title": null,
+        "email": "agunnarsson@coreweave.com"
+      },
+      {
+        "name": "Rickhard C.",
+        "title": "Head of HPC Network",
+        "email": null
+      },
+      {
+        "name": "Peter Salanki",
+        "title": "Chief Technology Officer",
+        "email": "peter@coreweave.com"
+      },
+      {
+        "name": "Chen Goldberg",
+        "title": "Executive Vice President of Product & Engineering",
+        "email": "cgoldberg@coreweave.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000U4duMYAR/view"
+  },
+  {
+    "opp_id": "006TV00000WxGuMYAV",
+    "owner": "Greg Mark",
+    "account": "Adobe",
+    "account_website": "www.adobe.com",
+    "domain": "adobe.com",
+    "amount": 150000.0,
+    "stage": "01 - Qualified",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2026-03-25T00:37:17.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000WxGuMYAV/view"
+  },
+  {
+    "opp_id": "006TV00000WxNFtYAN",
+    "owner": "Greg Mark",
+    "account": "Pinterest",
+    "account_website": "https://www.pinterest.com/",
+    "domain": "pinterest.com",
+    "amount": 150000.0,
+    "stage": "01 - Qualified",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2026-03-25T00:22:52.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000WxNFtYAN/view"
+  },
+  {
     "opp_id": "006TV00000ZROq6YAH",
     "owner": "Chris Bowen",
     "account": "Argonne National Laboratory",
@@ -25,5 +530,21 @@
       }
     ],
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000ZROq6YAH/view"
+  },
+  {
+    "opp_id": "006TV00000dWYxmYAG",
+    "owner": "Greg Mark",
+    "account": "Microsoft",
+    "account_website": "www.microsoft.com",
+    "domain": "microsoft.com",
+    "amount": 200000.0,
+    "stage": "00 - Prospecting",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2026-08-21T14:23:24.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000dWYxmYAG/view"
   }
 ]

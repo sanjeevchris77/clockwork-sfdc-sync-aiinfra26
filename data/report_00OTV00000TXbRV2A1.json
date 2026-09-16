@@ -1,0 +1,1215 @@
+{
+  "attributes": {
+    "describeUrl": "/services/data/v60.0/analytics/reports/00OTV00000TXbRV2A1/describe",
+    "instancesUrl": "/services/data/v60.0/analytics/reports/00OTV00000TXbRV2A1/instances",
+    "reportId": "00OTV00000TXbRV2A1",
+    "reportName": "2026 AI Infra Summit Camp Contacts-Chris",
+    "type": "Report"
+  },
+  "allData": true,
+  "factMap": {
+    "T!T": {
+      "aggregates": [
+        {
+          "label": "0",
+          "value": 0
+        }
+      ],
+      "rows": []
+    }
+  },
+  "groupingsAcross": {
+    "groupings": []
+  },
+  "groupingsDown": {
+    "groupings": []
+  },
+  "hasDetailRows": true,
+  "picklistColors": {},
+  "reportExtendedMetadata": {
+    "aggregateColumnInfo": {
+      "RowCount": {
+        "dataType": "int",
+        "label": "Record Count"
+      }
+    },
+    "availableDashboardSettings": null,
+    "detailColumnInfo": {
+      "CAMPAIGN_CREATED_DATE": {
+        "dataType": "date",
+        "entityColumnName": "Campaign.CreatedDate",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CreatedDate",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Created Date",
+        "uniqueCountable": true
+      },
+      "CAMPAIGN_NAME": {
+        "dataType": "string",
+        "entityColumnName": "Campaign.Name",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.Name",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "Campaign Name",
+        "uniqueCountable": true
+      },
+      "MEMBER_STATUS": {
+        "dataType": "picklist",
+        "entityColumnName": "CampaignMember.Status",
+        "filterValues": [
+          {
+            "apiName": "Accepted",
+            "label": "Accepted",
+            "name": "Accepted"
+          },
+          {
+            "apiName": "Attended",
+            "label": "Attended",
+            "name": "Attended"
+          },
+          {
+            "apiName": "Attendee",
+            "label": "Attendee",
+            "name": "Attendee"
+          },
+          {
+            "apiName": "Bounced",
+            "label": "Bounced",
+            "name": "Bounced"
+          },
+          {
+            "apiName": "Cancelled",
+            "label": "Cancelled",
+            "name": "Cancelled"
+          },
+          {
+            "apiName": "Chat Replied",
+            "label": "Chat Replied",
+            "name": "Chat Replied"
+          },
+          {
+            "apiName": "Chat Requested",
+            "label": "Chat Requested",
+            "name": "Chat Requested"
+          },
+          {
+            "apiName": "Clicked",
+            "label": "Clicked",
+            "name": "Clicked"
+          },
+          {
+            "apiName": "Declined",
+            "label": "Declined",
+            "name": "Declined"
+          },
+          {
+            "apiName": "Delivered",
+            "label": "Delivered",
+            "name": "Delivered"
+          },
+          {
+            "apiName": "Demo Requested",
+            "label": "Demo Requested",
+            "name": "Demo Requested"
+          },
+          {
+            "apiName": "Followed Up With",
+            "label": "Followed Up With",
+            "name": "Followed Up With"
+          },
+          {
+            "apiName": "Inbound Scans",
+            "label": "Inbound Scans",
+            "name": "Inbound Scans"
+          },
+          {
+            "apiName": "Invited",
+            "label": "Invited",
+            "name": "Invited"
+          },
+          {
+            "apiName": "Marked As Spam",
+            "label": "Marked As Spam",
+            "name": "Marked As Spam"
+          },
+          {
+            "apiName": "Meeting Booked",
+            "label": "Meeting Booked",
+            "name": "Meeting Booked"
+          },
+          {
+            "apiName": "No Show",
+            "label": "No Show",
+            "name": "No Show"
+          },
+          {
+            "apiName": "On-Site Meeting",
+            "label": "On-Site Meeting",
+            "name": "On-Site Meeting"
+          },
+          {
+            "apiName": "Opened",
+            "label": "Opened",
+            "name": "Opened"
+          },
+          {
+            "apiName": "Opted Out",
+            "label": "Opted Out",
+            "name": "Opted Out"
+          },
+          {
+            "apiName": "Pending",
+            "label": "Pending",
+            "name": "Pending"
+          },
+          {
+            "apiName": "Pending Approval",
+            "label": "Pending Approval",
+            "name": "Pending Approval"
+          },
+          {
+            "apiName": "Registered",
+            "label": "Registered",
+            "name": "Registered"
+          },
+          {
+            "apiName": "Rejected",
+            "label": "Rejected",
+            "name": "Rejected"
+          },
+          {
+            "apiName": "Resilience Talk Attendees",
+            "label": "Resilience Talk Attendees",
+            "name": "Resilience Talk Attendees"
+          },
+          {
+            "apiName": "Responded",
+            "label": "Responded",
+            "name": "Responded"
+          },
+          {
+            "apiName": "Sent",
+            "label": "Sent",
+            "name": "Sent"
+          },
+          {
+            "apiName": "Unsubscribed",
+            "label": "Unsubscribed",
+            "name": "Unsubscribed"
+          },
+          {
+            "apiName": "Viewed On-Demand",
+            "label": "Viewed On-Demand",
+            "name": "Viewed On-Demand"
+          },
+          {
+            "apiName": "Virtual Booth Visitor",
+            "label": "Virtual Booth Visitor",
+            "name": "Virtual Booth Visitor"
+          },
+          {
+            "apiName": "Visited Booth",
+            "label": "Visited Booth",
+            "name": "Visited Booth"
+          },
+          {
+            "apiName": "Waitlist",
+            "label": "Waitlist",
+            "name": "Waitlist"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Status",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Member Status",
+        "uniqueCountable": true
+      },
+      "ACCOUNT.NAME": {
+        "dataType": "string",
+        "entityColumnName": "Account.Name",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Account.Name",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "Account Name",
+        "uniqueCountable": true
+      },
+      "CONTACT_OWNER": {
+        "dataType": "string",
+        "entityColumnName": "User.Name",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Owner.Name",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "Contact Owner",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Lifecycle_Stage__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Lifecycle_Stage__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Lifecycle_Stage__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Lifecycle Stage",
+        "uniqueCountable": true
+      },
+      "Contact.Status__c": {
+        "dataType": "picklist",
+        "entityColumnName": "Contact.Status__c",
+        "filterValues": [
+          {
+            "apiName": "Open",
+            "label": "Open",
+            "name": "Open"
+          },
+          {
+            "apiName": "In Progress (MEL)",
+            "label": "In Progress (MEL)",
+            "name": "In Progress (MEL)"
+          },
+          {
+            "apiName": "In Progress (MQL)",
+            "label": "In Progress (MQL)",
+            "name": "In Progress (MQL)"
+          },
+          {
+            "apiName": "In Progress (SAL)",
+            "label": "In Progress (SAL)",
+            "name": "In Progress (SAL)"
+          },
+          {
+            "apiName": "Connected",
+            "label": "Connected",
+            "name": "Connected"
+          },
+          {
+            "apiName": "Open Deal",
+            "label": "Open Deal",
+            "name": "Open Deal"
+          },
+          {
+            "apiName": "Customer",
+            "label": "Customer",
+            "name": "Customer"
+          },
+          {
+            "apiName": "Remarket",
+            "label": "Remarket",
+            "name": "Remarket"
+          },
+          {
+            "apiName": "Attempted to Contact",
+            "label": "Attempted to Contact",
+            "name": "Attempted to Contact"
+          },
+          {
+            "apiName": "Unqualified",
+            "label": "Unqualified",
+            "name": "Unqualified"
+          },
+          {
+            "apiName": "Bad Timing",
+            "label": "Bad Timing",
+            "name": "Bad Timing"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Status__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Status",
+        "uniqueCountable": true
+      },
+      "FIRST_NAME": {
+        "dataType": "string",
+        "entityColumnName": "Contact.Name",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.FirstName",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "First Name",
+        "uniqueCountable": true
+      },
+      "LAST_NAME": {
+        "dataType": "string",
+        "entityColumnName": "Contact.Name",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.LastName",
+        "inactiveFilterValues": [],
+        "isLookup": true,
+        "label": "Last Name",
+        "uniqueCountable": true
+      },
+      "TITLE": {
+        "dataType": "string",
+        "entityColumnName": "Contact.Title",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Title",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Title",
+        "uniqueCountable": true
+      },
+      "Contact.Contact_Notes__c": {
+        "dataType": "textarea",
+        "entityColumnName": "Contact.Contact_Notes__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Contact_Notes__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Contact Notes",
+        "uniqueCountable": false
+      },
+      "EMAIL": {
+        "dataType": "email",
+        "entityColumnName": "Contact.Email",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Email",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Email",
+        "uniqueCountable": true
+      },
+      "PHONE3": {
+        "dataType": "phone",
+        "entityColumnName": "Contact.MobilePhone",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.MobilePhone",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Mobile",
+        "uniqueCountable": true
+      },
+      "ACCOUNT_TYPE": {
+        "dataType": "picklist",
+        "entityColumnName": "Account.Type",
+        "filterValues": [
+          {
+            "apiName": "Analyst",
+            "label": "Analyst",
+            "name": "Analyst"
+          },
+          {
+            "apiName": "Competitor",
+            "label": "Competitor",
+            "name": "Competitor"
+          },
+          {
+            "apiName": "Churned Customer",
+            "label": "Churned Customer",
+            "name": "Churned Customer"
+          },
+          {
+            "apiName": "Customer",
+            "label": "Customer",
+            "name": "Customer"
+          },
+          {
+            "apiName": "Integrator",
+            "label": "Integrator",
+            "name": "Integrator"
+          },
+          {
+            "apiName": "Investor",
+            "label": "Investor",
+            "name": "Investor"
+          },
+          {
+            "apiName": "Partner",
+            "label": "Partner",
+            "name": "Partner"
+          },
+          {
+            "apiName": "Press",
+            "label": "Press",
+            "name": "Press"
+          },
+          {
+            "apiName": "Prospect",
+            "label": "Prospect",
+            "name": "Prospect"
+          },
+          {
+            "apiName": "Reseller",
+            "label": "Reseller",
+            "name": "Reseller"
+          },
+          {
+            "apiName": "Other",
+            "label": "Other",
+            "name": "Other"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Account.Type",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Account Type",
+        "uniqueCountable": true
+      },
+      "Contact.LinkedIn__c": {
+        "dataType": "url",
+        "entityColumnName": "Contact.LinkedIn__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.LinkedIn__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "LinkedIn",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Original_Source__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Original_Source__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Original_Source__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Original Source",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Latest_Source__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Latest_Source__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Latest_Source__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Latest Source",
+        "uniqueCountable": true
+      },
+      "Contact.Original_Lead_Source__c": {
+        "dataType": "picklist",
+        "entityColumnName": "Contact.Original_Lead_Source__c",
+        "filterValues": [
+          {
+            "apiName": "Sales",
+            "label": "Sales",
+            "name": "Sales"
+          },
+          {
+            "apiName": "BDR",
+            "label": "BDR",
+            "name": "BDR"
+          },
+          {
+            "apiName": "Event",
+            "label": "Event",
+            "name": "Event"
+          },
+          {
+            "apiName": "Website",
+            "label": "Website",
+            "name": "Website"
+          },
+          {
+            "apiName": "Neocloud",
+            "label": "Neocloud",
+            "name": "Neocloud"
+          },
+          {
+            "apiName": "Channel Partner",
+            "label": "Channel Partner",
+            "name": "Channel Partner"
+          },
+          {
+            "apiName": "Employee Referral",
+            "label": "Employee Referral",
+            "name": "Employee Referral"
+          },
+          {
+            "apiName": "Executive Referral",
+            "label": "Executive Referral",
+            "name": "Executive Referral"
+          },
+          {
+            "apiName": "Analyst Referral",
+            "label": "Analyst Referral",
+            "name": "Analyst Referral"
+          },
+          {
+            "apiName": "Customer Referral",
+            "label": "Customer Referral",
+            "name": "Customer Referral"
+          },
+          {
+            "apiName": "Agentic",
+            "label": "Agentic",
+            "name": "Agentic"
+          },
+          {
+            "apiName": "Community",
+            "label": "Community",
+            "name": "Community"
+          },
+          {
+            "apiName": "Customer Event",
+            "label": "Customer Event",
+            "name": "Customer Event"
+          },
+          {
+            "apiName": "Partner",
+            "label": "Partner",
+            "name": "Partner"
+          },
+          {
+            "apiName": "Email",
+            "label": "Email",
+            "name": "Email"
+          },
+          {
+            "apiName": "Influencer",
+            "label": "Influencer",
+            "name": "Influencer"
+          },
+          {
+            "apiName": "ISV",
+            "label": "ISV",
+            "name": "ISV"
+          },
+          {
+            "apiName": "Marketplace",
+            "label": "Marketplace",
+            "name": "Marketplace"
+          },
+          {
+            "apiName": "Paid Media",
+            "label": "Paid Media",
+            "name": "Paid Media"
+          },
+          {
+            "apiName": "Product Sign Up",
+            "label": "Product Sign Up",
+            "name": "Product Sign Up"
+          },
+          {
+            "apiName": "SEO",
+            "label": "SEO",
+            "name": "SEO"
+          },
+          {
+            "apiName": "Social",
+            "label": "Social",
+            "name": "Social"
+          },
+          {
+            "apiName": "Webinar",
+            "label": "Webinar",
+            "name": "Webinar"
+          },
+          {
+            "apiName": "Storage",
+            "label": "Storage",
+            "name": "Storage"
+          },
+          {
+            "apiName": "System Integrator",
+            "label": "System Integrator",
+            "name": "System Integrator"
+          },
+          {
+            "apiName": "Product",
+            "label": "Product",
+            "name": "Product"
+          },
+          {
+            "apiName": "BOD",
+            "label": "BOD",
+            "name": "BOD"
+          },
+          {
+            "apiName": "Other",
+            "label": "Other",
+            "name": "Other"
+          },
+          {
+            "apiName": "Ample markets",
+            "label": "Ample markets",
+            "name": "Ample markets"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Original_Lead_Source__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Original Lead Source",
+        "uniqueCountable": true
+      },
+      "CampaignMember.Latest_Lead_Source__c": {
+        "dataType": "string",
+        "entityColumnName": "CampaignMember.Latest_Lead_Source__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Latest_Lead_Source__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Latest Lead Source",
+        "uniqueCountable": true
+      },
+      "Contact.Role_Groupings_Contact__c": {
+        "dataType": "picklist",
+        "entityColumnName": "Contact.Role_Groupings_Contact__c",
+        "filterValues": [
+          {
+            "apiName": "Technical Executive",
+            "label": "Technical Executive",
+            "name": "Technical Executive"
+          },
+          {
+            "apiName": "Business Executive",
+            "label": "Business Executive",
+            "name": "Business Executive"
+          },
+          {
+            "apiName": "Infrastructure",
+            "label": "Infrastructure",
+            "name": "Infrastructure"
+          },
+          {
+            "apiName": "Practitioner",
+            "label": "Practitioner",
+            "name": "Practitioner"
+          },
+          {
+            "apiName": "Technical Influencer",
+            "label": "Technical Influencer",
+            "name": "Technical Influencer"
+          },
+          {
+            "apiName": "Business Influencer",
+            "label": "Business Influencer",
+            "name": "Business Influencer"
+          },
+          {
+            "apiName": "Other / Unknown",
+            "label": "Other / Unknown",
+            "name": "Other / Unknown"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Role_Groupings_Contact__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Role Groupings",
+        "uniqueCountable": true
+      },
+      "Contact.GTM_Persona_Contact__c": {
+        "dataType": "multipicklist",
+        "entityColumnName": "Contact.GTM_Persona_Contact__c",
+        "filterValues": [
+          {
+            "apiName": "Practitioner",
+            "label": "Practitioner",
+            "name": "Practitioner"
+          },
+          {
+            "apiName": "Infrastructure",
+            "label": "Infrastructure",
+            "name": "Infrastructure"
+          },
+          {
+            "apiName": "Executive",
+            "label": "Executive",
+            "name": "Executive"
+          },
+          {
+            "apiName": "Other / Unknown",
+            "label": "Other / Unknown",
+            "name": "Other / Unknown"
+          },
+          {
+            "apiName": "Other",
+            "label": "Other",
+            "name": "Other"
+          },
+          {
+            "apiName": "Unknown",
+            "label": "Unknown",
+            "name": "Unknown"
+          },
+          {
+            "apiName": "Irrelevant",
+            "label": "Irrelevant",
+            "name": "Irrelevant"
+          },
+          {
+            "apiName": "Neo Cloud",
+            "label": "Neo Cloud",
+            "name": "Neo Cloud"
+          },
+          {
+            "apiName": "Hyperscaler",
+            "label": "Hyperscaler",
+            "name": "Hyperscaler"
+          },
+          {
+            "apiName": "Potential Prospect",
+            "label": "Potential Prospect",
+            "name": "Potential Prospect"
+          },
+          {
+            "apiName": "Potential Partner",
+            "label": "Potential Partner",
+            "name": "Potential Partner"
+          },
+          {
+            "apiName": "Influencer",
+            "label": "Influencer",
+            "name": "Influencer"
+          },
+          {
+            "apiName": "Customer",
+            "label": "Customer",
+            "name": "Customer"
+          },
+          {
+            "apiName": "Competitor",
+            "label": "Competitor",
+            "name": "Competitor"
+          },
+          {
+            "apiName": "Candidate",
+            "label": "Candidate",
+            "name": "Candidate"
+          },
+          {
+            "apiName": "Enterprise",
+            "label": "Enterprise",
+            "name": "Enterprise"
+          },
+          {
+            "apiName": "Partner SI",
+            "label": "Partner SI",
+            "name": "Partner SI"
+          },
+          {
+            "apiName": "Partner OEM",
+            "label": "Partner OEM",
+            "name": "Partner OEM"
+          },
+          {
+            "apiName": "Partner ISV",
+            "label": "Partner ISV",
+            "name": "Partner ISV"
+          },
+          {
+            "apiName": "Partner Marketplace",
+            "label": "Partner Marketplace",
+            "name": "Partner Marketplace"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.GTM_Persona_Contact__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "GTM Persona",
+        "uniqueCountable": false
+      },
+      "Contact.Clockwork_Persona_Contact__c": {
+        "dataType": "picklist",
+        "entityColumnName": "Contact.Clockwork_Persona_Contact__c",
+        "filterValues": [
+          {
+            "apiName": "AI/ML Researcher",
+            "label": "AI/ML Researcher",
+            "name": "AI/ML Researcher"
+          },
+          {
+            "apiName": "AI Engineer",
+            "label": "AI Engineer",
+            "name": "AI Engineer"
+          },
+          {
+            "apiName": "AI Infrastructure",
+            "label": "AI Infrastructure",
+            "name": "AI Infrastructure"
+          },
+          {
+            "apiName": "AI Platform",
+            "label": "AI Platform",
+            "name": "AI Platform"
+          },
+          {
+            "apiName": "Architecture",
+            "label": "Architecture",
+            "name": "Architecture"
+          },
+          {
+            "apiName": "Business Exec",
+            "label": "Business Exec",
+            "name": "Business Exec"
+          },
+          {
+            "apiName": "CXO",
+            "label": "CXO",
+            "name": "CXO"
+          },
+          {
+            "apiName": "DevOps",
+            "label": "DevOps",
+            "name": "DevOps"
+          },
+          {
+            "apiName": "Engineering",
+            "label": "Engineering",
+            "name": "Engineering"
+          },
+          {
+            "apiName": "HPC",
+            "label": "HPC",
+            "name": "HPC"
+          },
+          {
+            "apiName": "Infrastructure",
+            "label": "Infrastructure",
+            "name": "Infrastructure"
+          },
+          {
+            "apiName": "MLOps",
+            "label": "MLOps",
+            "name": "MLOps"
+          },
+          {
+            "apiName": "Networking",
+            "label": "Networking",
+            "name": "Networking"
+          },
+          {
+            "apiName": "Other",
+            "label": "Other",
+            "name": "Other"
+          },
+          {
+            "apiName": "Other / Unknown",
+            "label": "Other / Unknown",
+            "name": "Other / Unknown"
+          },
+          {
+            "apiName": "Platform Engineer",
+            "label": "Platform Engineer",
+            "name": "Platform Engineer"
+          },
+          {
+            "apiName": "Product Management",
+            "label": "Product Management",
+            "name": "Product Management"
+          },
+          {
+            "apiName": "Software Engineer",
+            "label": "Software Engineer",
+            "name": "Software Engineer"
+          },
+          {
+            "apiName": "SRE",
+            "label": "SRE",
+            "name": "SRE"
+          },
+          {
+            "apiName": "Technical Exec",
+            "label": "Technical Exec",
+            "name": "Technical Exec"
+          },
+          {
+            "apiName": "Technology",
+            "label": "Technology",
+            "name": "Technology"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Clockwork_Persona_Contact__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Clockwork Persona",
+        "uniqueCountable": true
+      },
+      "Contact.ICP_Persona_Contact__c": {
+        "dataType": "picklist",
+        "entityColumnName": "Contact.ICP_Persona_Contact__c",
+        "filterValues": [
+          {
+            "apiName": "High",
+            "label": "High",
+            "name": "High"
+          },
+          {
+            "apiName": "Medium",
+            "label": "Medium",
+            "name": "Medium"
+          },
+          {
+            "apiName": "Low",
+            "label": "Low",
+            "name": "Low"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.ICP_Persona_Contact__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "ICP Persona",
+        "uniqueCountable": true
+      },
+      "Contact.Latest_Marketing_Campaign__c": {
+        "dataType": "string",
+        "entityColumnName": "Contact.Latest_Marketing_Campaign__c",
+        "filterValues": [],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Latest_Marketing_Campaign__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Latest Marketing Campaign",
+        "uniqueCountable": true
+      },
+      "Contact.Event_Name__c": {
+        "dataType": "picklist",
+        "entityColumnName": "Contact.Event_Name__c",
+        "filterValues": [
+          {
+            "apiName": "NVIDIA GTC 2026",
+            "label": "NVIDIA GTC 2026",
+            "name": "NVIDIA GTC 2026"
+          },
+          {
+            "apiName": "Supercomputing 2025",
+            "label": "Supercomputing 2025",
+            "name": "Supercomputing 2025"
+          },
+          {
+            "apiName": "Ray Summit 2025",
+            "label": "Ray Summit 2025",
+            "name": "Ray Summit 2025"
+          },
+          {
+            "apiName": "GTC DC 10-2025",
+            "label": "GTC DC 10-2025",
+            "name": "GTC DC 10-2025"
+          },
+          {
+            "apiName": "PyTorch Conference 2025",
+            "label": "PyTorch Conference 2025",
+            "name": "PyTorch Conference 2025"
+          },
+          {
+            "apiName": "AI Infra Summit 2025",
+            "label": "AI Infra Summit 2025",
+            "name": "AI Infra Summit 2025"
+          },
+          {
+            "apiName": "RAISE Summit 2025",
+            "label": "RAISE Summit 2025",
+            "name": "RAISE Summit 2025"
+          },
+          {
+            "apiName": "NVIDIA GTC Happy Hour 2025",
+            "label": "NVIDIA GTC Happy Hour 2025",
+            "name": "NVIDIA GTC Happy Hour 2025"
+          },
+          {
+            "apiName": "HumanX 2025",
+            "label": "HumanX 2025",
+            "name": "HumanX 2025"
+          },
+          {
+            "apiName": "Millenium Alliance - Miami - 2024",
+            "label": "Millenium Alliance - Miami - 2024",
+            "name": "Millenium Alliance - Miami - 2024"
+          },
+          {
+            "apiName": "SRECon Dublin 2024",
+            "label": "SRECon Dublin 2024",
+            "name": "SRECon Dublin 2024"
+          },
+          {
+            "apiName": "Gartner IT Symposium 2024",
+            "label": "Gartner IT Symposium 2024",
+            "name": "Gartner IT Symposium 2024"
+          },
+          {
+            "apiName": "Millenium Alliance - Austin -2024",
+            "label": "Millenium Alliance - Austin -2024",
+            "name": "Millenium Alliance - Austin -2024"
+          },
+          {
+            "apiName": "Oracle Cloud World 2024",
+            "label": "Oracle Cloud World 2024",
+            "name": "Oracle Cloud World 2024"
+          },
+          {
+            "apiName": "Cisco Live 2024",
+            "label": "Cisco Live 2024",
+            "name": "Cisco Live 2024"
+          },
+          {
+            "apiName": "Google Cloud Next 2024",
+            "label": "Google Cloud Next 2024",
+            "name": "Google Cloud Next 2024"
+          },
+          {
+            "apiName": "Oracle CloudWorld 2023",
+            "label": "Oracle CloudWorld 2023",
+            "name": "Oracle CloudWorld 2023"
+          },
+          {
+            "apiName": "AI Conference 2023",
+            "label": "AI Conference 2023",
+            "name": "AI Conference 2023"
+          },
+          {
+            "apiName": "FinOpsX 2023",
+            "label": "FinOpsX 2023",
+            "name": "FinOpsX 2023"
+          },
+          {
+            "apiName": "KubeCon EU 2023",
+            "label": "KubeCon EU 2023",
+            "name": "KubeCon EU 2023"
+          },
+          {
+            "apiName": "The Trading Show 2022",
+            "label": "The Trading Show 2022",
+            "name": "The Trading Show 2022"
+          },
+          {
+            "apiName": "KubeCon NA 2022",
+            "label": "KubeCon NA 2022",
+            "name": "KubeCon NA 2022"
+          },
+          {
+            "apiName": "OSS 2022",
+            "label": "OSS 2022",
+            "name": "OSS 2022"
+          },
+          {
+            "apiName": "GDC 2022",
+            "label": "GDC 2022",
+            "name": "GDC 2022"
+          },
+          {
+            "apiName": "STAC London Nov 2019",
+            "label": "STAC London Nov 2019",
+            "name": "STAC London Nov 2019"
+          },
+          {
+            "apiName": "STAC NY Oct 2019",
+            "label": "STAC NY Oct 2019",
+            "name": "STAC NY Oct 2019"
+          },
+          {
+            "apiName": "STAC Chicago Jun 2019",
+            "label": "STAC Chicago Jun 2019",
+            "name": "STAC Chicago Jun 2019"
+          },
+          {
+            "apiName": "AI Infra Summit 2026",
+            "label": "AI Infra Summit 2026",
+            "name": "AI Infra Summit 2026"
+          }
+        ],
+        "filterable": true,
+        "fullyQualifiedName": "Campaign.CampaignMember.Contact.Event_Name__c",
+        "inactiveFilterValues": [],
+        "isLookup": false,
+        "label": "Event Name",
+        "uniqueCountable": true
+      }
+    },
+    "groupingColumnInfo": {}
+  },
+  "reportMetadata": {
+    "aggregates": [
+      "RowCount"
+    ],
+    "chart": null,
+    "crossFilters": [],
+    "currency": null,
+    "dashboardSetting": null,
+    "description": null,
+    "detailColumns": [
+      "CAMPAIGN_CREATED_DATE",
+      "CAMPAIGN_NAME",
+      "MEMBER_STATUS",
+      "ACCOUNT.NAME",
+      "CONTACT_OWNER",
+      "CampaignMember.Lifecycle_Stage__c",
+      "Contact.Status__c",
+      "FIRST_NAME",
+      "LAST_NAME",
+      "TITLE",
+      "Contact.Contact_Notes__c",
+      "EMAIL",
+      "PHONE3",
+      "ACCOUNT_TYPE",
+      "Contact.LinkedIn__c",
+      "CampaignMember.Original_Source__c",
+      "CampaignMember.Latest_Source__c",
+      "Contact.Original_Lead_Source__c",
+      "CampaignMember.Latest_Lead_Source__c",
+      "Contact.Role_Groupings_Contact__c",
+      "Contact.GTM_Persona_Contact__c",
+      "Contact.Clockwork_Persona_Contact__c",
+      "Contact.ICP_Persona_Contact__c",
+      "Contact.Latest_Marketing_Campaign__c",
+      "Contact.Event_Name__c"
+    ],
+    "developerName": "X2026_Raise_Event_Campaign_ContactsChris_sl1",
+    "division": null,
+    "folderId": "00DKb000000OzIgMAK",
+    "groupingsAcross": [],
+    "groupingsDown": [],
+    "hasDetailRows": true,
+    "hasRecordCount": true,
+    "historicalSnapshotDates": [],
+    "id": "00OTV00000TXbRV2A1",
+    "name": "2026 AI Infra Summit Camp Contacts-Chris",
+    "presentationOptions": {
+      "hasStackedSummaries": true
+    },
+    "reportBooleanFilter": null,
+    "reportFilters": [
+      {
+        "column": "CAMPAIGN_NAME",
+        "filterType": "fieldValue",
+        "isRunPageEditable": true,
+        "operator": "equals",
+        "value": "[AIInfra26] Booth Scans | 09-15-2026,[AIInfra26] Booth Scans | 09-16-2026,[AIInfra26] Booth Scans | 09-17-2026"
+      },
+      {
+        "column": "CONTACT_OWNER",
+        "filterType": "fieldValue",
+        "isRunPageEditable": true,
+        "operator": "contains",
+        "value": "Chris"
+      }
+    ],
+    "reportFormat": "TABULAR",
+    "reportType": {
+      "label": "Campaigns with Contacts",
+      "type": "CampaignContact"
+    },
+    "scope": "orgAll",
+    "showGrandTotal": true,
+    "showSubtotals": true,
+    "sortBy": [],
+    "standardDateFilter": null,
+    "standardFilters": [],
+    "supportsRoleHierarchy": false,
+    "userOrHierarchyFilterId": null
+  }
+}
