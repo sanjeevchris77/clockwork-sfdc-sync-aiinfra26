@@ -1,14 +1,26 @@
 {
   "event_name": "AI Infra Summit 2026",
-  "campaign_ids": ["701TV00000tqRm2YAE"],
-  "campaign_ids_comment": "AI Infra Summit 2026 (Santa Clara) — single tracked campaign; add more IDs here if additional sub-campaigns (booth scans, sales leads, etc.) get created in Salesforce",
-  "rep_names": ["Sean Coughlin", "Greg Mark", "Abrahem Miya", "Chris Bowen"],
-  "rep_names_comment": "Reused from RAISE 2026 per direction — 'Abrahem' matches the exact spelling of this Owner.Name in Salesforce",
+  "campaign_ids": [
+    "701TV00000tqIKgYAM",
+    "701TV00000tqT6JYAU",
+    "701TV00000tqTXjYAM"
+  ],
+  "campaign_ids_comment": "AI Infra Summit 2026 (Santa Clara) \u2014 single tracked campaign; add more IDs here if additional sub-campaigns (booth scans, sales leads, etc.) get created in Salesforce",
+  "rep_names": [
+    "Sean Coughlin",
+    "Greg Mark",
+    "Abrahem Miya",
+    "Chris Bowen"
+  ],
+  "rep_names_comment": "Reused from RAISE 2026 per direction \u2014 'Abrahem' matches the exact spelling of this Owner.Name in Salesforce",
   "default_opp_amount": 200000,
-  "qualified_stages": ["In Progress (MQL)", "In Progress (SAL)"],
-  "qualified_stages_comment": "Must match the dashboard's own definition of 'Qualified' — reused from RAISE 2026",
+  "qualified_stages": [
+    "In Progress (MQL)",
+    "In Progress (SAL)"
+  ],
+  "qualified_stages_comment": "Must match the dashboard's own definition of 'Qualified' \u2014 reused from RAISE 2026",
   "comparison_campaign_id": "701TV00000XD0lfYAD",
-  "comparison_campaign_comment": "AI Infra Summit 2025's directly-comparable campaign, for a real 2025-vs-2026 YoY comparison. NOTE: scripts/sync_salesforce.py hardcodes the output keys of this comparison as \"raise_2025\"/\"raise_2026\" and writes a RAISE-specific 'methodology' description string regardless of event — that's a leftover from the RAISE template, not something this config controls.",
+  "comparison_campaign_comment": "AI Infra Summit 2025's directly-comparable campaign, for a real 2025-vs-2026 YoY comparison. NOTE: scripts/sync_salesforce.py hardcodes the output keys of this comparison as \"raise_2025\"/\"raise_2026\" and writes a RAISE-specific 'methodology' description string regardless of event \u2014 that's a leftover from the RAISE template, not something this config controls.",
   "event_start_date": "2026-09-15",
   "event_start_date_comment": "AI Infra Summit 2026 event date (Santa Clara). Used to distinguish Opportunities genuinely NEW because of this event from pre-existing pipeline that happens to match a booth-scan account by domain",
   "net_new_lead_source": "AI Infra Summit 2026 Santa Clara",
@@ -17,6 +29,6 @@
   "attendee_roster_path": "events/aiinfra26/attendee_roster.json",
   "attendee_roster_path_comment": "Static roster of AI Infra Summit 2026 attendees/speakers (209 companies, 280 people), uploaded once. Cross-referenced live every sync run against an uncapped pull of ALL ABM-tiered Accounts + their open Opportunities to reproduce a Tier Mapping & Opportunity Attribution analysis -- see build_pre_event_analysis() in sync_salesforce.py. Re-upload and commit a new attendee_roster.json if the attendee list changes.",
   "ad_hoc_report_id": "00OTV00000SAiyv2AD",
-  "ad_hoc_report_id_comment": "ABM tier report, used to cross-reference the AI Infra Summit attendee/speaker list against Salesforce ABM tiers. The prior AI Infra Summit 2025 comparison report (00OTV00000RZK4O2AX) stays saved at data/report_00OTV00000RZK4O2AX.json and won't be lost — it just won't be re-fetched going forward since that 2025 snapshot is frozen historical data anyway.",
+  "ad_hoc_report_id_comment": "ABM tier report, used to cross-reference the AI Infra Summit attendee/speaker list against Salesforce ABM tiers. The prior AI Infra Summit 2025 comparison report (00OTV00000RZK4O2AX) stays saved at data/report_00OTV00000RZK4O2AX.json and won't be lost \u2014 it just won't be re-fetched going forward since that 2025 snapshot is frozen historical data anyway.",
   "output_dir": "data"
 }
