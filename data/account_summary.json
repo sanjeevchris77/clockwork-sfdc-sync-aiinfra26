@@ -104,6 +104,32 @@
     "abm_tier": null
   },
   {
+    "domain": null,
+    "company": "[not provided]",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "William Wang",
+        "title": null,
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "acasia.com",
     "company": "Acasia",
     "booth_scan_lead_count": 1,
@@ -130,9 +156,93 @@
     "abm_tier": null
   },
   {
+    "domain": "adaboostai.com",
+    "company": "adaboostai",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "suvasis mukherjee",
+        "title": null,
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "adata.com",
+    "company": "Trusta",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "Jason Boenjamin",
+        "title": "Commercial FAE",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "David Yeom",
+        "title": "Senior Technical Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "adia.ae",
+    "company": "ADIA (Abu Dhabi Investment Authority)",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "John Alfaro",
+        "title": "Cloud Architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "adobe.com",
     "company": "ADOBE",
-    "booth_scan_lead_count": 4,
+    "booth_scan_lead_count": 5,
     "personas": [
       {
         "name": "Siva Prakash Undavalli",
@@ -157,10 +267,16 @@
         "title": "Senior SRE - Systems Engineering",
         "lifecycle_stage": "Marketing Qualified Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Charit Upadhyay",
+        "title": "Senior Site Reliability Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 3,
+      "Marketing Engaged Lead": 4,
       "Marketing Qualified Lead": 1
     },
     "company_already_engaged": "Yes",
@@ -220,19 +336,104 @@
     "abm_tier": "Tier 3"
   },
   {
+    "domain": "alchip.com",
+    "company": "Alchip Technologies",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Jerry Wang",
+        "title": "Deputy Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "alphanetworks.com",
+    "company": "Alpha Networks Inc",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Kuan Ju(KJ) Wu",
+        "title": "Client Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "altair.com",
+    "company": "Altair",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Will (Zhenghao) Lin",
+        "title": "business Development Associate",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Sean Coughlin"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 3"
+  },
+  {
     "domain": "amazon.com",
     "company": "AWS",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 2,
     "personas": [
       {
         "name": "Roy Allela",
         "title": "Senior AI Infra Specialist Architect at AWS",
         "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Purnima Sahoo",
+        "title": "Senior Test Engineer",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "In Progress (SAL)": 1
+      "In Progress (SAL)": 1,
+      "Marketing Qualified Lead": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -248,17 +449,29 @@
   {
     "domain": "amd.com",
     "company": "AMD",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 3,
     "personas": [
       {
         "name": "Abhi Patil",
         "title": "Product Manager, Data Center GPU",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Katie Krawczyk",
+        "title": "Sales Manager, Oracle",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Shannon Hollas",
+        "title": "Director, Commercial Sales, USA Central",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "Marketing Engaged Lead": 3
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -306,6 +519,32 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
+  },
+  {
+    "domain": "andromeda.ai",
+    "company": "Andromeda",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Vishal Singh",
+        "title": "Head of Supply Chain",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "anl.gov",
@@ -441,6 +680,51 @@
     "abm_tier": "Tier 1"
   },
   {
+    "domain": "appliedmaterials.com",
+    "company": "Applied Materials",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Kunal Kamdar",
+        "title": "Manager, Software Engineer - AIx Data Engineering & Platform Infrastructure",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": true,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [
+      {
+        "opp_id": "006Kb00000JlkV6IAJ",
+        "owner": "Kent Kawahara",
+        "account": "Applied Materials",
+        "stage": "Closed Lost",
+        "amount": 200000,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkV6IAJ/view"
+      },
+      {
+        "opp_id": "006TV00000A9g0hYAB",
+        "owner": "Sean Coughlin",
+        "account": "Applied Materials",
+        "stage": "Closed Lost",
+        "amount": 100000.0,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000A9g0hYAB/view"
+      }
+    ],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 3"
+  },
+  {
     "domain": "aranya.tech",
     "company": "Aranya",
     "booth_scan_lead_count": 1,
@@ -467,10 +751,42 @@
     "abm_tier": null
   },
   {
-    "domain": "ashfordcapital.com",
-    "company": "Ashford Capital Management",
+    "domain": "arista.com",
+    "company": "Arista Networks",
     "booth_scan_lead_count": 1,
     "personas": [
+      {
+        "name": "Tom Emmons",
+        "title": "Software Engineer",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Qualified Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 3"
+  },
+  {
+    "domain": "ashfordcapital.com",
+    "company": "Ashford Capital Management",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "Tracy Trac",
+        "title": "Investor",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      },
       {
         "name": "Tracy Trac",
         "title": "Investor",
@@ -479,7 +795,7 @@
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "Marketing Engaged Lead": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -520,8 +836,8 @@
   },
   {
     "domain": "aws.amazon.com",
-    "company": "Amazon Web Services (AWS)",
-    "booth_scan_lead_count": 2,
+    "company": "AWS",
+    "booth_scan_lead_count": 4,
     "personas": [
       {
         "name": "Kirti Devi",
@@ -534,10 +850,23 @@
         "title": null,
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Zach Arbon",
+        "title": "Lead Solution Architect, Frontier AI Startups",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Chaitanya Nuthalapati",
+        "title": "Technical Product Manager",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "Marketing Engaged Lead": 3,
+      "Marketing Qualified Lead": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -601,6 +930,58 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
+  },
+  {
+    "domain": "bancofcal.com",
+    "company": "Banc of California",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Lillian Lee",
+        "title": "VP",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "barrenjoey.com",
+    "company": "Barrenjoey",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Leo Bernhardi",
+        "title": "Technology Analyst",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "bayasystems.com",
@@ -681,6 +1062,32 @@
     "abm_tier": null
   },
   {
+    "domain": "boardmanbay.com",
+    "company": "Boardman Bay Capital Management",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Jonathan Bloom",
+        "title": "Investor",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "bostondynamics.com",
     "company": "Boston Dynamics",
     "booth_scan_lead_count": 1,
@@ -707,6 +1114,38 @@
     "abm_tier": "Tier 4"
   },
   {
+    "domain": "brain-ca.com",
+    "company": "Brain-CA Technologies",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "Jerry Felix",
+        "title": "Chief Architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Raghu V"
+      },
+      {
+        "name": "Steve Brunker",
+        "title": "CEO",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Raghu V"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "bridgepointetechnologies.com",
     "company": "Bridgepointe Technologies",
     "booth_scan_lead_count": 1,
@@ -731,6 +1170,122 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
+  },
+  {
+    "domain": "broadcom.com",
+    "company": "Broadcom",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Venkat Goli",
+        "title": "AI/ML Platform architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": true,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [
+      {
+        "opp_id": "006TV00000D6Y4LYAV",
+        "owner": "Dan Zheng",
+        "account": "Broadcom",
+        "stage": "02 - Pilot Kick Off",
+        "amount": 300000.0,
+        "is_open": true,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6Y4LYAV/view"
+      },
+      {
+        "opp_id": "006TV00000SEKy2YAH",
+        "owner": "Greg Mark",
+        "account": "Broadcom",
+        "stage": "Closed Lost",
+        "amount": 200000.0,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SEKy2YAH/view"
+      },
+      {
+        "opp_id": "006TV00000SgesAYAR",
+        "owner": "Greg Mark",
+        "account": "Broadcom",
+        "stage": "Closed Lost",
+        "amount": 200000,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SgesAYAR/view"
+      }
+    ],
+    "has_open_opportunity": true,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 300000.0,
+    "potential_pipeline_basis": "real_open_opportunity",
+    "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "bytebt.com",
+    "company": "ByteBridge",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Savannah Wagner",
+        "title": "Partnership & Alliance Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 3"
+  },
+  {
+    "domain": "bytedance.com",
+    "company": "ByteDance",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Zhongyan Qiu",
+        "title": "Software Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": true,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [
+      {
+        "opp_id": "006TV00000G22m5YAB",
+        "owner": "Sean Coughlin",
+        "account": "ByteDance",
+        "stage": "Closed Lost",
+        "amount": 750000.0,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000G22m5YAB/view"
+      }
+    ],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 1"
   },
   {
     "domain": "cadence.com",
@@ -783,6 +1338,94 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
+  },
+  {
+    "domain": "capgemini.com",
+    "company": "Capgemini Engineering",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Kalimani Venkatesan Govindarajan",
+        "title": "Senior Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Joe Tarantino"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "capitalone.com",
+    "company": "Capital One",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Gayathri Srinivasan",
+        "title": "Senior Software Engineering Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": true,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [
+      {
+        "opp_id": "006TV00000OtP1ZYAV",
+        "owner": "Chris Bowen",
+        "account": "Capital One",
+        "stage": "00 - Prospecting",
+        "amount": 200000.0,
+        "is_open": true,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OtP1ZYAV/view"
+      }
+    ],
+    "has_open_opportunity": true,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000.0,
+    "potential_pipeline_basis": "real_open_opportunity",
+    "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "celestica.com",
+    "company": "Celestica",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Prakash Jain",
+        "title": "Director, Architecture & Design Engineering (AI Infrastructure)",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Sean Coughlin"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 2"
   },
   {
     "domain": "cerebro.cloud",
@@ -867,6 +1510,32 @@
     "engaged_via_existing_opportunity": false,
     "engaged_via_existing_contact": false,
     "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 3"
+  },
+  {
+    "domain": "ciq.com",
+    "company": "CIQ",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Arthur Tyde",
+        "title": "SVP Business Development",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
     "is_qualified_contact": false,
@@ -1162,7 +1831,7 @@
   {
     "domain": "cornelis.com",
     "company": "Cornelis Networks",
-    "booth_scan_lead_count": 2,
+    "booth_scan_lead_count": 5,
     "personas": [
       {
         "name": "Amin Shahidi",
@@ -1175,10 +1844,28 @@
         "title": "Director, Cloud Business Development",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Chris Bowen"
+      },
+      {
+        "name": "Charles Archer",
+        "title": "Chief Technology Officer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      },
+      {
+        "name": "Philip Murphy",
+        "title": "COO",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      },
+      {
+        "name": "Richard Aikman",
+        "title": "Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "Marketing Engaged Lead": 5
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1192,19 +1879,77 @@
     "abm_tier": null
   },
   {
+    "domain": "cornell.edu",
+    "company": "Cornell University, Operations Research",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Momo Adegbindin",
+        "title": "Applied Scientist & Infrastructure Optimization Researcher",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "credosemi.com",
+    "company": "Credo",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Isaiah Diaz",
+        "title": "Content & PR Intern",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Qualified Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "crusoe.ai",
     "company": "Crusoe",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 2,
     "personas": [
       {
         "name": "Abhinav Pathak",
         "title": "Staff Software Engineer",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Nathan Castro",
+        "title": "GTM",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "Marketing Engaged Lead": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -1226,6 +1971,84 @@
     "potential_pipeline_amount": 200000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "ctc-america.com",
+    "company": "ITOCHU Techno-Solutions America",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Takaaki Niijima",
+        "title": "Business Development Rep",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Raghu V"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "ctc-g.co.jp",
+    "company": "ITOCHU Techno-Solutions Corporation (CTC)",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Hibiki Sunaga",
+        "title": "Cloud Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Raghu V"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "daikinapplied.com",
+    "company": "Daikin Applied Americas",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Sammy Houssainy",
+        "title": "Data Center Solutions Architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "dell.com",
@@ -1271,6 +2094,58 @@
     "potential_pipeline_amount": 75000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "delosdata.com",
+    "company": "Delos Data",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Cindy Mino",
+        "title": "Chief of Staff",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "dimaag.ai",
+    "company": "DIMAAG-AI",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Anand Pandurangan",
+        "title": "tbc",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Raghu V"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "disatech.com",
@@ -1375,6 +2250,32 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "eaglefrontier.com",
+    "company": "EagleFrontier",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Chloe Wang",
+        "title": "Partner",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "ebay.com",
@@ -1550,6 +2451,90 @@
     "abm_tier": null
   },
   {
+    "domain": "flairx.ai",
+    "company": "flairx.ai",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Abhilasha Juneja",
+        "title": "Founder/CEO",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "ford.com",
+    "company": "Ford Motor Company",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Gaurav Saxena",
+        "title": "Director of Engineering",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 2"
+  },
+  {
+    "domain": "genoptics.com",
+    "company": "Genuine Optics",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "David Huff",
+        "title": "Vice President",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Madhav Bhatta",
+        "title": "CEO",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "gm.com",
     "company": "GM",
     "booth_scan_lead_count": 2,
@@ -1657,7 +2642,7 @@
   {
     "domain": "google.com",
     "company": "Google",
-    "booth_scan_lead_count": 5,
+    "booth_scan_lead_count": 6,
     "personas": [
       {
         "name": "Baba Egbantan",
@@ -1688,10 +2673,17 @@
         "title": "GDM Software Engineer",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Vivek Shah",
+        "title": "AI & Infrastructure, Google Inc",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 5
+      "Marketing Engaged Lead": 5,
+      "Marketing Qualified Lead": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -1794,19 +2786,57 @@
     "abm_tier": null
   },
   {
+    "domain": "harvard.edu",
+    "company": "Harvard University",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Shailaja Miriyala",
+        "title": "QA Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Sean Coughlin"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 2"
+  },
+  {
     "domain": "hcltech.com",
     "company": "HCLTech",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 3,
     "personas": [
       {
         "name": "Kartik Shah",
         "title": "Senior Director",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Joe Tarantino"
+      },
+      {
+        "name": "Saurabh Kapoor",
+        "title": "Associate Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Joe Tarantino"
+      },
+      {
+        "name": "Maruti Nandan Tripathi",
+        "title": "Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "Marketing Engaged Lead": 3
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1818,6 +2848,38 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
+  },
+  {
+    "domain": "helpingunitebusinesses.com",
+    "company": "Helping Unite Businesses, LLC",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "Edan Harr",
+        "title": "CTO",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "David Hubbell",
+        "title": "CEO",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "hitachivantara.com",
@@ -1844,6 +2906,32 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
+  },
+  {
+    "domain": "honeywellaerospace.com",
+    "company": "Honeywell Aerospace",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Ashiana Ali",
+        "title": "Aerospace Researcher",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "hosted.ai",
@@ -1900,7 +2988,7 @@
   {
     "domain": "hpe.com",
     "company": "HPE",
-    "booth_scan_lead_count": 2,
+    "booth_scan_lead_count": 3,
     "personas": [
       {
         "name": "Rafik Puttur",
@@ -1913,10 +3001,16 @@
         "title": "Sr. Principal Product Manager",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Pradeep Akula",
+        "title": "Network Architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "Marketing Engaged Lead": 3
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2001,6 +3095,58 @@
         "title": "Head of Strategic & AI G2M at i3D.net",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "iagcapitalpartners.com",
+    "company": "IAG Capital Partners",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Alonso Galvan",
+        "title": "Founding Partner",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "idc.com",
+    "company": "IDC",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Nina Turner",
+        "title": "Research Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
@@ -2122,6 +3268,42 @@
     "abm_tier": null
   },
   {
+    "domain": "jpmorgan.com",
+    "company": "JP Morgan",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Vivek Seshadri",
+        "title": "Director of engineering for the AI infrastructure platform",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Sean Coughlin"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": true,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [
+      {
+        "opp_id": "006Kb00000JlkS8IAJ",
+        "owner": "Dan Zheng",
+        "account": "JPMorgan",
+        "stage": "Closed Lost",
+        "amount": 200000,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkS8IAJ/view"
+      }
+    ],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 2"
+  },
+  {
     "domain": "kentik.com",
     "company": "Kentik",
     "booth_scan_lead_count": 1,
@@ -2172,6 +3354,58 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
+  },
+  {
+    "domain": "lakefs.io",
+    "company": "lakeFS",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Vince Antinozzi",
+        "title": "Founding AE",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "latitude.sh",
+    "company": "Latitude.sh",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Cameron Daniel",
+        "title": "CTO",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Sean Coughlin"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 2"
   },
   {
     "domain": "lektra.com",
@@ -2343,9 +3577,87 @@
     "abm_tier": "Tier 4"
   },
   {
+    "domain": "massedcompute.com",
+    "company": "Massed Compute",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Baijun (Jack Skywalker) Jiang",
+        "title": "AI Solution Architect",
+        "lifecycle_stage": "In Progress (MEL)",
+        "owner": "Sean Coughlin"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "In Progress (MEL)": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 2"
+  },
+  {
+    "domain": "megaport.com",
+    "company": "Megaport",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Mike Starr",
+        "title": "Senior Director, Product",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "mentor-designs.com",
+    "company": "Mentor Designs",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Daniel Riveros",
+        "title": "President / Engineering",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "meta.com",
     "company": "Meta",
-    "booth_scan_lead_count": 5,
+    "booth_scan_lead_count": 9,
     "personas": [
       {
         "name": "Lakshmi Durga Karanam",
@@ -2376,10 +3688,34 @@
         "title": "Network Engineer",
         "lifecycle_stage": "Marketing Qualified Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Srinivas Sripada",
+        "title": "ASIC Power and Design engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Srikanth Alaparthi",
+        "title": "Sr ASIC Design Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Viswesh S",
+        "title": "Hardware Systems Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Venkat Ramesh",
+        "title": "ASIC Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 4,
+      "Marketing Engaged Lead": 8,
       "Marketing Qualified Lead": 1
     },
     "company_already_engaged": "Yes",
@@ -2413,19 +3749,116 @@
     "abm_tier": "Tier 1"
   },
   {
+    "domain": "mhccna.com",
+    "company": "Mitsubishi HC Capital America, Inc.",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Naoto Yoshikawa",
+        "title": "Vice President",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Qualified Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "micasnetworks.com",
+    "company": "Micas Networks",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Prathyusha Potlapally",
+        "title": "Engineering",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 4"
+  },
+  {
+    "domain": "micron.com",
+    "company": "Micron Technology, Inc.",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Kiran Matturi",
+        "title": "DIRECTOR, SYSTEMS DESIGN ENGINEER",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 4"
+  },
+  {
     "domain": "microsoft.com",
     "company": "Microsoft",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 4,
     "personas": [
       {
         "name": "Ekta Malkan",
         "title": "Senior Software Engineer",
         "lifecycle_stage": "Marketing Qualified Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Jason Wilder",
+        "title": "Partner Software Engineering Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Guy Fankam",
+        "title": "Senior Cloud Solution Architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Kevin Michael",
+        "title": "Senior TPM",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "Marketing Qualified Lead": 1,
+      "Marketing Engaged Lead": 3
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2494,6 +3927,32 @@
     "abm_tier": "Tier 1"
   },
   {
+    "domain": "moj.gov.sa",
+    "company": "Ministry of Justice, KSA",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Reem Almazrou",
+        "title": "Case research specialist",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "multicorewareinc.com",
     "company": "MulticoreWare",
     "booth_scan_lead_count": 1,
@@ -2546,6 +4005,110 @@
     "abm_tier": "Tier 4"
   },
   {
+    "domain": "netfoundry.io",
+    "company": "Netfoundry",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Joaquin Robles",
+        "title": "OEM & Strategic Solutions Group",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "neyon.ai",
+    "company": "Neyon AI",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Lakshmi Pradeep",
+        "title": "Chief Systems Architect",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Qualified Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "nissanusa.com",
+    "company": "Nissan",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Muhammad Islam",
+        "title": "Principal Research Engineer",
+        "lifecycle_stage": "In Progress (SAL)",
+        "owner": "Sean Coughlin"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "In Progress (SAL)": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": true,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "nodiac.ai",
+    "company": "Nodiac",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Adam Ziff",
+        "title": "Director of Product",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "nokia.com",
     "company": "Nokia",
     "booth_scan_lead_count": 1,
@@ -2572,6 +4135,32 @@
     "abm_tier": "Tier 1"
   },
   {
+    "domain": "omen.ai",
+    "company": "Omen AI",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Connor Handy",
+        "title": "VP, Commercialization",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "omnitrust.com",
     "company": "OmniTrust",
     "booth_scan_lead_count": 1,
@@ -2585,6 +4174,84 @@
     ],
     "lifecycle_stage_counts": {
       "Marketing Qualified Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "one2n.io",
+    "company": "One2N",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Chinmay Naik",
+        "title": "Founder and CEO",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "opengear.com",
+    "company": "Opengear",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Jason Gutstein",
+        "title": "Regional Sales Manager-California",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "openmind.com",
+    "company": "OpenMind",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Jun Oh",
+        "title": "Growth Partnership Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2649,7 +4316,7 @@
   {
     "domain": "oracle.com",
     "company": "Oracle",
-    "booth_scan_lead_count": 2,
+    "booth_scan_lead_count": 4,
     "personas": [
       {
         "name": "Jim Wakefield",
@@ -2662,10 +4329,22 @@
         "title": "Senior Software Engineer",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Mahaveer Jain",
+        "title": "Principal Architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Sam Andaluri",
+        "title": "Master Principal Cloud Architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "Marketing Engaged Lead": 4
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2707,9 +4386,61 @@
     "abm_tier": "Tier 1"
   },
   {
+    "domain": "oscilloquartz.com",
+    "company": "Oscilloquartz",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Anil Kumar Reddy Yatham",
+        "title": "Vice President- Global Business Development",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "pacificrubber.com",
+    "company": "Pacific Rubber & Packing, Inc.",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Bill Sharratt",
+        "title": "President",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "paypal.com",
     "company": "PayPal",
-    "booth_scan_lead_count": 2,
+    "booth_scan_lead_count": 3,
     "personas": [
       {
         "name": "Kaustubh Khatri",
@@ -2722,10 +4453,17 @@
         "title": "Senior Software Engineer",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Karthik Ravi",
+        "title": "Senior SWE - AI/ML Infra",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "Marketing Engaged Lead": 2,
+      "Marketing Qualified Lead": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2749,19 +4487,77 @@
     "abm_tier": "Tier 1"
   },
   {
-    "domain": "pinterest.com",
-    "company": "Pinterest",
+    "domain": "pentair.com",
+    "company": "Everpure",
     "booth_scan_lead_count": 1,
     "personas": [
       {
-        "name": "Howard Nguyen",
-        "title": "Software Engineer - ML Serving",
+        "name": "Cameron Bahar",
+        "title": "General Manager, Scale AI & EXA",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Sean Coughlin"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 2"
+  },
+  {
+    "domain": "phyagents.com",
+    "company": "PhyAgents",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Kiran Joshi",
+        "title": "Co-founder & CEO",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
       "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "pinterest.com",
+    "company": "Pinterest",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "Howard Nguyen",
+        "title": "Software Engineer - ML Serving",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Helen Gao",
+        "title": "Senior Software Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2794,9 +4590,35 @@
     "abm_tier": "Tier 1"
   },
   {
+    "domain": "polarisdatas.com",
+    "company": "Polaris",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Ziqi Zhao",
+        "title": "Director of Business development",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "qualcomm.com",
     "company": "Qualcomm",
-    "booth_scan_lead_count": 2,
+    "booth_scan_lead_count": 4,
     "personas": [
       {
         "name": "Jared Wright",
@@ -2809,10 +4631,22 @@
         "title": "Director of Product - Edge AI",
         "lifecycle_stage": "Marketing Qualified Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Ananya Pagadala",
+        "title": "Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Chaoyu Yang",
+        "title": "Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1,
+      "Marketing Engaged Lead": 3,
       "Marketing Qualified Lead": 1
     },
     "company_already_engaged": "Yes",
@@ -2839,17 +4673,23 @@
   {
     "domain": "rafay.co",
     "company": "Rafay",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 2,
     "personas": [
       {
         "name": "Jack Chegin",
         "title": "Sales Development Manager",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Cameron Kinard",
+        "title": "Enterprise Account Executive",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "Marketing Engaged Lead": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2889,6 +4729,32 @@
     "abm_tier": "Tier 4"
   },
   {
+    "domain": "realintent.com",
+    "company": "Real Intent",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Bhaskar Sinha",
+        "title": "Marketing",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "realitycraft.app",
     "company": "Realitycraft",
     "booth_scan_lead_count": 1,
@@ -2915,13 +4781,71 @@
     "abm_tier": null
   },
   {
+    "domain": "rebellions.ai",
+    "company": "Rebellions",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Minji Lee",
+        "title": "Marketing Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "reboottechrecycling.com",
     "company": "Reboot Tech LLC",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 2,
     "personas": [
       {
         "name": "Chamli Tennakoon",
         "title": "VP, Digital & Growth",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Jeff Stephens",
+        "title": "Business Development Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "rivo.io",
+    "company": "Rivo Inc",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Anirudh Vasudevan",
+        "title": "Member of technical staff",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
       }
@@ -2995,22 +4919,35 @@
   {
     "domain": "samtec.com",
     "company": "Samtec",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 3,
     "personas": [
       {
         "name": "Jahanarha Shah",
         "title": "Sr. Field Sales Engineer",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Chris Bowen"
+      },
+      {
+        "name": "Giri Tumu",
+        "title": "Optical Applications Engineer",
+        "lifecycle_stage": "In Progress (MEL)",
+        "owner": "Chris Bowen"
+      },
+      {
+        "name": "Ethan Song",
+        "title": "Optical Applications Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "Marketing Engaged Lead": 2,
+      "In Progress (MEL)": 1
     },
-    "company_already_engaged": "Yes",
+    "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
     "engaged_via_existing_contact": false,
-    "engaged_via_other_open_lead": true,
+    "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
     "is_qualified_contact": false,
@@ -3071,6 +5008,84 @@
     "abm_tier": "Tier 3"
   },
   {
+    "domain": "sbaedge.com",
+    "company": "SBA Edge",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Jared Benson",
+        "title": "Director Strategic Edge Infrastructure",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "scality.com",
+    "company": "Scality",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Thomas Fillioud",
+        "title": "Sales Director",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "segra.com",
+    "company": "Segra",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Steve Hartman",
+        "title": "Director of Carrier Sales",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "semidynamics.com",
     "company": "Semidynamics",
     "booth_scan_lead_count": 1,
@@ -3080,6 +5095,68 @@
         "title": "Strategic Alliances",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "servicenow.com",
+    "company": "ServiceNow",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Anand Mehta",
+        "title": "Staff Software Developer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": true,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [
+      {
+        "opp_id": "006TV00000DfxxXYAR",
+        "owner": "Greg Mark",
+        "account": "ServiceNow",
+        "stage": "Closed Lost",
+        "amount": 200000,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000DfxxXYAR/view"
+      }
+    ],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "sewerai.com",
+    "company": "SewerAI",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Abhinoor Dhull",
+        "title": "VP of Operations",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
@@ -3149,19 +5226,69 @@
     "abm_tier": "Tier 4"
   },
   {
+    "domain": "similarweb.com",
+    "company": "Similarweb",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "Miriam Troen-Krasnow",
+        "title": "Sales Manager, OEM",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      },
+      {
+        "name": "Will Jerome",
+        "title": "VP, Strategic Partnerships",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "skhms.com",
-    "company": "SK Hynix Memory Solutions America",
-    "booth_scan_lead_count": 1,
+    "company": "SK Hynix Memory Solution America",
+    "booth_scan_lead_count": 4,
     "personas": [
       {
         "name": "Kailash Mallikarjunaswamy",
         "title": "Staff Engineer",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Timothy Tran",
+        "title": "Lab",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Dara Chang",
+        "title": "Senior Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Dae Kim",
+        "title": "Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "Marketing Engaged Lead": 4
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3246,6 +5373,32 @@
     "abm_tier": "Tier 1"
   },
   {
+    "domain": "softbank.jp",
+    "company": "SoftBank",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Shahed Mazumder",
+        "title": "Sr Director, Product Strategy",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Joe Tarantino"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 1"
+  },
+  {
     "domain": "solidigm.com",
     "company": "Solidigm",
     "booth_scan_lead_count": 2,
@@ -3278,15 +5431,15 @@
     "abm_tier": "Tier 2"
   },
   {
-    "domain": "sumitomocorp.com",
-    "company": "Sumitomo Corporation",
+    "domain": "subco.com",
+    "company": "SUBCO",
     "booth_scan_lead_count": 1,
     "personas": [
       {
-        "name": "Louis Toyonaga",
-        "title": "Investment Manager",
+        "name": "Tristan Clash",
+        "title": "VP Global Accounts",
         "lifecycle_stage": "Marketing Engaged Lead",
-        "owner": "Joe Tarantino"
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
@@ -3301,22 +5454,87 @@
     "is_qualified_contact": false,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "sumitomocorp.com",
+    "company": "Sumitomo Corporation",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "Louis Toyonaga",
+        "title": "Investment Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Joe Tarantino"
+      },
+      {
+        "name": "Kensuke Itoh",
+        "title": "General Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Joe Tarantino"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
+  },
+  {
+    "domain": "supercomputing.news",
+    "company": "Supercomputing News",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Matt Walters",
+        "title": "Publisher",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "supermicro.com",
     "company": "Supermicro",
-    "booth_scan_lead_count": 1,
+    "booth_scan_lead_count": 2,
     "personas": [
       {
         "name": "Bryan Hernandez",
         "title": "Account Manager",
         "lifecycle_stage": "Marketing Qualified Lead",
         "owner": "Greg Mark"
+      },
+      {
+        "name": "Thomas DeLuna",
+        "title": "Sr. Business Development Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "Marketing Qualified Lead": 1,
+      "Marketing Engaged Lead": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -3340,13 +5558,65 @@
     "abm_tier": "Tier 4"
   },
   {
-    "domain": "tenstorrent.com",
-    "company": "Tenstorrent",
+    "domain": "syntronic.com",
+    "company": "Syntronic",
     "booth_scan_lead_count": 1,
     "personas": [
       {
-        "name": "Adam Mong",
-        "title": "Product Engineer",
+        "name": "Bryan Torres",
+        "title": "Business Development Representative",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "talentcraft.com",
+    "company": "TalentCraft",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Jim O'Brien",
+        "title": "Senior Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "tekhouz.com",
+    "company": "Tekhouz Solutions LLC",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Aradhya Kapoor",
+        "title": "Director - GPU Infra",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Greg Mark"
       }
@@ -3363,7 +5633,84 @@
     "is_qualified_contact": false,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "tenstorrent.com",
+    "company": "Tenstorrent",
+    "booth_scan_lead_count": 2,
+    "personas": [
+      {
+        "name": "Adam Mong",
+        "title": "Product Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      },
+      {
+        "name": "Narmadha Parthasarathy",
+        "title": "Chief of Staff, Physical Design",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 2
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
+  },
+  {
+    "domain": "tesla.com",
+    "company": "Tesla",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Kishore Bhagavatula",
+        "title": "Sr. Staff Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": true,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [
+      {
+        "opp_id": "006TV00000D6H58YAF",
+        "owner": "Greg Mark",
+        "account": "Tesla",
+        "stage": "Closed Lost",
+        "amount": 300000.0,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6H58YAF/view"
+      },
+      {
+        "opp_id": "006TV00000RHlivYAD",
+        "owner": "Greg Mark",
+        "account": "Tesla",
+        "stage": "Closed Lost",
+        "amount": 200000,
+        "is_open": false,
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000RHlivYAD/view"
+      }
+    ],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 1"
   },
   {
     "domain": "teyon.ai",
@@ -3435,6 +5782,32 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "thinkcloud.online",
+    "company": "ThinkCloud Inc.",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Raja Ramkaran Reddy Rudravaram",
+        "title": "Chief Architect & Co-Founder",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "tinder.com",
@@ -3571,6 +5944,58 @@
     "abm_tier": "Tier 1"
   },
   {
+    "domain": "upscale.ai",
+    "company": "Upscale AI",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Ganesh Raman",
+        "title": "Product",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "valuehash.com",
+    "company": "ValueHash",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Aryan Kalaskar",
+        "title": "Data Engineer",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
     "domain": "vastnetworks.com",
     "company": "Vast Networks",
     "booth_scan_lead_count": 1,
@@ -3584,6 +6009,32 @@
     ],
     "lifecycle_stage_counts": {
       "Marketing Qualified Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
+  },
+  {
+    "domain": "vendelux.com",
+    "company": "Vendelux",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Deborah Spigner",
+        "title": "Market Research Specialist",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Chris Bowen"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3657,7 +6108,7 @@
   {
     "domain": "walmart.com",
     "company": "Walmart",
-    "booth_scan_lead_count": 6,
+    "booth_scan_lead_count": 7,
     "personas": [
       {
         "name": "Elahesadat Hosseini",
@@ -3694,10 +6145,16 @@
         "title": "Software Engineer",
         "lifecycle_stage": "Marketing Engaged Lead",
         "owner": "Sean Coughlin"
+      },
+      {
+        "name": "Sanjay Chaudhuri",
+        "title": "Sr Distinguised Architect",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 5,
+      "Marketing Engaged Lead": 6,
       "Marketing Qualified Lead": 1
     },
     "company_already_engaged": "Yes",
@@ -3729,6 +6186,32 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
+  },
+  {
+    "domain": "wechat.com",
+    "company": "WeChat",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Sky Zhang",
+        "title": "Global Partnerships",
+        "lifecycle_stage": "Marketing Qualified Lead",
+        "owner": "Abrahem Miya"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Qualified Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "weka.io",
@@ -3781,6 +6264,32 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
+  },
+  {
+    "domain": "whitehawkcapital.com",
+    "company": "White Hawk I Partners LLC",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Sarun Komin",
+        "title": "Manager",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "No",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": false,
+    "engaged_via_other_open_lead": false,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": null
   },
   {
     "domain": "workday.com",
@@ -3846,6 +6355,32 @@
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
+  },
+  {
+    "domain": "zayo.com",
+    "company": "Zayo",
+    "booth_scan_lead_count": 1,
+    "personas": [
+      {
+        "name": "Sarita Sharma",
+        "title": "AVP",
+        "lifecycle_stage": "Marketing Engaged Lead",
+        "owner": "Greg Mark"
+      }
+    ],
+    "lifecycle_stage_counts": {
+      "Marketing Engaged Lead": 1
+    },
+    "company_already_engaged": "Yes",
+    "engaged_via_existing_opportunity": false,
+    "engaged_via_existing_contact": true,
+    "engaged_via_other_open_lead": true,
+    "existing_opportunities_all_owners": [],
+    "has_open_opportunity": false,
+    "is_qualified_contact": false,
+    "potential_pipeline_amount": 200000,
+    "potential_pipeline_basis": "estimated",
+    "abm_tier": "Tier 4"
   },
   {
     "domain": "zeon.ventures",

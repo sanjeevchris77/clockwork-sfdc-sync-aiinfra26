@@ -3,7 +3,7 @@
     "describeUrl": "/services/data/v60.0/analytics/reports/00OTV00000TXbRV2A1/describe",
     "instancesUrl": "/services/data/v60.0/analytics/reports/00OTV00000TXbRV2A1/instances",
     "reportId": "00OTV00000TXbRV2A1",
-    "reportName": "2026 AI Infra Summit Camp Contacts-Chris",
+    "reportName": "2026 AI Infra Summit Contacts-Chris",
     "type": "Report"
   },
   "allData": true,
@@ -1177,7 +1177,7 @@
     "hasRecordCount": true,
     "historicalSnapshotDates": [],
     "id": "00OTV00000TXbRV2A1",
-    "name": "2026 AI Infra Summit Camp Contacts-Chris",
+    "name": "2026 AI Infra Summit Contacts-Chris",
     "presentationOptions": {
       "hasStackedSummaries": true
     },

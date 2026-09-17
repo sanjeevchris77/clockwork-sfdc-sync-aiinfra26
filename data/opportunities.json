@@ -27,6 +27,28 @@
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006Kb00000JlkX4IAJ/view"
   },
   {
+    "opp_id": "006TV00000A9g0hYAB",
+    "owner": "Sean Coughlin",
+    "account": "Applied Materials",
+    "account_website": "www.appliedmaterials.com",
+    "domain": "appliedmaterials.com",
+    "amount": 100000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2024-09-12T17:42:46.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Srikanth Gubbala",
+        "title": "Head of HPC Infrastructure (Global)",
+        "email": "srikanth_gubbala@amat.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000A9g0hYAB/view"
+  },
+  {
     "opp_id": "006TV00000A9g0mYAB",
     "owner": "Sean Coughlin",
     "account": "Citi Bank",
@@ -158,6 +180,33 @@
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CRnybYAD/view"
   },
   {
+    "opp_id": "006TV00000D6H58YAF",
+    "owner": "Greg Mark",
+    "account": "Tesla",
+    "account_website": "https://www.tesla.com/",
+    "domain": "tesla.com",
+    "amount": 300000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Event",
+    "created_date": "2024-12-09T19:26:17.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Greg Matthews",
+        "title": "Staff Site Reliability Engineer, Supercomputing",
+        "email": "gmatthews@tesla.com"
+      },
+      {
+        "name": "Prashant Doma",
+        "title": "Manager AI Infra engineering",
+        "email": "pdoma@tesla.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6H58YAF/view"
+  },
+  {
     "opp_id": "006TV00000DLOKoYAP",
     "owner": "Sean Coughlin",
     "account": "GMI Cloud",
@@ -178,6 +227,43 @@
       }
     ],
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000DLOKoYAP/view"
+  },
+  {
+    "opp_id": "006TV00000DfxxXYAR",
+    "owner": "Greg Mark",
+    "account": "ServiceNow",
+    "account_website": "http://www.servicenow.com",
+    "domain": "servicenow.com",
+    "amount": 200000,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Event",
+    "created_date": "2024-12-20T22:40:38.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Srinivas Sunkara",
+        "title": "Senior Director Core AI Platform - Advanced Technology Group (ATG)",
+        "email": "srinivas.sunkara@servicenow.com"
+      },
+      {
+        "name": "Anil Kumar Madamala",
+        "title": "Sr. Manager of Machine Learning Engineering",
+        "email": "anil.madamala@servicenow.com"
+      },
+      {
+        "name": "Francis Ruel",
+        "title": "Sr. Director AI Platform Infrastructure",
+        "email": "francis.ruel@servicenow.com"
+      },
+      {
+        "name": "Ganapathy Krishnan",
+        "title": "Vice President and Science Fellow",
+        "email": "ganapathy.krishnan@servicenow.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000DfxxXYAR/view"
   },
   {
     "opp_id": "006TV00000Dg1LDYAZ",
@@ -271,6 +357,38 @@
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000FkfsOYAR/view"
   },
   {
+    "opp_id": "006TV00000G22m5YAB",
+    "owner": "Sean Coughlin",
+    "account": "ByteDance",
+    "account_website": "www.bytedance.com",
+    "domain": "bytedance.com",
+    "amount": 750000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Event",
+    "created_date": "2025-02-14T21:39:44.000+0000",
+    "origin": "Existing",
+    "campaign": "NVIDIA GTC Happy Hour | 2025-03-18",
+    "contacts": [
+      {
+        "name": "Sophie Xie",
+        "title": "Network Software Development Engineer",
+        "email": "sophie.xie@bytedance.com"
+      },
+      {
+        "name": "Yuanyuan Li",
+        "title": "Network Software Engineer",
+        "email": "yuanyuanli@bytedance.com"
+      },
+      {
+        "name": "Zhaobo Zhang",
+        "title": "GPU & Ai Application Architect",
+        "email": "zhaobo.zhang@bytedance.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000G22m5YAB/view"
+  },
+  {
     "opp_id": "006TV00000OahgYYAR",
     "owner": "Greg Mark",
     "account": "Meta",
@@ -315,6 +433,44 @@
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OtKGRYA3/view"
   },
   {
+    "opp_id": "006TV00000OtP1ZYAV",
+    "owner": "Chris Bowen",
+    "account": "Capital One",
+    "account_website": "www.capitalone.com",
+    "domain": "capitalone.com",
+    "amount": 200000.0,
+    "stage": "00 - Prospecting",
+    "is_open": true,
+    "lead_source": "Event",
+    "created_date": "2025-09-22T16:57:24.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Milind Naphade",
+        "title": "Senior Vice President, Technology, AI Foundations",
+        "email": "milind.naphade@capitalone.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OtP1ZYAV/view"
+  },
+  {
+    "opp_id": "006TV00000RHlivYAD",
+    "owner": "Greg Mark",
+    "account": "Tesla",
+    "account_website": "https://www.tesla.com/",
+    "domain": "tesla.com",
+    "amount": 200000,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2025-11-10T17:38:39.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000RHlivYAD/view"
+  },
+  {
     "opp_id": "006TV00000RHmVJYA1",
     "owner": "Greg Mark",
     "account": "Apple",
@@ -335,6 +491,22 @@
       }
     ],
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000RHmVJYA1/view"
+  },
+  {
+    "opp_id": "006TV00000SEKy2YAH",
+    "owner": "Greg Mark",
+    "account": "Broadcom",
+    "account_website": "www.broadcom.com",
+    "domain": "broadcom.com",
+    "amount": 200000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Event",
+    "created_date": "2025-12-01T17:31:11.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SEKy2YAH/view"
   },
   {
     "opp_id": "006TV00000SEYUlYAP",
@@ -367,6 +539,22 @@
     "campaign": "[Webinar] Enterprise AI at Scale | 2025-11-11",
     "contacts": [],
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SgXM3YAN/view"
+  },
+  {
+    "opp_id": "006TV00000SgesAYAR",
+    "owner": "Greg Mark",
+    "account": "Broadcom",
+    "account_website": "www.broadcom.com",
+    "domain": "broadcom.com",
+    "amount": 200000,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Event",
+    "created_date": "2025-12-12T17:44:13.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SgesAYAR/view"
   },
   {
     "opp_id": "006TV00000SnzDVYAZ",

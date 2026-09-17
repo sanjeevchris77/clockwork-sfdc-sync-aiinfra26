@@ -3,7 +3,7 @@
     "describeUrl": "/services/data/v60.0/analytics/reports/00OTV00000TXbOH2A1/describe",
     "instancesUrl": "/services/data/v60.0/analytics/reports/00OTV00000TXbOH2A1/instances",
     "reportId": "00OTV00000TXbOH2A1",
-    "reportName": "2026 AI Infra Summit Camp Contacts-Sean",
+    "reportName": "2026 AI Infra Summit Contacts-Sean",
     "type": "Report"
   },
   "allData": true,
@@ -11,11 +11,141 @@
     "T!T": {
       "aggregates": [
         {
-          "label": "0",
-          "value": 0
+          "label": "1",
+          "value": 1
         }
       ],
-      "rows": []
+      "rows": [
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-16-2026",
+              "recordId": "701TV00000tqT6JYAU",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqT6JYAU"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Coupang",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "001Kb00001Gwq0pIAB"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "escapedLabel": "Remarket",
+              "label": "Remarket",
+              "value": "Remarket"
+            },
+            {
+              "label": "Remarket",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "Remarket"
+            },
+            {
+              "label": "Srikanta",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "003TV00000rwoCVYAY"
+            },
+            {
+              "label": "Datta",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "003TV00000rwoCVYAY"
+            },
+            {
+              "label": "Director, AI Infra",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "Director, AI Infra"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "srtumkur@coupang.com",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "srtumkur@coupang.com"
+            },
+            {
+              "label": "14124820357",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "14124820357"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gwq0pIAB",
+              "value": null
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsrikantadatta%2F%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/srikantadatta/ (New Window)\">https://www.linkedin.com/in/srikantadatta/</a>",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "https://www.linkedin.com/in/srikantadatta/"
+            },
+            {
+              "escapedLabel": "Sales",
+              "label": "Sales",
+              "value": "Sales"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "label": "Sales",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "Sales"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "-",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": null
+            },
+            {
+              "label": "Infrastructure",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": [
+                "Infrastructure"
+              ]
+            },
+            {
+              "label": "AI Infrastructure",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "AI Infrastructure"
+            },
+            {
+              "label": "High",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "High"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-16-2026",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "[AIInfra26] Booth Scans | 09-16-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "003TV00000rwoCVYAY",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        }
+      ]
     }
   },
   "groupingsAcross": {
@@ -49,6 +179,11 @@
       "CAMPAIGN_NAME": {
         "dataType": "string",
         "entityColumnName": "Campaign.Name",
+        "fieldInfo": {
+          "entityName": "Campaign",
+          "fieldName": "Name",
+          "lookupEntityName": "Campaign"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.Name",
@@ -232,6 +367,11 @@
       "ACCOUNT.NAME": {
         "dataType": "string",
         "entityColumnName": "Account.Name",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "AccountId",
+          "lookupEntityName": "Account"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.CampaignMember.Contact.Account.Name",
@@ -265,6 +405,10 @@
       "Contact.Status__c": {
         "dataType": "picklist",
         "entityColumnName": "Contact.Status__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "Status__c"
+        },
         "filterValues": [
           {
             "apiName": "Open",
@@ -332,6 +476,11 @@
       "FIRST_NAME": {
         "dataType": "string",
         "entityColumnName": "Contact.Name",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "FirstName",
+          "lookupEntityName": "Contact"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.CampaignMember.Contact.FirstName",
@@ -343,6 +492,11 @@
       "LAST_NAME": {
         "dataType": "string",
         "entityColumnName": "Contact.Name",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "LastName",
+          "lookupEntityName": "Contact"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.CampaignMember.Contact.LastName",
@@ -354,6 +508,10 @@
       "TITLE": {
         "dataType": "string",
         "entityColumnName": "Contact.Title",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "Title"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.CampaignMember.Contact.Title",
@@ -376,6 +534,10 @@
       "EMAIL": {
         "dataType": "email",
         "entityColumnName": "Contact.Email",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "Email"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.CampaignMember.Contact.Email",
@@ -387,6 +549,10 @@
       "PHONE3": {
         "dataType": "phone",
         "entityColumnName": "Contact.MobilePhone",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "MobilePhone"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.CampaignMember.Contact.MobilePhone",
@@ -398,6 +564,10 @@
       "ACCOUNT_TYPE": {
         "dataType": "picklist",
         "entityColumnName": "Account.Type",
+        "fieldInfo": {
+          "entityName": "Account",
+          "fieldName": "Type"
+        },
         "filterValues": [
           {
             "apiName": "Analyst",
@@ -465,6 +635,10 @@
       "Contact.LinkedIn__c": {
         "dataType": "url",
         "entityColumnName": "Contact.LinkedIn__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "LinkedIn__c"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.CampaignMember.Contact.LinkedIn__c",
@@ -498,6 +672,10 @@
       "Contact.Original_Lead_Source__c": {
         "dataType": "picklist",
         "entityColumnName": "Contact.Original_Lead_Source__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "Original_Lead_Source__c"
+        },
         "filterValues": [
           {
             "apiName": "Sales",
@@ -666,6 +844,10 @@
       "Contact.Role_Groupings_Contact__c": {
         "dataType": "picklist",
         "entityColumnName": "Contact.Role_Groupings_Contact__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "Role_Groupings_Contact__c"
+        },
         "filterValues": [
           {
             "apiName": "Technical Executive",
@@ -713,6 +895,10 @@
       "Contact.GTM_Persona_Contact__c": {
         "dataType": "multipicklist",
         "entityColumnName": "Contact.GTM_Persona_Contact__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "GTM_Persona_Contact__c"
+        },
         "filterValues": [
           {
             "apiName": "Practitioner",
@@ -825,6 +1011,10 @@
       "Contact.Clockwork_Persona_Contact__c": {
         "dataType": "picklist",
         "entityColumnName": "Contact.Clockwork_Persona_Contact__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "Clockwork_Persona_Contact__c"
+        },
         "filterValues": [
           {
             "apiName": "AI/ML Researcher",
@@ -942,6 +1132,10 @@
       "Contact.ICP_Persona_Contact__c": {
         "dataType": "picklist",
         "entityColumnName": "Contact.ICP_Persona_Contact__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "ICP_Persona_Contact__c"
+        },
         "filterValues": [
           {
             "apiName": "High",
@@ -969,6 +1163,10 @@
       "Contact.Latest_Marketing_Campaign__c": {
         "dataType": "string",
         "entityColumnName": "Contact.Latest_Marketing_Campaign__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "Latest_Marketing_Campaign__c"
+        },
         "filterValues": [],
         "filterable": true,
         "fullyQualifiedName": "Campaign.CampaignMember.Contact.Latest_Marketing_Campaign__c",
@@ -980,6 +1178,10 @@
       "Contact.Event_Name__c": {
         "dataType": "picklist",
         "entityColumnName": "Contact.Event_Name__c",
+        "fieldInfo": {
+          "entityName": "Contact",
+          "fieldName": "Event_Name__c"
+        },
         "filterValues": [
           {
             "apiName": "NVIDIA GTC 2026",
@@ -1177,7 +1379,7 @@
     "hasRecordCount": true,
     "historicalSnapshotDates": [],
     "id": "00OTV00000TXbOH2A1",
-    "name": "2026 AI Infra Summit Camp Contacts-Sean",
+    "name": "2026 AI Infra Summit Contacts-Sean",
     "presentationOptions": {
       "hasStackedSummaries": true
     },
