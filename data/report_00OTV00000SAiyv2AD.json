@@ -15,8 +15,8 @@
           "value": 31.0
         },
         {
-          "label": "24,849",
-          "value": 24849.0
+          "label": "24,970",
+          "value": 24970.0
         },
         {
           "label": "91",
@@ -27,8 +27,8 @@
           "value": 1.9
         },
         {
-          "label": "1,630",
-          "value": 1630
+          "label": "1,642",
+          "value": 1642
         }
       ],
       "rows": [
@@ -1644,9 +1644,9 @@
               "value": "High"
             },
             {
-              "label": "Research Services",
+              "label": "Government Administration",
               "recordId": "001TV00000IfPrLYAV",
-              "value": "Research Services"
+              "value": "Government Administration"
             },
             {
               "escapedLabel": "Research &amp; Development",
@@ -1802,9 +1802,9 @@
               "value": "High"
             },
             {
-              "label": "Research Services",
+              "label": "Government Administration",
               "recordId": "001TV00000JcU2AYAV",
-              "value": "Research Services"
+              "value": "Government Administration"
             },
             {
               "escapedLabel": "-",
@@ -1886,10 +1886,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000LD7Z4YAL",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "1",
@@ -2123,10 +2123,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000kCPMrYAO",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "1",
@@ -2281,10 +2281,10 @@
               "value": "IT Services and IT Consulting"
             },
             {
-              "escapedLabel": "Business Intelligence (BI) Software",
-              "label": "Business Intelligence (BI) Software",
+              "escapedLabel": "Financial Software / Payments Technology",
+              "label": "Financial Software / Payments Technology",
               "recordId": "001Kb00001GwiqAIAR",
-              "value": "Business Intelligence (BI) Software"
+              "value": "Financial Software / Payments Technology"
             },
             {
               "label": "0",
@@ -2355,15 +2355,15 @@
               "value": "High"
             },
             {
-              "label": "Financial Services",
+              "label": "Capital Markets",
               "recordId": "001Kb00001GwiqBIAR",
-              "value": "Financial Services"
+              "value": "Capital Markets"
             },
             {
-              "escapedLabel": "Venture Capital &amp; Private Equity",
-              "label": "Venture Capital & Private Equity",
+              "escapedLabel": "Trading / Market Making",
+              "label": "Trading / Market Making",
               "recordId": "001Kb00001GwiqBIAR",
-              "value": "Venture Capital & Private Equity"
+              "value": "Trading / Market Making"
             },
             {
               "label": "0",
@@ -5757,10 +5757,10 @@
               "value": "Financial Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001GwirqIAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -5836,10 +5836,10 @@
               "value": "Investment Management"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001GwirxIAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -6032,6 +6032,85 @@
             {
               "label": "-",
               "recordId": "001Kb00001Gwis1IAB",
+              "value": null
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Dosadi Capital",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": "001Kb00001Gwis2IAB"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.dosadicapital.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.dosadicapital.com (New Window)\">http://www.dosadicapital.com</a>",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": "http://www.dosadicapital.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Other",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": "Other"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": null
+            },
+            {
+              "label": "Financial Services",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": "Financial Services"
+            },
+            {
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": "Venture Capital & Private Equity"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001Gwis2IAB",
+              "value": false
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gwis2IAB",
               "value": null
             }
           ]
@@ -7382,6 +7461,85 @@
         {
           "dataCells": [
             {
+              "label": "IEX Cloud",
+              "recordId": "001Kb00001GwistIAB",
+              "value": "001Kb00001GwistIAB"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.iexcloud.io%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.iexcloud.io (New Window)\">http://www.iexcloud.io</a>",
+              "recordId": "001Kb00001GwistIAB",
+              "value": "http://www.iexcloud.io"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001GwistIAB",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Other",
+              "recordId": "001Kb00001GwistIAB",
+              "value": "Other"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwistIAB",
+              "value": null
+            },
+            {
+              "label": "Media & Internet",
+              "recordId": "001Kb00001GwistIAB",
+              "value": "Media & Internet"
+            },
+            {
+              "escapedLabel": "Music Production &amp; Services",
+              "label": "Music Production & Services",
+              "recordId": "001Kb00001GwistIAB",
+              "value": "Music Production & Services"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001GwistIAB",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001GwistIAB",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001GwistIAB",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwistIAB",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwistIAB",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001GwistIAB",
+              "value": false
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwistIAB",
+              "value": null
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
               "label": "IEX Group",
               "recordId": "001Kb00001GwisuIAB",
               "value": "001Kb00001GwisuIAB"
@@ -7969,10 +8127,10 @@
               "value": "Real Estate"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001GwitKIAR",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -8048,10 +8206,10 @@
               "value": "Manufacturing"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001GwitNIAR",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -9386,15 +9544,15 @@
               "value": "High"
             },
             {
-              "label": "-",
+              "label": "Financial Services",
               "recordId": "001Kb00001GwiuEIAR",
-              "value": null
+              "value": "Financial Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Investment Banking",
+              "label": "Investment Banking",
               "recordId": "001Kb00001GwiuEIAR",
-              "value": null
+              "value": "Investment Banking"
             },
             {
               "label": "0",
@@ -10097,9 +10255,9 @@
               "value": "High"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001Kb00001GwiucIAB",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
               "escapedLabel": "Investment Banking",
@@ -22895,9 +23053,9 @@
               "value": "High"
             },
             {
-              "label": "Biotechnology",
+              "label": "Pharmaceutical Manufacturing",
               "recordId": "001Kb00001GwpylIAB",
-              "value": "Biotechnology"
+              "value": "Pharmaceutical Manufacturing"
             },
             {
               "escapedLabel": "Pharmaceuticals",
@@ -23017,6 +23175,85 @@
             {
               "label": "BDR",
               "recordId": "001Kb00001GwpymIAB",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Con Edison",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": "001Kb00001GwpynIAB"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.conedison.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.conedison.com (New Window)\">http://www.conedison.com</a>",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": "http://www.conedison.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Enterprise AI Builder",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": "Enterprise AI Builder"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": null
+            },
+            {
+              "label": "Electricity, Oil & Gas",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": "Electricity, Oil & Gas"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001GwpynIAB",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001Kb00001GwpynIAB",
               "value": "BDR"
             }
           ]
@@ -26213,9 +26450,9 @@
               "value": "High"
             },
             {
-              "label": "Biotechnology Research",
+              "label": "Pharmaceutical Manufacturing",
               "recordId": "001Kb00001GwpzrIAB",
-              "value": "Biotechnology Research"
+              "value": "Pharmaceutical Manufacturing"
             },
             {
               "escapedLabel": "Research &amp; Development",
@@ -26297,10 +26534,10 @@
               "value": "Retail Motor Vehicles"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Motor Vehicles",
+              "label": "Motor Vehicles",
               "recordId": "001Kb00001GwpzsIAB",
-              "value": null
+              "value": "Motor Vehicles"
             },
             {
               "label": "0",
@@ -26371,9 +26608,9 @@
               "value": "High"
             },
             {
-              "label": "Financial Services",
+              "label": "Insurance",
               "recordId": "001Kb00001GwpztIAB",
-              "value": "Financial Services"
+              "value": "Insurance"
             },
             {
               "escapedLabel": "-",
@@ -26929,10 +27166,10 @@
               "value": "Motor Vehicle Manufacturing"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Motor Vehicles",
+              "label": "Motor Vehicles",
               "recordId": "001Kb00001Gwq05IAB",
-              "value": null
+              "value": "Motor Vehicles"
             },
             {
               "label": "0",
@@ -28267,15 +28504,15 @@
               "value": "High"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001Kb00001Gwq0XIAR",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001Kb00001Gwq0XIAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -29299,10 +29536,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001Kb00001Gwq0tIAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -31585,15 +31822,15 @@
               "value": "High"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001Kb00001Gwq1hIAB",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001Kb00001Gwq1hIAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -31985,10 +32222,10 @@
               "value": "Oil and Gas"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001Gwq1pIAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -32459,10 +32696,10 @@
               "value": "Retail Motor Vehicles"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Motor Vehicles",
+              "label": "Motor Vehicles",
               "recordId": "001Kb00001Gwq20IAB",
-              "value": null
+              "value": "Motor Vehicles"
             },
             {
               "label": "0",
@@ -36172,10 +36409,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001Kb00001Gwv6hIAB",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -36251,10 +36488,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001Gwv6kIAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -36488,10 +36725,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001Kb00001Gwv6pIAB",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -36567,10 +36804,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001Kb00001Gwv6qIAB",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -39219,6 +39456,85 @@
         {
           "dataCells": [
             {
+              "label": "Material",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": "001Kb00001GwyIHIAZ"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.materialhandlingpub.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.materialhandlingpub.com (New Window)\">http://www.materialhandlingpub.com</a>",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": "http://www.materialhandlingpub.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Other",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": "Other"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": null
+            },
+            {
+              "label": "Industrial Machinery & Equipment",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": "Industrial Machinery & Equipment"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": "Tier 4"
+            },
+            {
+              "label": "40",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": 40
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": null
+            },
+            {
+              "label": "7/1/2026",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": "2026-07-01"
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001Kb00001GwyIHIAZ",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
               "label": "Cox Communications",
               "recordId": "001Kb00001GwyMTIAZ",
               "value": "001Kb00001GwyMTIAZ"
@@ -41781,10 +42097,10 @@
               "value": "Chemical Manufacturing"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001Kb00001Gx1nxIAB",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -44862,10 +45178,10 @@
               "value": "Financial Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001Gx1pfIAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -46408,6 +46724,85 @@
         {
           "dataCells": [
             {
+              "label": "SAP BusinessObjects",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": "001Kb00001Gx1qYIAR"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.fsdashboardscentre.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.fsdashboardscentre.com (New Window)\">http://www.fsdashboardscentre.com</a>",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": "http://www.fsdashboardscentre.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Enterprise AI Builder",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": "Enterprise AI Builder"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": null
+            },
+            {
+              "label": "HR & Staffing",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": "HR & Staffing"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001Kb00001Gx1qYIAR",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
               "label": "Putnam Investments",
               "recordId": "001Kb00001Gx1qZIAR",
               "value": "001Kb00001Gx1qZIAR"
@@ -46961,6 +47356,85 @@
         {
           "dataCells": [
             {
+              "label": "ETAO International Group",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": "001Kb00001Gx1uHIAR"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fetao.world%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://etao.world (New Window)\">http://etao.world</a>",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": "http://etao.world"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "AI Builder",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": "AI Builder"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": null
+            },
+            {
+              "label": "Healthcare Software",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": "Healthcare Software"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001Kb00001Gx1uHIAR",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
               "label": "Accelerated Enrollment Solutions",
               "recordId": "001Kb00001Gx1uJIAR",
               "value": "001Kb00001Gx1uJIAR"
@@ -47033,6 +47507,85 @@
             {
               "label": "BDR",
               "recordId": "001Kb00001Gx1uJIAR",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Wiljanen Systems",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": "001Kb00001Gx1uNIAR"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.wiljanen.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.wiljanen.com (New Window)\">http://www.wiljanen.com</a>",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": "http://www.wiljanen.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Other",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": "Other"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": null
+            },
+            {
+              "label": "Information & Document Management",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": "Information & Document Management"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001Gx1uNIAR",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001Kb00001Gx1uNIAR",
               "value": "BDR"
             }
           ]
@@ -47627,10 +48180,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001Kb00001Gx1uoIAB",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -53315,10 +53868,10 @@
               "value": "Hospitals and Health Care"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001Gx1wxIAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -53789,10 +54342,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Motor Vehicles",
+              "label": "Motor Vehicles",
               "recordId": "001Kb00001Gx1x7IAB",
-              "value": null
+              "value": "Motor Vehicles"
             },
             {
               "label": "0",
@@ -58134,10 +58687,10 @@
               "value": "Biotechnology Research"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001Kb00001Gx22EIAR",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -62400,10 +62953,10 @@
               "value": "Computer Games"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Multimedia, Games &amp; Graphics Software",
+              "label": "Multimedia, Games & Graphics Software",
               "recordId": "001Kb00001Gx23vIAB",
-              "value": null
+              "value": "Multimedia, Games & Graphics Software"
             },
             {
               "label": "0",
@@ -62596,6 +63149,85 @@
             {
               "label": "BDR",
               "recordId": "001Kb00001Gx23yIAB",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Vineyard Place Apartments",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": "001Kb00001Gx23zIAB"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.vineyardplaceapartments.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.vineyardplaceapartments.com (New Window)\">http://www.vineyardplaceapartments.com</a>",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": "http://www.vineyardplaceapartments.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Other",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": "Other"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": null
+            },
+            {
+              "label": "Customer Relationship Management (CRM) Software",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": "Customer Relationship Management (CRM) Software"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001Gx23zIAB",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001Kb00001Gx23zIAB",
               "value": "BDR"
             }
           ]
@@ -63348,10 +63980,10 @@
               "value": "Computer and Network Security"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Security Software",
+              "label": "Security Software",
               "recordId": "001Kb00001Gx24CIAR",
-              "value": null
+              "value": "Security Software"
             },
             {
               "label": "0",
@@ -66271,10 +66903,10 @@
               "value": "Staffing and Recruiting"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "HR &amp; Staffing",
+              "label": "HR & Staffing",
               "recordId": "001Kb00001Gx259IAB",
-              "value": null
+              "value": "HR & Staffing"
             },
             {
               "label": "0",
@@ -66903,10 +67535,10 @@
               "value": "Computer Games"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Multimedia, Games &amp; Graphics Software",
+              "label": "Multimedia, Games & Graphics Software",
               "recordId": "001Kb00001Gx25KIAR",
-              "value": null
+              "value": "Multimedia, Games & Graphics Software"
             },
             {
               "label": "0",
@@ -67185,6 +67817,85 @@
         {
           "dataCells": [
             {
+              "label": "Fixit",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": "001Kb00001Gx25TIAR"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.therealfixit.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.therealfixit.com (New Window)\">http://www.therealfixit.com</a>",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": "http://www.therealfixit.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Other",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": "Other"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": null
+            },
+            {
+              "label": "Software",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": "Software"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001Kb00001Gx25TIAR",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
               "label": "Care Solutions",
               "recordId": "001Kb00001Gx25UIAR",
               "value": "001Kb00001Gx25UIAR"
@@ -67298,10 +68009,10 @@
               "value": "Human Resources Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "HR &amp; Staffing",
+              "label": "HR & Staffing",
               "recordId": "001Kb00001Gx25YIAR",
-              "value": null
+              "value": "HR & Staffing"
             },
             {
               "label": "0",
@@ -69194,10 +69905,10 @@
               "value": "Capital Markets"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000ASeWHYA1",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -69510,10 +70221,10 @@
               "value": "Financial Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000AiIrbYAF",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -73218,15 +73929,15 @@
               "value": "High"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001TV00000CdrVQYAZ",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000CdrVQYAZ",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -73539,10 +74250,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000CdrW5YAJ",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -73776,10 +74487,10 @@
               "value": "Financial Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000Cdra7YAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -74013,10 +74724,10 @@
               "value": "Real Estate"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Multimedia, Games &amp; Graphics Software",
+              "label": "Multimedia, Games & Graphics Software",
               "recordId": "001TV00000CdraQYAR",
-              "value": null
+              "value": "Multimedia, Games & Graphics Software"
             },
             {
               "label": "0",
@@ -74690,6 +75401,85 @@
         {
           "dataCells": [
             {
+              "label": "Public Power",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": "001TV00000Cdri2YAB"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.ppandu.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.ppandu.com (New Window)\">http://www.ppandu.com</a>",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": "http://www.ppandu.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Other",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": "Other"
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": null
+            },
+            {
+              "label": "Electricity, Oil & Gas",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": "Electricity, Oil & Gas"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001TV00000Cdri2YAB",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
               "label": "First Horizon Bank",
               "recordId": "001TV00000CdrirYAB",
               "value": "001TV00000CdrirYAB"
@@ -74719,15 +75509,15 @@
               "value": "High"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001TV00000CdrirYAB",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000CdrirYAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -75277,10 +76067,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000Cdrk3YAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -75830,10 +76620,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000CdrktYAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -76699,10 +77489,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000Cdrr0YAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -76857,10 +77647,10 @@
               "value": "Pharmaceutical Manufacturing"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Pharmaceuticals",
+              "label": "Pharmaceuticals",
               "recordId": "001TV00000CdrrBYAR",
-              "value": null
+              "value": "Pharmaceuticals"
             },
             {
               "label": "0",
@@ -77247,9 +78037,9 @@
               "value": "Medium"
             },
             {
-              "label": "Pharmaceutical Manufacturing",
+              "label": "Biotechnology Research",
               "recordId": "001TV00000CdrrpYAB",
-              "value": "Pharmaceutical Manufacturing"
+              "value": "Biotechnology Research"
             },
             {
               "escapedLabel": "-",
@@ -78121,10 +78911,10 @@
               "value": "Real Estate"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000Cdrt3YAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -78432,9 +79222,9 @@
               "value": "Low"
             },
             {
-              "label": "Real Estate",
+              "label": "Hospitality",
               "recordId": "001TV00000CdrvRYAR",
-              "value": "Real Estate"
+              "value": "Hospitality"
             },
             {
               "escapedLabel": "-",
@@ -78674,10 +79464,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000Cdrw5YAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -78832,10 +79622,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000Cdrw9YAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -78990,10 +79780,10 @@
               "value": "Biotechnology Research"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Pharmaceuticals",
+              "label": "Pharmaceuticals",
               "recordId": "001TV00000CdrwXYAR",
-              "value": null
+              "value": "Pharmaceuticals"
             },
             {
               "label": "0",
@@ -80412,10 +81202,10 @@
               "value": "Financial Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000DbtR4YAJ",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -81834,10 +82624,10 @@
               "value": "Oil and Gas"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000E7fhrYAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -85863,10 +86653,10 @@
               "value": "Computer and Network Security"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Security Software",
+              "label": "Security Software",
               "recordId": "001TV00000E7fk5YAB",
-              "value": null
+              "value": "Security Software"
             },
             {
               "label": "0",
@@ -86495,10 +87285,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000E7fkSYAR",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -89181,10 +89971,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000E7fpJYAR",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -90840,10 +91630,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7fq9YAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -91472,10 +92262,10 @@
               "value": "Motor Vehicle Manufacturing"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Motor Vehicles",
+              "label": "Motor Vehicles",
               "recordId": "001TV00000E7fqSYAR",
-              "value": null
+              "value": "Motor Vehicles"
             },
             {
               "label": "0",
@@ -91546,15 +92336,15 @@
               "value": "Medium"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001TV00000E7fqUYAR",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7fqUYAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -93289,10 +94079,10 @@
               "value": "Hospitals and Health Care"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000E7k83YAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -93684,10 +94474,10 @@
               "value": "Hospitals and Health Care"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000E7k8FYAR",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -94158,10 +94948,10 @@
               "value": "Computer Games"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Multimedia, Games &amp; Graphics Software",
+              "label": "Multimedia, Games & Graphics Software",
               "recordId": "001TV00000E7k8MYAR",
-              "value": null
+              "value": "Multimedia, Games & Graphics Software"
             },
             {
               "label": "0",
@@ -94864,15 +95654,15 @@
               "value": "Medium"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001TV00000E7rxCYAR",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7rxCYAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -95022,15 +95812,15 @@
               "value": "Medium"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001TV00000E7rxGYAR",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7rxGYAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -95106,10 +95896,10 @@
               "value": "Information Technology and Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000E7rxHYAR",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -95417,15 +96207,15 @@
               "value": "High"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001TV00000E7rxLYAR",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7rxLYAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -96054,10 +96844,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7rxYYAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -96133,10 +96923,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7rxZYAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -96207,15 +96997,15 @@
               "value": "Medium"
             },
             {
-              "label": "Financial Services",
+              "label": "Banking",
               "recordId": "001TV00000E7rxaYAB",
-              "value": "Financial Services"
+              "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7rxaYAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -96291,10 +97081,10 @@
               "value": "Financial Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000E7rxbYAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -97239,10 +98029,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7rxtYAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -98108,10 +98898,10 @@
               "value": "Real Estate"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000E7ryCYAR",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -98266,10 +99056,10 @@
               "value": "Investment Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000E7ryFYAR",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -98661,10 +99451,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000E7ryNYAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -100315,9 +101105,9 @@
               "value": "Medium"
             },
             {
-              "label": "Biotechnology Research",
+              "label": "Pharmaceutical Manufacturing",
               "recordId": "001TV00000FdYz4YAF",
-              "value": "Biotechnology Research"
+              "value": "Pharmaceutical Manufacturing"
             },
             {
               "escapedLabel": "Pharmaceuticals",
@@ -103130,6 +103920,85 @@
         {
           "dataCells": [
             {
+              "label": "MIT Lincoln Lab",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": "001TV00000H8EwtYAF"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.ll.mit.edu%2F%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.ll.mit.edu/ (New Window)\">https://www.ll.mit.edu/</a>",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": "https://www.ll.mit.edu/"
+            },
+            {
+              "label": "GPU-heavy",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": "GPU-heavy"
+            },
+            {
+              "label": "Enterprise AI Builder",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": "Enterprise AI Builder"
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": null
+            },
+            {
+              "label": "Consumer Services",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": "Consumer Services"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": null
+            },
+            {
+              "label": "0",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": "Tier 4"
+            },
+            {
+              "label": "45",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": 45
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": null
+            },
+            {
+              "label": "7/1/2026",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": "2026-07-01"
+            },
+            {
+              "label": "false",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": false
+            },
+            {
+              "label": "BDR",
+              "recordId": "001TV00000H8EwtYAF",
+              "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
               "label": "Yale University",
               "recordId": "001TV00000H8FZbYAN",
               "value": "001TV00000H8FZbYAN"
@@ -103875,10 +104744,10 @@
               "value": "IT Services and IT Consulting"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000ITU2xYAH",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -104349,10 +105218,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000JDEU4YAP",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -104507,10 +105376,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000JDQ1lYAH",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -104665,10 +105534,10 @@
               "value": "Online Audio and Video Media"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Multimedia, Games &amp; Graphics Software",
+              "label": "Multimedia, Games & Graphics Software",
               "recordId": "001TV00000Jbb5jYAB",
-              "value": null
+              "value": "Multimedia, Games & Graphics Software"
             },
             {
               "label": "0",
@@ -105139,10 +106008,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000O0bugYAB",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -105297,10 +106166,10 @@
               "value": "Information Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000OWLybYAH",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -105613,10 +106482,10 @@
               "value": "Research Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000OWLylYAH",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -106324,10 +107193,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000OdNSvYAN",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -106640,10 +107509,10 @@
               "value": "Technology, Information and Media"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000OdNTCYA3",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -106877,10 +107746,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000OdNTLYA3",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -106915,6 +107784,85 @@
             {
               "label": "-",
               "recordId": "001TV00000OdNTLYA3",
+              "value": null
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Carnegie Mellon University",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": "001TV00000OwlNfYAJ"
+            },
+            {
+              "label": "Sean Coughlin",
+              "value": "005Kb00000AlYFjIAN"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.cs.cmu.edu%2F%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.cs.cmu.edu/ (New Window)\">https://www.cs.cmu.edu/</a>",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": "https://www.cs.cmu.edu/"
+            },
+            {
+              "label": "Hybrid",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": "Hybrid"
+            },
+            {
+              "label": "Enterprise AI Builder",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": "Enterprise AI Builder"
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": null
+            },
+            {
+              "label": "Higher Education",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": "Higher Education"
+            },
+            {
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": "Colleges & Universities"
+            },
+            {
+              "label": "0",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": "Tier 4"
+            },
+            {
+              "label": "36",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": 36
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": null
+            },
+            {
+              "label": "4/7/2026",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": "2026-04-07"
+            },
+            {
+              "label": "false",
+              "recordId": "001TV00000OwlNfYAJ",
+              "value": false
+            },
+            {
+              "label": "-",
+              "recordId": "001TV00000OwlNfYAJ",
               "value": null
             }
           ]
@@ -107272,10 +108220,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000PMcyfYAD",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -107430,10 +108378,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000PMcylYAD",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -107746,10 +108694,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001TV00000Q6tXGYAZ",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -108615,10 +109563,10 @@
               "value": "Financial Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000RP5UrYAL",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -109484,10 +110432,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000WYFiFYAX",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -109642,10 +110590,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000WYKBbYAP",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -109721,10 +110669,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000WYMABYA5",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -109879,10 +110827,10 @@
               "value": "IT Services and IT Consulting"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000XEBNoYAP",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -111143,10 +112091,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000YekbeYAB",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -111222,10 +112170,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000YektNYAR",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -111301,10 +112249,10 @@
               "value": "Pharmaceutical Manufacturing"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Pharmaceuticals",
+              "label": "Pharmaceuticals",
               "recordId": "001TV00000YekyDYAR",
-              "value": null
+              "value": "Pharmaceuticals"
             },
             {
               "label": "0",
@@ -111854,10 +112802,10 @@
               "value": "IT Services and IT Consulting"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000YhEIhYAN",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -112170,10 +113118,10 @@
               "value": "Software"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000ZjnQIYAZ",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -112723,10 +113671,10 @@
               "value": "Defense and Space Manufacturing"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Security Software",
+              "label": "Security Software",
               "recordId": "001TV00000ZkfYfYAJ",
-              "value": null
+              "value": "Security Software"
             },
             {
               "label": "0",
@@ -113039,10 +113987,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aR61gYAC",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -113118,10 +114066,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aR7dgYAC",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -113197,10 +114145,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aRB4WYAW",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -113355,10 +114303,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aRH9uYAG",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -113434,10 +114382,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aRHBUYA4",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -113513,10 +114461,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aRHOMYA4",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -113908,10 +114856,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aRM35YAG",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -114224,10 +115172,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aRQBTYA4",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -114540,10 +115488,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aRVJAYA4",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -114619,10 +115567,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aRWqHYAW",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -114698,10 +115646,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWF8yYAG",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -114935,10 +115883,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWPbPYAW",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -115093,10 +116041,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWVIXYA4",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -115172,10 +116120,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWXp1YAG",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -115330,10 +116278,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWa0UYAS",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -115725,10 +116673,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWjmvYAC",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -115804,10 +116752,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWjyAYAS",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -115962,10 +116910,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWnAbYAK",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -116120,10 +117068,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWpKRYA0",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -116589,9 +117537,9 @@
               "value": "Medium"
             },
             {
-              "label": "Research Services",
+              "label": "Government Administration",
               "recordId": "001TV00000aWrcPYAS",
-              "value": "Research Services"
+              "value": "Government Administration"
             },
             {
               "escapedLabel": "-",
@@ -116673,10 +117621,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWrcQYAS",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -116752,10 +117700,10 @@
               "value": "Hospitals and Health Care"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Medical &amp; Surgical Hospitals",
+              "label": "Medical & Surgical Hospitals",
               "recordId": "001TV00000aWrfbYAC",
-              "value": null
+              "value": "Medical & Surgical Hospitals"
             },
             {
               "label": "0",
@@ -116910,10 +117858,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWsAFYA0",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -116989,10 +117937,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWsYSYA0",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -117068,10 +118016,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWsztYAC",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -117147,10 +118095,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWt1TYAS",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -117858,10 +118806,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWvfzYAC",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -118011,15 +118959,15 @@
               "value": "High"
             },
             {
-              "label": "Research Services",
+              "label": "Higher Education",
               "recordId": "001TV00000aWwaRYAS",
-              "value": "Research Services"
+              "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWwaRYAS",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -118095,10 +119043,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWwtmYAC",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -118490,10 +119438,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWy2lYAC",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -118569,10 +119517,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWy4MYAS",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -118648,10 +119596,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWyM6YAK",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -118727,10 +119675,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWzRqYAK",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -118806,10 +119754,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWzWfYAK",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -118964,10 +119912,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aWzjZYAS",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -119517,10 +120465,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aX0NtYAK",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -119754,10 +120702,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000aX0XZYA0",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -119991,10 +120939,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000akd6ZYAQ",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -120623,10 +121571,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000dxPwtYAE",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -121018,10 +121966,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000dxbK8YAI",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -121255,10 +122203,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000dxdBpYAI",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -121334,10 +122282,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000dxeZGYAY",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -121650,10 +122598,10 @@
               "value": "Software"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000eYvHrYAK",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -121887,10 +122835,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000gg2oQYAQ",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -122045,10 +122993,10 @@
               "value": "Energy Technology"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000gg8FXYAY",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -122124,10 +123072,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000ggHabYAE",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -123388,10 +124336,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000iNvSUYA0",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -124336,10 +125284,10 @@
               "value": "Higher Education"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Colleges &amp; Universities",
+              "label": "Colleges & Universities",
               "recordId": "001TV00000iVmAMYA0",
-              "value": null
+              "value": "Colleges & Universities"
             },
             {
               "label": "0",
@@ -124465,8 +125413,8 @@
               "value": "001TV00000jtyJOYAY"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fgrowthspace.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://growthspace.com (New Window)\">http://growthspace.com</a>",
@@ -124544,8 +125492,8 @@
               "value": "001TV00000k9GzEYAU"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Finteleca.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://inteleca.com (New Window)\">http://inteleca.com</a>",
@@ -124623,8 +125571,8 @@
               "value": "001TV00000k9MYUYA2"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Foncore.ventures%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://oncore.ventures (New Window)\">http://oncore.ventures</a>",
@@ -124652,10 +125600,10 @@
               "value": "Marketing Services"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001TV00000k9MYUYA2",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -124702,8 +125650,8 @@
               "value": "001TV00000k9VbjYAE"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fchinatalk.media%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://chinatalk.media (New Window)\">http://chinatalk.media</a>",
@@ -124781,8 +125729,8 @@
               "value": "001TV00000k9WXgYAM"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fxfinity.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://xfinity.com (New Window)\">http://xfinity.com</a>",
@@ -124860,8 +125808,8 @@
               "value": "001TV00000k9WnmYAE"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fdgmatrix.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://dgmatrix.com (New Window)\">http://dgmatrix.com</a>",
@@ -124939,8 +125887,8 @@
               "value": "001TV00000k9WpTYAU"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fabya.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://abya.com (New Window)\">http://abya.com</a>",
@@ -125018,8 +125966,8 @@
               "value": "001TV00000k9Wr8YAE"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fgovini.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://govini.com (New Window)\">http://govini.com</a>",
@@ -125097,8 +126045,8 @@
               "value": "001TV00000k9Wr9YAE"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fsovereigndatacenters.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://sovereigndatacenters.com (New Window)\">http://sovereigndatacenters.com</a>",
@@ -125176,8 +126124,8 @@
               "value": "001TV00000k9Xf7YAE"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fstoragereview.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://storagereview.com (New Window)\">http://storagereview.com</a>",
@@ -125255,8 +126203,8 @@
               "value": "001TV00000k9Y85YAE"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Futilidata.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://utilidata.com (New Window)\">http://utilidata.com</a>",
@@ -125334,8 +126282,8 @@
               "value": "001TV00000k9ZKHYA2"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fleonardodrs.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://leonardodrs.com (New Window)\">http://leonardodrs.com</a>",
@@ -125413,8 +126361,8 @@
               "value": "001TV00000k9acvYAA"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fakashx.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://akashx.com (New Window)\">http://akashx.com</a>",
@@ -125492,8 +126440,8 @@
               "value": "001TV00000k9bNzYAI"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fsutorgroupintelligenceandadvisory.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://sutorgroupintelligenceandadvisory.com (New Window)\">http://sutorgroupintelligenceandadvisory.com</a>",
@@ -125571,8 +126519,8 @@
               "value": "001TV00000kCAPLYA4"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fdci-solutions.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://dci-solutions.com (New Window)\">http://dci-solutions.com</a>",
@@ -125650,8 +126598,8 @@
               "value": "001TV00000kCGEhYAO"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fmcleantechnologygroup.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://mcleantechnologygroup.com (New Window)\">http://mcleantechnologygroup.com</a>",
@@ -125729,8 +126677,8 @@
               "value": "001TV00000kCK2AYAW"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fdtst.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://dtst.com (New Window)\">http://dtst.com</a>",
@@ -125808,8 +126756,8 @@
               "value": "001TV00000kCKDTYA4"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fghostdog.io%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://ghostdog.io (New Window)\">http://ghostdog.io</a>",
@@ -125887,8 +126835,8 @@
               "value": "001TV00000kCL9YYAW"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fnousresearch.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://nousresearch.com (New Window)\">http://nousresearch.com</a>",
@@ -125966,8 +126914,8 @@
               "value": "001TV00000kCNspYAG"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Ftheinnovationmachine.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://theinnovationmachine.com (New Window)\">http://theinnovationmachine.com</a>",
@@ -126045,8 +126993,8 @@
               "value": "001TV00000kCNw3YAG"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fvernay.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://vernay.com (New Window)\">http://vernay.com</a>",
@@ -126124,8 +127072,8 @@
               "value": "001TV00000kCOQkYAO"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fpowerrox.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://powerrox.com (New Window)\">http://powerrox.com</a>",
@@ -126203,8 +127151,8 @@
               "value": "001TV00000kCQkDYAW"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Flyzr.ai%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://lyzr.ai (New Window)\">http://lyzr.ai</a>",
@@ -126232,10 +127180,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000kCQkDYAW",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -126282,8 +127230,8 @@
               "value": "001TV00000kCUW7YAO"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fbld.ai%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://bld.ai (New Window)\">http://bld.ai</a>",
@@ -126311,10 +127259,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000kCUW7YAO",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -126361,8 +127309,8 @@
               "value": "001TV00000kCVyPYAW"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fstartup.ai%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://startup.ai (New Window)\">http://startup.ai</a>",
@@ -126390,10 +127338,10 @@
               "value": "Venture Capital and Private Equity Principals"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000kCVyPYAW",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -126440,8 +127388,8 @@
               "value": "001TV00000kPwplYAC"
             },
             {
-              "label": "Joe Tarantino",
-              "value": "005TV000005KfVZYA0"
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
             },
             {
               "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fduostechnologies.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://duostechnologies.com (New Window)\">http://duostechnologies.com</a>",
@@ -126548,10 +127496,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000pJZevYAG",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "0",
@@ -128811,8 +129759,8 @@
           "value": 39.0
         },
         {
-          "label": "26,979",
-          "value": 26979.0
+          "label": "27,014",
+          "value": 27014.0
         },
         {
           "label": "146",
@@ -128823,8 +129771,8 @@
           "value": 2.6
         },
         {
-          "label": "1,481",
-          "value": 1481
+          "label": "1,495",
+          "value": 1495
         }
       ],
       "rows": [
@@ -130998,10 +131946,10 @@
               "value": "Software Development"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000O0bufYAB",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "1",
@@ -131077,10 +132025,10 @@
               "value": "Technology, Information and Internet"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "AI/Machine Learning Software",
+              "label": "AI/Machine Learning Software",
               "recordId": "001TV00000Zk0P3YAJ",
-              "value": null
+              "value": "AI/Machine Learning Software"
             },
             {
               "label": "1",
@@ -131230,9 +132178,9 @@
               "value": "High"
             },
             {
-              "label": "-",
+              "label": "Technology, Information and Internet",
               "recordId": "001TV00000bVtfpYAC",
-              "value": null
+              "value": "Technology, Information and Internet"
             },
             {
               "escapedLabel": "-",
@@ -133802,6 +134750,85 @@
               "label": "BDR",
               "recordId": "001Kb00001GwitxIAB",
               "value": "BDR"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "Pensando",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": "001Kb00001GwitzIAB"
+            },
+            {
+              "label": "Greg Mark",
+              "value": "005TV000005KfVaYAK"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.pensandoengato.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.pensandoengato.com (New Window)\">http://www.pensandoengato.com</a>",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": "http://www.pensandoengato.com"
+            },
+            {
+              "label": "CPU-heavy",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": "CPU-heavy"
+            },
+            {
+              "label": "Other",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": "Other"
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": null
+            },
+            {
+              "label": "Consumer Services",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": "Consumer Services"
+            },
+            {
+              "escapedLabel": "Photography Studio",
+              "label": "Photography Studio",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": "Photography Studio"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": 0
+            },
+            {
+              "label": "Tier 4",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": "Tier 4"
+            },
+            {
+              "label": "0",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": 0
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": null
+            },
+            {
+              "label": "false",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": false
+            },
+            {
+              "label": "-",
+              "recordId": "001Kb00001GwitzIAB",
+              "value": null
             }
           ]
         },
@@ -137950,10 +138977,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001Kb00001Gwpx1IAB",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -139451,10 +140478,10 @@
               "value": "Oil and Gas"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001Gwpy4IAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -139683,9 +140710,9 @@
               "value": "Medium"
             },
             {
-              "label": "Wholesale Building Materials",
+              "label": "Construction",
               "recordId": "001Kb00001GwpyFIAR",
-              "value": "Wholesale Building Materials"
+              "value": "Construction"
             },
             {
               "escapedLabel": "-",
@@ -140162,10 +141189,10 @@
               "value": "Motor Vehicle Manufacturing"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Motor Vehicles",
+              "label": "Motor Vehicles",
               "recordId": "001Kb00001GwpyWIAR",
-              "value": null
+              "value": "Motor Vehicles"
             },
             {
               "label": "0",
@@ -140241,10 +141268,10 @@
               "value": "Banking"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Banking",
+              "label": "Banking",
               "recordId": "001Kb00001GwpyYIAR",
-              "value": null
+              "value": "Banking"
             },
             {
               "label": "0",
@@ -144902,10 +145929,10 @@
               "value": "Insurance"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Motor Vehicles",
+              "label": "Motor Vehicles",
               "recordId": "001Kb00001Gwq1GIAR",
-              "value": null
+              "value": "Motor Vehicles"
             },
             {
               "label": "0",
@@ -145371,9 +146398,9 @@
               "value": "High"
             },
             {
-              "label": "Construction",
+              "label": "Oil and Gas",
               "recordId": "001Kb00001Gwq1QIAR",
-              "value": "Construction"
+              "value": "Oil and Gas"
             },
             {
               "escapedLabel": "-",
@@ -145850,10 +146877,10 @@
               "value": "Oil and Gas"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001Gwq1cIAB",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -147899,9 +148926,9 @@
               "value": "Medium"
             },
             {
-              "label": "Consumer Services",
+              "label": "Insurance",
               "recordId": "001Kb00001GwqfHIAR",
-              "value": "Consumer Services"
+              "value": "Insurance"
             },
             {
               "escapedLabel": "-",
@@ -156594,10 +157621,10 @@
               "value": "Hospitals and Health Care"
             },
             {
-              "escapedLabel": "-",
-              "label": "-",
+              "escapedLabel": "Venture Capital &amp; Private Equity",
+              "label": "Venture Capital & Private Equity",
               "recordId": "001Kb00001GwyI1IAJ",
-              "value": null
+              "value": "Venture Capital & Private Equity"
             },
             {
               "label": "0",
@@ -157030,1057 +158057,30 @@
               "value": "BDR"
             }
           ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Skype",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": "001Kb00001Gx1mvIAB"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.skype.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.skype.com (New Window)\">http://www.skype.com</a>",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": "http://www.skype.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "Medium",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": "Medium"
-            },
-            {
-              "label": "Advertising Services",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": "Advertising Services"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": 0
-            },
-            {
-              "label": "Tier 3",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": "Tier 3"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1mvIAB",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Naughty Dog",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": "001Kb00001Gx1myIAB"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.naughtydog.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.naughtydog.com (New Window)\">http://www.naughtydog.com</a>",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": "http://www.naughtydog.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "Low",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": "Low"
-            },
-            {
-              "label": "Computer Games",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": "Computer Games"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": 0
-            },
-            {
-              "label": "Tier 3",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": "Tier 3"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1myIAB",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Aspect Software",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": "001Kb00001Gx1n0IAB"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.aspect.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.aspect.com (New Window)\">http://www.aspect.com</a>",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": "http://www.aspect.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "Medium",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": "Medium"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": 0
-            },
-            {
-              "label": "Tier 2",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": "Tier 2"
-            },
-            {
-              "label": "15",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": 15
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1n0IAB",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Andreessen Horowitz",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "001Kb00001Gx1n3IAB"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.a16z.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.a16z.com (New Window)\">http://www.a16z.com</a>",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "http://www.a16z.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "Partner",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "Partner"
-            },
-            {
-              "label": "Low",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "Low"
-            },
-            {
-              "label": "Venture Capital and Private Equity Principals",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "Venture Capital and Private Equity Principals"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": 0
-            },
-            {
-              "label": "Tier 1",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "Tier 1"
-            },
-            {
-              "label": "30",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": 30
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": null
-            },
-            {
-              "label": "8/5/2026",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "2026-08-05"
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1n3IAB",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "HackerEarth",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": "001Kb00001Gx1n6IAB"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.hackerearth.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.hackerearth.com (New Window)\">http://www.hackerearth.com</a>",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": "http://www.hackerearth.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "AI Builder",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": "AI Builder"
-            },
-            {
-              "label": "Medium",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": "Medium"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": 0
-            },
-            {
-              "label": "Tier 3",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": "Tier 3"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1n6IAB",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Turnitin",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": "001Kb00001Gx1nAIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.turnitin.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.turnitin.com (New Window)\">http://www.turnitin.com</a>",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": "http://www.turnitin.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "High",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": "High"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 2",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": "Tier 2"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nAIAR",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Jotform",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": "001Kb00001Gx1nHIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.jotform.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.jotform.com (New Window)\">http://www.jotform.com</a>",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": "http://www.jotform.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "AI Builder",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": "AI Builder"
-            },
-            {
-              "label": "Medium",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": "Medium"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 3",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": "Tier 3"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nHIAR",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "PandaDoc",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": "001Kb00001Gx1nIIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.pandadoc.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.pandadoc.com (New Window)\">http://www.pandadoc.com</a>",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": "http://www.pandadoc.com"
-            },
-            {
-              "label": "Hybrid",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": "Hybrid"
-            },
-            {
-              "label": "AI Builder",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": "AI Builder"
-            },
-            {
-              "label": "High",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": "High"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 3",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": "Tier 3"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nIIAR",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Strava",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": "001Kb00001Gx1nJIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.strava.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.strava.com (New Window)\">http://www.strava.com</a>",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": "http://www.strava.com"
-            },
-            {
-              "label": "Hybrid",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": "Hybrid"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "Low",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": "Low"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 2",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": "Tier 2"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nJIAR",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Sumo Logic",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": "001Kb00001Gx1nMIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.sumologic.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.sumologic.com (New Window)\">http://www.sumologic.com</a>",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": "http://www.sumologic.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "High",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": "High"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 3",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": "Tier 3"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nMIAR",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "SmartRecruiters",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": "001Kb00001Gx1nOIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.smartrecruiters.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.smartrecruiters.com (New Window)\">http://www.smartrecruiters.com</a>",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": "http://www.smartrecruiters.com"
-            },
-            {
-              "label": "Hybrid",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": "Hybrid"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "High",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": "High"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 2",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": "Tier 2"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nOIAR",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "Airtable",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": "001Kb00001Gx1nPIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.airtable.com%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.airtable.com (New Window)\">http://www.airtable.com</a>",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": "http://www.airtable.com"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "High",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": "High"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 2",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": "Tier 2"
-            },
-            {
-              "label": "35",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": 35
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nPIAR",
-              "value": "BDR"
-            }
-          ]
-        },
-        {
-          "dataCells": [
-            {
-              "label": "ConsenSys",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": "001Kb00001Gx1nQIAR"
-            },
-            {
-              "label": "Greg Mark",
-              "value": "005TV000005KfVaYAK"
-            },
-            {
-              "label": "<a href=\"javascript:openPopupFocus%28%27http%3A%2F%2Fwww.consensys.io%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"http://www.consensys.io (New Window)\">http://www.consensys.io</a>",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": "http://www.consensys.io"
-            },
-            {
-              "label": "CPU-heavy",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": "CPU-heavy"
-            },
-            {
-              "label": "Enterprise AI Builder",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": "Enterprise AI Builder"
-            },
-            {
-              "label": "High",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": "High"
-            },
-            {
-              "label": "Software Development",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": "Software Development"
-            },
-            {
-              "escapedLabel": "-",
-              "label": "-",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": null
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": 0
-            },
-            {
-              "label": "Tier 2",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": "Tier 2"
-            },
-            {
-              "label": "0",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": 0
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": null
-            },
-            {
-              "label": "-",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": null
-            },
-            {
-              "label": "false",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": false
-            },
-            {
-              "label": "BDR",
-              "recordId": "001Kb00001Gx1nQIAR",
-              "value": "BDR"
-            }
-          ]
         }
       ]
     },
     "T!T": {
       "aggregates": [
         {
-          "label": "104",
-          "value": 104.0
+          "label": "108",
+          "value": 108.0
         },
         {
-          "label": "71,396",
-          "value": 71396.0
+          "label": "72,831",
+          "value": 72831.0
         },
         {
-          "label": "348",
-          "value": 348.0
+          "label": "349",
+          "value": 349.0
         },
         {
-          "label": "2.0%",
-          "value": 2.0
+          "label": "1.8%",
+          "value": 1.8
         },
         {
-          "label": "5,174",
-          "value": 5174
+          "label": "6,007",
+          "value": 6007
         }
       ],
       "rows": []

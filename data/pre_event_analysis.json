@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-16T20:03:59.304787+00:00",
+  "generated_at": "2026-09-17T01:55:09.825222+00:00",
   "summary": {
-    "attending_accounts": 98,
-    "unmatched_companies": 111,
+    "attending_accounts": 103,
+    "unmatched_companies": 106,
     "accounts_with_open_opportunity": 12,
     "open_pipeline_total": 2291451.0,
     "opportunities_tied_to_named_campaign": 3,
@@ -23,7 +23,7 @@
         "open_pipeline": 200000.0
       },
       "Tier 4": {
-        "accounts": 12,
+        "accounts": 17,
         "accounts_with_opp": 0,
         "open_pipeline": 0
       }
@@ -1458,7 +1458,7 @@
       "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000JcU2AYAV/view",
       "owner": "Chris Bowen",
       "gpu_segment": "Enterprise AI Builder",
-      "industry": "Research Services",
+      "industry": "Government Administration",
       "target_account": false,
       "icp_account": "High",
       "attendee_count": 1,
@@ -1755,7 +1755,7 @@
       "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000bVtfpYAC/view",
       "owner": "Greg Mark",
       "gpu_segment": "Hyperscaler",
-      "industry": null,
+      "industry": "Technology, Information and Internet",
       "target_account": false,
       "icp_account": "High",
       "attendee_count": 6,
@@ -2884,6 +2884,130 @@
     },
     {
       "tier": "Tier 4",
+      "company": "Cognichip",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000wfSqYYAU/view",
+      "owner": "Abhijeet Bhanoori",
+      "gpu_segment": null,
+      "industry": null,
+      "target_account": false,
+      "icp_account": null,
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Stelios Diamantidis",
+          "title": "Chief Product Officer"
+        },
+        {
+          "name": "Simon Sabato",
+          "title": "Co-Founder & Chief Architect"
+        }
+      ],
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
+      "amount": null,
+      "best_contact": null,
+      "best_contact_title": null,
+      "best_contact_email": null,
+      "primary_campaign": null,
+      "event_family": null,
+      "first_touch": null,
+      "last_touch": null,
+      "opp_id": null,
+      "sfdc_link": null
+    },
+    {
+      "tier": "Tier 4",
+      "company": "Adaption Labs",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000wfSpcYAE/view",
+      "owner": "Abhijeet Bhanoori",
+      "gpu_segment": null,
+      "industry": "Software Development",
+      "target_account": false,
+      "icp_account": null,
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Sudip Roy",
+          "title": "Co-Founder & CTO"
+        }
+      ],
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
+      "amount": null,
+      "best_contact": null,
+      "best_contact_title": null,
+      "best_contact_email": null,
+      "primary_campaign": null,
+      "event_family": null,
+      "first_touch": null,
+      "last_touch": null,
+      "opp_id": null,
+      "sfdc_link": null
+    },
+    {
+      "tier": "Tier 4",
+      "company": "Fiddler AI",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000wfSb6YAE/view",
+      "owner": "Abhijeet Bhanoori",
+      "gpu_segment": null,
+      "industry": "Software Development",
+      "target_account": false,
+      "icp_account": null,
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Krishna Gade",
+          "title": "Founder & CEO"
+        }
+      ],
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
+      "amount": null,
+      "best_contact": null,
+      "best_contact_title": null,
+      "best_contact_email": null,
+      "primary_campaign": null,
+      "event_family": null,
+      "first_touch": null,
+      "last_touch": null,
+      "opp_id": null,
+      "sfdc_link": null
+    },
+    {
+      "tier": "Tier 4",
+      "company": "Coder",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000wfSqXYAU/view",
+      "owner": "Abhijeet Bhanoori",
+      "gpu_segment": null,
+      "industry": null,
+      "target_account": false,
+      "icp_account": null,
+      "attendee_count": 2,
+      "attendees": [
+        {
+          "name": "Nicky Pike",
+          "title": "Americas Field CTO"
+        },
+        {
+          "name": "David Fraley",
+          "title": "Product Manager"
+        }
+      ],
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
+      "amount": null,
+      "best_contact": null,
+      "best_contact_title": null,
+      "best_contact_email": null,
+      "primary_campaign": null,
+      "event_family": null,
+      "first_touch": null,
+      "last_touch": null,
+      "opp_id": null,
+      "sfdc_link": null
+    },
+    {
+      "tier": "Tier 4",
       "company": "Rafay",
       "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000Q6tXTYAZ/view",
       "owner": "Greg Mark",
@@ -3121,6 +3245,35 @@
       "last_touch": null,
       "opp_id": null,
       "sfdc_link": null
+    },
+    {
+      "tier": "Tier 4",
+      "company": "FarmGPU",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000tk5EmYAI/view",
+      "owner": "Anita Pandey",
+      "gpu_segment": null,
+      "industry": null,
+      "target_account": false,
+      "icp_account": null,
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Jonmichael (JM) Hands",
+          "title": "CEO"
+        }
+      ],
+      "has_open_opportunity": false,
+      "stage": "No Open Opportunity",
+      "amount": null,
+      "best_contact": null,
+      "best_contact_title": null,
+      "best_contact_email": null,
+      "primary_campaign": null,
+      "event_family": null,
+      "first_touch": null,
+      "last_touch": null,
+      "opp_id": null,
+      "sfdc_link": null
     }
   ],
   "unmatched_companies": [
@@ -3147,20 +3300,6 @@
       ]
     },
     {
-      "company": "Cognichip",
-      "attendee_count": 2,
-      "attendees": [
-        {
-          "name": "Stelios Diamantidis",
-          "title": "Chief Product Officer"
-        },
-        {
-          "name": "Simon Sabato",
-          "title": "Co-Founder & Chief Architect"
-        }
-      ]
-    },
-    {
       "company": "EE Times",
       "attendee_count": 2,
       "attendees": [
@@ -3171,20 +3310,6 @@
         {
           "name": "Sally Ward-Foxton",
           "title": "Senior Reporter"
-        }
-      ]
-    },
-    {
-      "company": "Coder",
-      "attendee_count": 2,
-      "attendees": [
-        {
-          "name": "Nicky Pike",
-          "title": "Americas Field CTO"
-        },
-        {
-          "name": "David Fraley",
-          "title": "Product Manager"
         }
       ]
     },
@@ -3403,16 +3528,6 @@
       ]
     },
     {
-      "company": "Adaption",
-      "attendee_count": 1,
-      "attendees": [
-        {
-          "name": "Sudip Roy",
-          "title": "Co-Founder & CTO"
-        }
-      ]
-    },
-    {
       "company": "Grainger",
       "attendee_count": 1,
       "attendees": [
@@ -3469,16 +3584,6 @@
         {
           "name": "Scott Sellers",
           "title": "President, CEO & Co-Founder"
-        }
-      ]
-    },
-    {
-      "company": "Fiddler AI",
-      "attendee_count": 1,
-      "attendees": [
-        {
-          "name": "Krishna Gade",
-          "title": "Founder & CEO"
         }
       ]
     },
@@ -4199,16 +4304,6 @@
         {
           "name": "In Dong Kim",
           "title": "Vice President, DRAM Product Planning and Business Enabling"
-        }
-      ]
-    },
-    {
-      "company": "FarmGPU",
-      "attendee_count": 1,
-      "attendees": [
-        {
-          "name": "Jonmichael (JM) Hands",
-          "title": "CEO"
         }
       ]
     },
