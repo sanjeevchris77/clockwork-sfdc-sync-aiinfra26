@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-17T15:44:18.817539+00:00",
+  "generated_at": "2026-09-17T20:37:58.356875+00:00",
   "methodology": "A Company is a Marketing Qualified Account (MQA) once at least one associated Contact has reached HubSpot lifecyclestage 'Marketing Qualified Lead' or later (Sales Accepted Lead, SQL, Opportunity, Customer) -- this portal has no native numeric lead-scoring field, so the lifecycle-stage funnel IS the scoring methodology. Matched to Salesforce Accounts by domain (Company.domain <-> Account.Website), the same technique used elsewhere in this pipeline -- accounts with no Website or no domain match show as 'Not Matched to Salesforce'. 'best_contact' fields identify the single contact whose stage drove the MQA status (highest stage, ties broken by most recently qualified). 'qualified_since' is when that contact entered its current stage; 'last_activity_date' is the most recent logged activity of any kind on that contact. Note: a live check of this portal found ~98% of MQL+ contacts have no tracked marketing engagement (no form conversions, hs_analytics_source = OFFLINE) -- qualification here comes predominantly from bulk CRM sync/import criteria, not organic funnel activity, so these two fields are the closest reliable 'is anyone engaging with this account' signal available, not a marketing-attribution trail.",
   "summary": {
-    "companies_with_contacts": 2218,
-    "mqa_count": 1336,
+    "companies_with_contacts": 2219,
+    "mqa_count": 1337,
     "sfdc_matched_count": 1833,
     "sfdc_matched_mqa_count": 1219,
     "tier_breakdown": {
       "Tier 1": 358,
       "Tier 2": 364,
       "Tier 3": 353,
-      "Not Matched to Salesforce": 117,
+      "Not Matched to Salesforce": 118,
       "Tier 4": 144
     }
   },
@@ -29983,6 +29983,29 @@
       "sfdc_tier": "Tier 4",
       "sfdc_owner": "Chris Bowen",
       "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000olhKvYAI/view"
+    },
+    {
+      "hubspot_company_id": "347223202493",
+      "name": "Testing Company",
+      "domain": null,
+      "industry": null,
+      "hubspot_abm_tier": null,
+      "hubspot_icp_account": null,
+      "hubspot_target_account": null,
+      "contact_count": 2,
+      "highest_lifecyclestage": "Sales Accepted Lead",
+      "mql_plus_contact_count": 2,
+      "is_mqa": true,
+      "best_contact_name": "First Name Test Last Name Test",
+      "best_contact_title": "Ai Engineer Test",
+      "best_contact_email": "work.email@test.com",
+      "qualified_since": null,
+      "last_activity_date": null,
+      "sfdc_matched": false,
+      "sfdc_account_id": null,
+      "sfdc_tier": null,
+      "sfdc_owner": null,
+      "account_sfdc_link": null
     },
     {
       "hubspot_company_id": "178631594709",

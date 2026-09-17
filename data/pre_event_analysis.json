@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-17T15:43:16.770679+00:00",
+  "generated_at": "2026-09-17T20:36:56.805295+00:00",
   "summary": {
     "attending_accounts": 103,
     "unmatched_companies": 106,
     "accounts_with_open_opportunity": 12,
-    "open_pipeline_total": 2291451.0,
+    "open_pipeline_total": 1975000.0,
     "opportunities_tied_to_named_campaign": 3,
     "tier_breakdown": {
       "Tier 2": {
@@ -15,7 +15,7 @@
       "Tier 1": {
         "accounts": 44,
         "accounts_with_opp": 9,
-        "open_pipeline": 1941451.0
+        "open_pipeline": 1625000.0
       },
       "Tier 3": {
         "accounts": 17,
@@ -31,7 +31,7 @@
     "source_attribution": {
       "Sales": {
         "opportunities": 10,
-        "pipeline": 1716451.0
+        "pipeline": 1400000.0
       },
       "Event": {
         "opportunities": 2,
@@ -44,35 +44,6 @@
     }
   },
   "accounts": [
-    {
-      "tier": "Tier 1",
-      "company": "Core42",
-      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000FdZ23YAF/view",
-      "owner": "Sean Coughlin",
-      "gpu_segment": "Neocloud",
-      "industry": "Real Estate",
-      "target_account": false,
-      "icp_account": "High",
-      "attendee_count": 1,
-      "attendees": [
-        {
-          "name": "Alex Trafton",
-          "title": "SVP & CISO"
-        }
-      ],
-      "has_open_opportunity": true,
-      "stage": "03 - Technical Validation",
-      "amount": 466451.0,
-      "best_contact": "Edmondo Orlotti",
-      "best_contact_title": "Chief Growth Officer",
-      "best_contact_email": "edmondo.orlotti@core42.ai",
-      "primary_campaign": "Booth Visitors | Post-Conf | RAISE 2025",
-      "event_family": "RAISE 2025 (Conference)",
-      "first_touch": "2025-07-18T20:59:59.000+0000",
-      "last_touch": "2026-09-08",
-      "opp_id": "006TV00000MB5MIYA1",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000MB5MIYA1/view"
-    },
     {
       "tier": "Tier 1",
       "company": "Microsoft",
@@ -278,6 +249,35 @@
       "last_touch": "2026-03-16",
       "opp_id": "006TV00000SUtzpYAD",
       "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SUtzpYAD/view"
+    },
+    {
+      "tier": "Tier 1",
+      "company": "Core42",
+      "account_sfdc_link": "https://clockworksystems.lightning.force.com/lightning/r/Account/001TV00000FdZ23YAF/view",
+      "owner": "Sean Coughlin",
+      "gpu_segment": "Neocloud",
+      "industry": "Real Estate",
+      "target_account": false,
+      "icp_account": "High",
+      "attendee_count": 1,
+      "attendees": [
+        {
+          "name": "Alex Trafton",
+          "title": "SVP & CISO"
+        }
+      ],
+      "has_open_opportunity": true,
+      "stage": "01 - Qualified",
+      "amount": 150000.0,
+      "best_contact": "Edmondo Orlotti",
+      "best_contact_title": "Chief Growth Officer",
+      "best_contact_email": "edmondo.orlotti@core42.ai",
+      "primary_campaign": "Booth Visitors | Post-Conf | RAISE 2025",
+      "event_family": "RAISE 2025 (Conference)",
+      "first_touch": "2025-07-18T20:59:59.000+0000",
+      "last_touch": "2026-09-08",
+      "opp_id": "006TV00000MB5MIYA1",
+      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000MB5MIYA1/view"
     },
     {
       "tier": "Tier 1",
@@ -4380,20 +4380,6 @@
   ],
   "opportunities": [
     {
-      "account": "Core42",
-      "tier": "Tier 1",
-      "owner": "Sean Coughlin",
-      "opportunity_name": "Core42 | New Business | 2025-07-18",
-      "stage": "03 - Technical Validation",
-      "amount": 466451.0,
-      "close_date": "2026-09-29",
-      "lead_source": "Sales",
-      "primary_campaign_raw": "Booth Visitors | Post-Conf | RAISE 2025",
-      "event_family": "RAISE 2025 (Conference)",
-      "opp_id": "006TV00000MB5MIYA1",
-      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000MB5MIYA1/view"
-    },
-    {
       "account": "Microsoft",
       "tier": "Tier 1",
       "owner": "Greg Mark",
@@ -4518,6 +4504,20 @@
       "event_family": null,
       "opp_id": "006TV00000ZROq6YAH",
       "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000ZROq6YAH/view"
+    },
+    {
+      "account": "Core42",
+      "tier": "Tier 1",
+      "owner": "Sean Coughlin",
+      "opportunity_name": "Core42 | New Business | 2025-07-18",
+      "stage": "01 - Qualified",
+      "amount": 150000.0,
+      "close_date": "2026-09-29",
+      "lead_source": "Sales",
+      "primary_campaign_raw": "Booth Visitors | Post-Conf | RAISE 2025",
+      "event_family": "RAISE 2025 (Conference)",
+      "opp_id": "006TV00000MB5MIYA1",
+      "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000MB5MIYA1/view"
     },
     {
       "account": "Dell Technologies",
