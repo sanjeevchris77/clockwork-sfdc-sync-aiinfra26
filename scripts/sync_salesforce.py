@@ -295,11 +295,11 @@ def pull_campaign_leads(instance_url, token, campaign_ids):
     comparison campaign."""
     id_list = ",".join(f"'{c}'" for c in campaign_ids)
     cm_query = f"""
-        SELECT CampaignId, Campaign.Name, Status, LeadId,
+        SELECT CampaignId, Campaign.Name, Status, LeadId, CreatedDate,
                Lead.OwnerId, Lead.Owner.Name, Lead.Company, Lead.Website,
                Lead.FirstName, Lead.LastName, Lead.Title, Lead.Email,
                Lead.MobilePhone, Lead.LeadSource, Lead.Status,
-               Lead.Lead_Notes__c, Lead.LinkedIn__c
+               Lead.Lead_Notes__c, Lead.LinkedIn__c, Lead.LastActivityDate
         FROM CampaignMember
         WHERE CampaignId IN ({id_list}) AND LeadId != null
     """
@@ -327,6 +327,8 @@ def pull_campaign_leads(instance_url, token, campaign_ids):
             "lead_source": lead.get("LeadSource"),
             "notes": notes,
             "lifecycle_stage": classify_lifecycle(status, notes),
+            "created_date": m.get("CreatedDate"),
+            "last_activity_date": lead.get("LastActivityDate"),
             "sfdc_link": f"{instance_url}/lightning/r/Lead/{m.get('LeadId')}/view",
         })
     return out
@@ -659,16 +661,22 @@ def main():
     # here, joined back onto the booth-scan domains the same way everything
     # else is: by website domain).
     account_query = f"""
-        SELECT Id, Name, Website, {ABM_TIER_FIELD}
+        SELECT Id, Name, Website, {ABM_TIER_FIELD}, Industry, GPU_Segment__c
         FROM Account
         WHERE Website != null
     """
     all_accounts = soql(instance_url, token, account_query)
     domain_to_tier = {}
+    domain_to_account = {}
     for a in all_accounts:
         d = domain_of(a.get("Website"))
-        if d and a.get(ABM_TIER_FIELD):
+        if not d:
+            continue
+        if a.get(ABM_TIER_FIELD):
             domain_to_tier[d] = a.get(ABM_TIER_FIELD)
+        # First Account seen for a domain wins on a collision, same
+        # convention as accounts_by_norm in build_pre_event_analysis().
+        domain_to_account.setdefault(d, a)
 
     # --- Contacts: any Contact already sitting on one of these Accounts is a
     # strong "someone here is already a known relationship" signal, regardless
@@ -772,15 +780,36 @@ def main():
             pipeline_amount = DEFAULT_OPP_AMOUNT
             pipeline_basis = "estimated"
 
+        account = None if d.startswith("__no_domain__:") else domain_to_account.get(d)
+        campaigns = sorted({g.get("campaign") for g in group if g.get("campaign")})
+        created_dates = sorted(g.get("created_date") for g in group if g.get("created_date"))
+        last_activity_dates = sorted(g.get("last_activity_date") for g in group if g.get("last_activity_date"))
+        fallback_owner = next((g.get("owner") for g in group if g.get("owner")), None)
+
         account_summary.append({
             "domain": None if d.startswith("__no_domain__:") else d,
             "company": sorted(companies)[0] if companies else group[0].get("company"),
             "booth_scan_lead_count": len(group),
+            "owner": (open_opps[0]["owner"] if open_opps else fallback_owner),
+            "gpu_segment": account.get("GPU_Segment__c") if account else None,
+            "industry": account.get("Industry") if account else None,
+            "account_sfdc_link": (f"{instance_url}/lightning/r/Account/{account['Id']}/view"
+                                   if account else None),
+            "campaigns": campaigns,
+            # "First touch" is this domain's earliest CampaignMember add;
+            # "last touch" prefers the most recent Lead activity, falling
+            # back to the latest CampaignMember add when no Lead activity is
+            # recorded yet.
+            "first_touch": created_dates[0] if created_dates else None,
+            "last_touch": (last_activity_dates[-1] if last_activity_dates
+                            else (created_dates[-1] if created_dates else None)),
             "personas": [
                 {"name": f"{g.get('first_name') or ''} {g.get('last_name') or ''}".strip(),
                  "title": g.get("title"),
                  "lifecycle_stage": g.get("lifecycle_stage"),
-                 "owner": g.get("owner")}
+                 "owner": g.get("owner"),
+                 "lead_id": g.get("lead_id"),
+                 "sfdc_link": g.get("sfdc_link")}
                 for g in group
             ],
             "lifecycle_stage_counts": stage_counts,
