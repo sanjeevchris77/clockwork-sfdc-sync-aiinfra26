@@ -11,8 +11,8 @@
     "T!T": {
       "aggregates": [
         {
-          "label": "11",
-          "value": 11
+          "label": "14",
+          "value": 14
         }
       ],
       "rows": [
@@ -165,9 +165,9 @@
               "value": "005TV000005KfVZYA0"
             },
             {
-              "escapedLabel": "Marketing Engaged Lead",
-              "label": "Marketing Engaged Lead",
-              "value": "Marketing Engaged Lead"
+              "escapedLabel": "Sales Accepted Lead",
+              "label": "Sales Accepted Lead",
+              "value": "Sales Accepted Lead"
             },
             {
               "label": "Kartik",
@@ -251,9 +251,9 @@
               "value": "Low"
             },
             {
-              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "label": "[AIInfra26] Meetings | 09-17-2026",
               "recordId": "00QTV00000bnjOV2AY",
-              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+              "value": "[AIInfra26] Meetings | 09-17-2026"
             },
             {
               "label": "AI Infra Summit 2026",
@@ -411,9 +411,9 @@
               "value": "005TV000005KfVZYA0"
             },
             {
-              "escapedLabel": "Marketing Engaged Lead",
-              "label": "Marketing Engaged Lead",
-              "value": "Marketing Engaged Lead"
+              "escapedLabel": "Sales Accepted Lead",
+              "label": "Sales Accepted Lead",
+              "value": "Sales Accepted Lead"
             },
             {
               "label": "Louis",
@@ -497,9 +497,9 @@
               "value": "Low"
             },
             {
-              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "label": "[AIInfra26] Meetings | 09-17-2026",
               "recordId": "00QTV00000bnjTK2AY",
-              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+              "value": "[AIInfra26] Meetings | 09-17-2026"
             },
             {
               "label": "AI Infra Summit 2026",
@@ -657,9 +657,9 @@
               "value": "005TV000005KfVZYA0"
             },
             {
-              "escapedLabel": "Marketing Engaged Lead",
-              "label": "Marketing Engaged Lead",
-              "value": "Marketing Engaged Lead"
+              "escapedLabel": "Sales Accepted Lead",
+              "label": "Sales Accepted Lead",
+              "value": "Sales Accepted Lead"
             },
             {
               "label": "Shean",
@@ -743,9 +743,9 @@
               "value": "Low"
             },
             {
-              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "label": "[AIInfra26] Meetings | 09-17-2026",
               "recordId": "00QTV00000bnjTy2AI",
-              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+              "value": "[AIInfra26] Meetings | 09-17-2026"
             },
             {
               "label": "AI Infra Summit 2026",
@@ -1365,6 +1365,375 @@
             {
               "label": "AI Infra Summit 2026",
               "recordId": "00QTV00000bohjY2AQ",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Moreh",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "00QTV00000bqTQQ2A2"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Jimin",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "00QTV00000bqTQQ2A2"
+            },
+            {
+              "label": "Park",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "00QTV00000bqTQQ2A2"
+            },
+            {
+              "label": "Software Engineer",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "Software Engineer"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned Prashanth Thinakaran, Connected with Prashanth Thinakaran, Viewed Prashanth Thinakaran",
+              "label": "Contact Qualifications: Scanned Prashanth Thinakaran, Connected with Prashanth Thinakaran, Viewed Prashanth Thinakaran",
+              "value": "Contact Qualifications: Scanned Prashanth Thinakaran, Connected with Prashanth Thinakaran, Viewed Prashanth Thinakaran"
+            },
+            {
+              "label": "jimin.park@moreh.io",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "jimin.park@moreh.io"
+            },
+            {
+              "label": "821030772191",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "821030772191"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjimin-park-732966b2%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/jimin-park-732966b2 (New Window)\">https://www.linkedin.com/in/jimin-park-732966b2</a>",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "https://www.linkedin.com/in/jimin-park-732966b2"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Practitioner",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "Practitioner"
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqTQQ2A2",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "SAP",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "00QTV00000bqWMg2AM"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Siddharta",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "00QTV00000bqWMg2AM"
+            },
+            {
+              "label": "Bhattacharjee",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "00QTV00000bqWMg2AM"
+            },
+            {
+              "label": "Engineering",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "Engineering"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng, Joined session session:319308-Preserving Progress and Goodput: Workload-Aware Fault Tolerance for Distributed Training",
+              "label": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng, Joined session session:319308-Preserving Progress and Goodput: Workload-Aware Fault Tolerance for Distributed Training",
+              "value": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng, Joined session session:319308-Preserving Progress and Goodput: Workload-Aware Fault Tolerance for Distributed Training"
+            },
+            {
+              "label": "s.bhattacharjee@sap.com",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "s.bhattacharjee@sap.com"
+            },
+            {
+              "label": "16502006078",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "16502006078"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsiddbhattacharjee%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/siddbhattacharjee (New Window)\">https://www.linkedin.com/in/siddbhattacharjee</a>",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "https://www.linkedin.com/in/siddbhattacharjee"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Practitioner",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "Practitioner"
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "High",
+              "label": "High",
+              "value": "High"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqWMg2AM",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Bosch Research",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "00QTV00000bqWMz2AM"
+            },
+            {
+              "label": "Joe Tarantino",
+              "value": "005TV000005KfVZYA0"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Christian",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "00QTV00000bqWMz2AM"
+            },
+            {
+              "label": "Peters",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "00QTV00000bqWMz2AM"
+            },
+            {
+              "label": "Director, Global Head of Smart Sensors & Hardware Systems",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "Director, Global Head of Smart Sensors & Hardware Systems"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng",
+              "label": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng",
+              "value": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng"
+            },
+            {
+              "label": "christian.peters2@de.bosch.com",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "christian.peters2@de.bosch.com"
+            },
+            {
+              "label": "16503845875",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "16503845875"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdr-peters%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/dr-peters (New Window)\">https://www.linkedin.com/in/dr-peters</a>",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "https://www.linkedin.com/in/dr-peters"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Technical Executive",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "Technical Executive"
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqWMz2AM",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqWMz2AM",
               "value": "AI Infra Summit 2026"
             }
           ]

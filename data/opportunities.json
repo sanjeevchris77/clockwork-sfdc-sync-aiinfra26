@@ -180,6 +180,28 @@
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CRnybYAD/view"
   },
   {
+    "opp_id": "006TV00000CyuBjYAJ",
+    "owner": "Sean Coughlin",
+    "account": "Fiserv",
+    "account_website": "www.fiserv.com",
+    "domain": "fiserv.com",
+    "amount": 300000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Event",
+    "created_date": "2024-12-06T18:48:59.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Michael Wynston",
+        "title": "SR. DIRECTOR NETWORK AND SECURITY ARCHIT",
+        "email": "michael.wynston@fiserv.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CyuBjYAJ/view"
+  },
+  {
     "opp_id": "006TV00000D6H58YAF",
     "owner": "Greg Mark",
     "account": "Tesla",
@@ -389,6 +411,28 @@
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000G22m5YAB/view"
   },
   {
+    "opp_id": "006TV00000HPWHRYA5",
+    "owner": "Sean Coughlin",
+    "account": "Keysight Technologies, Inc.",
+    "account_website": "www.keysight.com",
+    "domain": "keysight.com",
+    "amount": 750000.0,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Sales",
+    "created_date": "2025-03-21T18:25:36.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Alex Bortok",
+        "title": "Hyperscale Infrastructure Lead Product Manager (Ixia)",
+        "email": "bortok@ixiacom.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000HPWHRYA5/view"
+  },
+  {
     "opp_id": "006TV00000OahgYYAR",
     "owner": "Greg Mark",
     "account": "Meta",
@@ -409,6 +453,28 @@
       }
     ],
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OahgYYAR/view"
+  },
+  {
+    "opp_id": "006TV00000OdWjnYAF",
+    "owner": "Greg Mark",
+    "account": "Lambda Labs",
+    "account_website": "http://lambda.ai",
+    "domain": "lambda.ai",
+    "amount": 200000.0,
+    "stage": "01 - Qualified",
+    "is_open": true,
+    "lead_source": "Sales",
+    "created_date": "2025-09-16T17:53:57.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [
+      {
+        "name": "Maxx Garrison",
+        "title": "Director of Product Management",
+        "email": "maxx@lambdalabs.com"
+      }
+    ],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OdWjnYAF/view"
   },
   {
     "opp_id": "006TV00000OtKGRYA3",
@@ -507,6 +573,22 @@
     "campaign": null,
     "contacts": [],
     "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SEKy2YAH/view"
+  },
+  {
+    "opp_id": "006TV00000SESQvYAP",
+    "owner": "Greg Mark",
+    "account": "Synopsys",
+    "account_website": "www.synopsys.com",
+    "domain": "synopsys.com",
+    "amount": 200000,
+    "stage": "Closed Lost",
+    "is_open": false,
+    "lead_source": "Event",
+    "created_date": "2025-12-01T17:48:10.000+0000",
+    "origin": "Existing",
+    "campaign": null,
+    "contacts": [],
+    "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SESQvYAP/view"
   },
   {
     "opp_id": "006TV00000SEYUlYAP",

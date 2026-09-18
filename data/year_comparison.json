@@ -16,25 +16,26 @@
       "701TV00000tqT6JYAU",
       "701TV00000tqTXjYAM"
     ],
-    "lead_count": 286,
-    "opportunity_count": 71,
+    "lead_count": 368,
+    "opportunity_count": 76,
     "lifecycle_stage_counts": {
       "Remarket": 1,
       "In Progress (SAL)": 2,
-      "Marketing Engaged Lead": 236,
+      "Marketing Engaged Lead": 306,
       "In Progress (MEL)": 3,
-      "Marketing Qualified Lead": 44
+      "Marketing Qualified Lead": 55,
+      "Unqualified": 1
     },
     "opp_stage_counts": {
       "Closed Won": 5,
-      "Closed Lost": 45,
+      "Closed Lost": 49,
       "00 - Prospecting": 7,
       "03 - Technical Validation": 7,
       "02 - Pilot Kick Off": 1,
-      "01 - Qualified": 6
+      "01 - Qualified": 7
     },
-    "pipegen_potential": 14200000,
-    "real_opportunity_amount_total": 18300000.0,
+    "pipegen_potential": 15200000,
+    "real_opportunity_amount_total": 19800000.0,
     "opportunities": [
       {
         "opp_id": "006Kb00000JlkRgIAJ",
@@ -575,6 +576,22 @@
         "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CXf5aYAD/view"
       },
       {
+        "opp_id": "006TV00000CyuBjYAJ",
+        "owner": "Sean Coughlin",
+        "account": "Fiserv",
+        "domain": "fiserv.com",
+        "amount": 300000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Michael Wynston",
+            "title": "SR. DIRECTOR NETWORK AND SECURITY ARCHIT",
+            "email": "michael.wynston@fiserv.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000CyuBjYAJ/view"
+      },
+      {
         "opp_id": "006TV00000D6AreYAF",
         "owner": "Dan Zheng",
         "account": "Meta",
@@ -583,6 +600,22 @@
         "stage": "03 - Technical Validation",
         "contacts": [],
         "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6AreYAF/view"
+      },
+      {
+        "opp_id": "006TV00000D6CyHYAV",
+        "owner": "Dan Zheng",
+        "account": "Lambda Labs",
+        "domain": "lambda.ai",
+        "amount": 250000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Stephen Balaban",
+            "title": "Co-Founder & Chief Executive Officer",
+            "email": "stephen@lambdalabs.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000D6CyHYAV/view"
       },
       {
         "opp_id": "006TV00000D6H58YAF",
@@ -839,6 +872,22 @@
         "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000G22m5YAB/view"
       },
       {
+        "opp_id": "006TV00000HPWHRYA5",
+        "owner": "Sean Coughlin",
+        "account": "Keysight Technologies, Inc.",
+        "domain": "keysight.com",
+        "amount": 750000.0,
+        "stage": "Closed Lost",
+        "contacts": [
+          {
+            "name": "Alex Bortok",
+            "title": "Hyperscale Infrastructure Lead Product Manager (Ixia)",
+            "email": "bortok@ixiacom.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000HPWHRYA5/view"
+      },
+      {
         "opp_id": "006TV00000ISyIFYA1",
         "owner": "Dan Zheng",
         "account": "AMD",
@@ -924,6 +973,22 @@
           }
         ],
         "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OahgYYAR/view"
+      },
+      {
+        "opp_id": "006TV00000OdWjnYAF",
+        "owner": "Greg Mark",
+        "account": "Lambda Labs",
+        "domain": "lambda.ai",
+        "amount": 200000.0,
+        "stage": "01 - Qualified",
+        "contacts": [
+          {
+            "name": "Maxx Garrison",
+            "title": "Director of Product Management",
+            "email": "maxx@lambdalabs.com"
+          }
+        ],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000OdWjnYAF/view"
       },
       {
         "opp_id": "006TV00000OtKGRYA3",
@@ -1134,6 +1199,16 @@
         "stage": "Closed Lost",
         "contacts": [],
         "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SEKy2YAH/view"
+      },
+      {
+        "opp_id": "006TV00000SESQvYAP",
+        "owner": "Greg Mark",
+        "account": "Synopsys",
+        "domain": "synopsys.com",
+        "amount": null,
+        "stage": "Closed Lost",
+        "contacts": [],
+        "sfdc_link": "https://clockworksystems.my.salesforce.com/lightning/r/Opportunity/006TV00000SESQvYAP/view"
       },
       {
         "opp_id": "006TV00000SEYUlYAP",

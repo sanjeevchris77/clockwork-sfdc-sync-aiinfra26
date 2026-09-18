@@ -11,8 +11,8 @@
     "T!T": {
       "aggregates": [
         {
-          "label": "41",
-          "value": 41
+          "label": "48",
+          "value": 48
         }
       ],
       "rows": [
@@ -903,9 +903,9 @@
               "value": "005TV000007R74bYAC"
             },
             {
-              "escapedLabel": "Marketing Engaged Lead",
-              "label": "Marketing Engaged Lead",
-              "value": "Marketing Engaged Lead"
+              "escapedLabel": "Sales Accepted Lead",
+              "label": "Sales Accepted Lead",
+              "value": "Sales Accepted Lead"
             },
             {
               "label": "Amin",
@@ -989,9 +989,9 @@
               "value": "Low"
             },
             {
-              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "label": "[AIInfra26] Meetings | 09-17-2026",
               "recordId": "00QTV00000bnjTQ2AY",
-              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+              "value": "[AIInfra26] Meetings | 09-17-2026"
             },
             {
               "label": "AI Infra Summit 2026",
@@ -1149,9 +1149,9 @@
               "value": "005TV000007R74bYAC"
             },
             {
-              "escapedLabel": "Marketing Engaged Lead",
-              "label": "Marketing Engaged Lead",
-              "value": "Marketing Engaged Lead"
+              "escapedLabel": "Sales Accepted Lead",
+              "label": "Sales Accepted Lead",
+              "value": "Sales Accepted Lead"
             },
             {
               "label": "Suzi",
@@ -1235,9 +1235,9 @@
               "value": "Low"
             },
             {
-              "label": "[AIInfra26] Booth Scans | 09-15-2026",
+              "label": "[AIInfra26] Meetings | 09-17-2026",
               "recordId": "00QTV00000bnjTn2AI",
-              "value": "[AIInfra26] Booth Scans | 09-15-2026"
+              "value": "[AIInfra26] Meetings | 09-17-2026"
             },
             {
               "label": "AI Infra Summit 2026",
@@ -5055,6 +5055,867 @@
             {
               "label": "AI Infra Summit 2026",
               "recordId": "00QTV00000bohkH2AQ",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "DataDex AI",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "00QTV00000bqTQY2A2"
+            },
+            {
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Narasimha",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "00QTV00000bqTQY2A2"
+            },
+            {
+              "label": "Betini",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "00QTV00000bqTQY2A2"
+            },
+            {
+              "label": "CTO",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "CTO"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng",
+              "label": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng",
+              "value": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng"
+            },
+            {
+              "label": "narasimha@datadexai.com",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "narasimha@datadexai.com"
+            },
+            {
+              "label": "14082429896",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "14082429896"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnarasimha-betini%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/narasimha-betini (New Window)\">https://www.linkedin.com/in/narasimha-betini</a>",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "https://www.linkedin.com/in/narasimha-betini"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Technical Executive",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "Technical Executive"
+            },
+            {
+              "escapedLabel": "Enterprise; Partner ISV; ",
+              "label": "Enterprise; Partner ISV; ",
+              "value": "Enterprise; Partner ISV; "
+            },
+            {
+              "escapedLabel": "CXO",
+              "label": "CXO",
+              "value": "CXO"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqTQY2A2",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Bharti Airtel USA Ltd",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "00QTV00000bqTQd2AM"
+            },
+            {
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "mohit",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "00QTV00000bqTQd2AM"
+            },
+            {
+              "label": "shankhdhar",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "00QTV00000bqTQd2AM"
+            },
+            {
+              "label": "Global Channel Sales Director",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "Global Channel Sales Director"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy",
+              "label": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy",
+              "value": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy"
+            },
+            {
+              "label": "mohit.shankhdhar@airtel.com",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "mohit.shankhdhar@airtel.com"
+            },
+            {
+              "label": "919768299770",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "919768299770"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohit-shankhdhar-41b61918%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/mohit-shankhdhar-41b61918 (New Window)\">https://www.linkedin.com/in/mohit-shankhdhar-41b61918</a>",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "https://www.linkedin.com/in/mohit-shankhdhar-41b61918"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Business Executive",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "Business Executive"
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqTQd2AM",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Cornelis Networks",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "00QTV00000bqTQf2AM"
+            },
+            {
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Bhanu",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "00QTV00000bqTQf2AM"
+            },
+            {
+              "label": "Vemula",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "00QTV00000bqTQf2AM"
+            },
+            {
+              "label": "Head of Product Management",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "Head of Product Management"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng",
+              "label": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng",
+              "value": "Contact Qualifications: Scanned by Dan Zheng, Connected with Dan Zheng"
+            },
+            {
+              "label": "bvemula@cornelisnetworks.com",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "bvemula@cornelisnetworks.com"
+            },
+            {
+              "label": "13167271575",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "13167271575"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvemulabhanu%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/vemulabhanu (New Window)\">https://www.linkedin.com/in/vemulabhanu</a>",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "https://www.linkedin.com/in/vemulabhanu"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Business Executive",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "Business Executive"
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqTQf2AM",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Vortx",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "00QTV00000bqTQn2AM"
+            },
+            {
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Shea",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "00QTV00000bqTQn2AM"
+            },
+            {
+              "label": "Hughes",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "00QTV00000bqTQn2AM"
+            },
+            {
+              "label": "COO and Co-Founder",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "COO and Co-Founder"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Marcello Golfieri, Connected with Marcello Golfieri",
+              "label": "Contact Qualifications: Scanned by Marcello Golfieri, Connected with Marcello Golfieri",
+              "value": "Contact Qualifications: Scanned by Marcello Golfieri, Connected with Marcello Golfieri"
+            },
+            {
+              "label": "shea@vortx.us",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "shea@vortx.us"
+            },
+            {
+              "label": "18134345672",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "18134345672"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshea-hughes-b9062560%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/shea-hughes-b9062560 (New Window)\">https://www.linkedin.com/in/shea-hughes-b9062560</a>",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "https://www.linkedin.com/in/shea-hughes-b9062560"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Business Executive",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "Business Executive"
+            },
+            {
+              "escapedLabel": "Neo Cloud; ",
+              "label": "Neo Cloud; ",
+              "value": "Neo Cloud; "
+            },
+            {
+              "escapedLabel": "CXO",
+              "label": "CXO",
+              "value": "CXO"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqTQn2AM",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "XPerf Inc",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "00QTV00000bqTQp2AM"
+            },
+            {
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Jacky",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "00QTV00000bqTQp2AM"
+            },
+            {
+              "label": "Xu",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "00QTV00000bqTQp2AM"
+            },
+            {
+              "label": "Manager",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "Manager"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy",
+              "label": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy",
+              "value": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy"
+            },
+            {
+              "label": "jacky.xu@xperf.ai",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "jacky.xu@xperf.ai"
+            },
+            {
+              "label": "19177050027",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "19177050027"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjackyzxu%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/jackyzxu (New Window)\">https://www.linkedin.com/in/jackyzxu</a>",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "https://www.linkedin.com/in/jackyzxu"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Other / Unknown",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqTQp2AM",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "FISERV, INC",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "00QTV00000bqWMh2AM"
+            },
+            {
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Kumar",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "00QTV00000bqWMh2AM"
+            },
+            {
+              "label": "Saurabh",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "00QTV00000bqWMh2AM"
+            },
+            {
+              "label": "Director, Infrastructure Program Management",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "Director, Infrastructure Program Management"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Kim DeRose, Connected with Kim DeRose",
+              "label": "Contact Qualifications: Scanned by Kim DeRose, Connected with Kim DeRose",
+              "value": "Contact Qualifications: Scanned by Kim DeRose, Connected with Kim DeRose"
+            },
+            {
+              "label": "kumar.saurabh@fiserv.com",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "kumar.saurabh@fiserv.com"
+            },
+            {
+              "label": "14082042480",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "14082042480"
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": ""
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaurabh777%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/saurabh777 (New Window)\">https://www.linkedin.com/in/saurabh777</a>",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "https://www.linkedin.com/in/saurabh777"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Infrastructure",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "Infrastructure"
+            },
+            {
+              "escapedLabel": "Enterprise; ",
+              "label": "Enterprise; ",
+              "value": "Enterprise; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqWMh2AM",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "NPC Labs",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": "00QTV00000bqWN72AM"
+            },
+            {
+              "label": "Chris Bowen",
+              "value": "005TV000007R74bYAC"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Matthew",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": "00QTV00000bqWN72AM"
+            },
+            {
+              "label": "Huffman",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": "00QTV00000bqWN72AM"
+            },
+            {
+              "label": "Head of Fleet",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": "Head of Fleet"
+            },
+            {
+              "escapedLabel": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy",
+              "label": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy",
+              "value": "Contact Qualifications: Scanned by Konstantin Litovskiy, Connected with Konstantin Litovskiy"
+            },
+            {
+              "label": "matt@andromedainsights.com",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": "matt@andromedainsights.com"
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": null
+            },
+            {
+              "escapedLabel": "",
+              "label": "",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": ""
+            },
+            {
+              "label": "-",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": null
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "Technical Influencer",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": "Technical Influencer"
+            },
+            {
+              "escapedLabel": "Partner ISV; ",
+              "label": "Partner ISV; ",
+              "value": "Partner ISV; "
+            },
+            {
+              "escapedLabel": "Other / Unknown",
+              "label": "Other / Unknown",
+              "value": "Other / Unknown"
+            },
+            {
+              "escapedLabel": "Low",
+              "label": "Low",
+              "value": "Low"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "00QTV00000bqWN72AM",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "00QTV00000bqWN72AM",
               "value": "AI Infra Summit 2026"
             }
           ]

@@ -11,19 +11,19 @@
     "Chris Bowen"
   ],
   "default_opp_amount": 200000,
-  "lead_count": 286,
-  "opp_count": 29,
-  "distinct_companies": 202,
-  "companies_already_engaged": 92,
-  "companies_net_new": 110,
-  "potential_pipeline_real_open_opportunity_total": 6375000.0,
-  "potential_pipeline_estimated_total": 36800000,
-  "potential_pipeline_total": 43175000.0,
+  "lead_count": 368,
+  "opp_count": 33,
+  "distinct_companies": 256,
+  "companies_already_engaged": 107,
+  "companies_net_new": 149,
+  "potential_pipeline_real_open_opportunity_total": 6575000.0,
+  "potential_pipeline_estimated_total": 47400000,
+  "potential_pipeline_total": 53975000.0,
   "abm_tier_counts": {
-    "Tier 1": 38,
-    "Tier 2": 19,
-    "Tier 3": 16,
-    "Tier 4": 16
+    "Tier 1": 42,
+    "Tier 2": 23,
+    "Tier 3": 20,
+    "Tier 4": 19
   },
-  "accounts_without_abm_tier": 113
+  "accounts_without_abm_tier": 152
 }

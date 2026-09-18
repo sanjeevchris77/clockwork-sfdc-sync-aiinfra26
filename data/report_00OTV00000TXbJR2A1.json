@@ -11,8 +11,8 @@
     "T!T": {
       "aggregates": [
         {
-          "label": "3",
-          "value": 3
+          "label": "4",
+          "value": 4
         }
       ],
       "rows": [
@@ -399,6 +399,133 @@
             {
               "label": "AI Infra Summit 2026",
               "recordId": "003TV00000dtGotYAE",
+              "value": "AI Infra Summit 2026"
+            }
+          ]
+        },
+        {
+          "dataCells": [
+            {
+              "label": "8/7/2026",
+              "value": "2026-08-07"
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "701TV00000tqTXjYAM",
+              "recordTypeId": "012TV000001hAErYAM",
+              "value": "701TV00000tqTXjYAM"
+            },
+            {
+              "label": "Visited Booth",
+              "value": "Visited Booth"
+            },
+            {
+              "label": "Oracle",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "001Kb00001GwolqIAB"
+            },
+            {
+              "label": "Greg Mark",
+              "value": "005TV000005KfVaYAK"
+            },
+            {
+              "escapedLabel": "Marketing Engaged Lead",
+              "label": "Marketing Engaged Lead",
+              "value": "Marketing Engaged Lead"
+            },
+            {
+              "label": "Open",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "Open"
+            },
+            {
+              "label": "David",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "003TV000013jh1nYAA"
+            },
+            {
+              "label": "Murray",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "003TV000013jh1nYAA"
+            },
+            {
+              "label": "Distinguished Architect",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "Distinguished Architect"
+            },
+            {
+              "escapedLabel": "-",
+              "label": "-",
+              "value": null
+            },
+            {
+              "label": "david.murray@oracle.com",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "david.murray@oracle.com"
+            },
+            {
+              "label": "61439317007",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "61439317007"
+            },
+            {
+              "label": "Customer",
+              "recordId": "001Kb00001GwolqIAB",
+              "value": "Customer"
+            },
+            {
+              "label": "<a href=\"javascript:openPopupFocus%28%27https%3A%2F%2Fwww.linkedin.com%2Fin%2Folegend20%27%2C%20%27_blank%27%2C%20620%2C%20430%2C%20%27width%3D620%2Cheight%3D430%2Cresizable%3Dyes%2Ctoolbar%3Dyes%2Cstatus%3Dyes%2Cscrollbars%3Dyes%2Cmenubar%3Dyes%2Cdirectories%3Dyes%2Clocation%3Dyes%2Cdependant%3Dno%27%2C%20false%2C%20true%29%3B\" title=\"https://www.linkedin.com/in/olegend20 (New Window)\">https://www.linkedin.com/in/olegend20</a>",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "https://www.linkedin.com/in/olegend20"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "escapedLabel": "Marketing",
+              "label": "Marketing",
+              "value": "Marketing"
+            },
+            {
+              "label": "Event",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "Event"
+            },
+            {
+              "escapedLabel": "Event",
+              "label": "Event",
+              "value": "Event"
+            },
+            {
+              "label": "-",
+              "recordId": "003TV000013jh1nYAA",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "003TV000013jh1nYAA",
+              "value": []
+            },
+            {
+              "label": "-",
+              "recordId": "003TV000013jh1nYAA",
+              "value": null
+            },
+            {
+              "label": "-",
+              "recordId": "003TV000013jh1nYAA",
+              "value": null
+            },
+            {
+              "label": "[AIInfra26] Booth Scans | 09-17-2026",
+              "recordId": "003TV000013jh1nYAA",
+              "value": "[AIInfra26] Booth Scans | 09-17-2026"
+            },
+            {
+              "label": "AI Infra Summit 2026",
+              "recordId": "003TV000013jh1nYAA",
               "value": "AI Infra Summit 2026"
             }
           ]
