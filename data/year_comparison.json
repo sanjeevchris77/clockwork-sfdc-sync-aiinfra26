@@ -20,11 +20,9 @@
     "opportunity_count": 76,
     "lifecycle_stage_counts": {
       "Remarket": 1,
-      "In Progress (SAL)": 2,
-      "Marketing Engaged Lead": 306,
-      "In Progress (MEL)": 3,
-      "Marketing Qualified Lead": 55,
-      "Unqualified": 1
+      "In Progress (SAL)": 63,
+      "In Progress (MEL)": 298,
+      "In Progress (MQL)": 6
     },
     "opp_stage_counts": {
       "Closed Won": 5,

@@ -7,12 +7,12 @@
       {
         "name": "John Stokinger",
         "title": "Founding GTM | Director of Sales & Marketing",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -33,12 +33,12 @@
       {
         "name": "Robin Moulder",
         "title": "3lbXR",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -59,12 +59,12 @@
       {
         "name": "Natalya Vilyavina",
         "title": "Chief Business Officer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -85,12 +85,12 @@
       {
         "name": "Sunil Tagare",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -111,12 +111,12 @@
       {
         "name": "William Wang",
         "title": null,
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -137,12 +137,12 @@
       {
         "name": "Jeff Kafka",
         "title": "VP Compute Sales & Partnerships",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -163,12 +163,12 @@
       {
         "name": "suvasis mukherjee",
         "title": null,
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -189,18 +189,18 @@
       {
         "name": "Jason Boenjamin",
         "title": "Commercial FAE",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "David Yeom",
         "title": "Senior Technical Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -221,12 +221,12 @@
       {
         "name": "John Alfaro",
         "title": "Cloud Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -247,37 +247,37 @@
       {
         "name": "Siva Prakash Undavalli",
         "title": "Senior Site Reliability Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Kiran Devihosur",
         "title": "Software Engineer II",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "RUTWIK BHARADWAJ",
         "title": "Site Reliability Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Harshal Jagtap",
         "title": "Senior SRE - Systems Engineering",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Charit Upadhyay",
         "title": "Senior Site Reliability Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 4,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 4,
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -304,7 +304,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 150000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -317,12 +317,12 @@
       {
         "name": "mohit shankhdhar",
         "title": "Global Channel Sales Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -343,12 +343,12 @@
       {
         "name": "Doron Hendel",
         "title": "Director of Sales",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -356,7 +356,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
@@ -369,12 +369,12 @@
       {
         "name": "Jerry Wang",
         "title": "Deputy Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -395,12 +395,12 @@
       {
         "name": "Kuan Ju(KJ) Wu",
         "title": "Client Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -421,12 +421,12 @@
       {
         "name": "Will (Zhenghao) Lin",
         "title": "business Development Associate",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -453,32 +453,31 @@
       {
         "name": "Purnima Sahoo",
         "title": "Senior Test Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Vyacheslav Lebedev",
         "title": "Senior Solutions Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Karthik Poduval",
         "title": "Principal SDE",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Kasturi Rangam",
         "title": "Sr. System Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "In Progress (SAL)": 1,
-      "Marketing Qualified Lead": 1,
-      "Marketing Engaged Lead": 3
+      "In Progress (SAL)": 2,
+      "In Progress (MEL)": 3
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -499,30 +498,30 @@
       {
         "name": "Abhi Patil",
         "title": "Product Manager, Data Center GPU",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Katie Krawczyk",
         "title": "Sales Manager, Oracle",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Shannon Hollas",
         "title": "Director, Commercial Sales, USA Central",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Gordon Parker",
         "title": "CVP Corporate Development",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 4
+      "In Progress (MEL)": 4
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -553,19 +552,19 @@
       {
         "name": "Kelly Battaglini",
         "title": "Product Marketing Manager",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Emmanuel Garcia",
         "title": "Product Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1,
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -573,7 +572,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
@@ -586,12 +585,12 @@
       {
         "name": "Arthur Rogers",
         "title": "Customer Enablement Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -612,12 +611,12 @@
       {
         "name": "Vishal Singh",
         "title": "Head of Supply Chain",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -638,12 +637,12 @@
       {
         "name": "Murali Krishna Emani",
         "title": "Computer Scientist",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -674,18 +673,18 @@
       {
         "name": "Grzegorz Latosinski",
         "title": "Engineering Manager",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Abrahem Miya"
       },
       {
         "name": "Adam Morkowski",
         "title": "Sales Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 2
+      "In Progress (SAL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -693,7 +692,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -706,12 +705,12 @@
       {
         "name": "Arun Singhal",
         "title": "Head of AI Infrastructure",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -732,12 +731,12 @@
       {
         "name": "Abinas Roy",
         "title": "Senior DB Engineer/SRE",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -764,7 +763,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -777,12 +776,12 @@
       {
         "name": "Kunal Kamdar",
         "title": "Manager, Software Engineer - AIx Data Engineering & Platform Infrastructure",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -822,12 +821,12 @@
       {
         "name": "Elodia Fragoso",
         "title": "Business Development Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -848,12 +847,12 @@
       {
         "name": "Weigang Geng",
         "title": "Platform Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -861,7 +860,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -874,12 +873,12 @@
       {
         "name": "Naveen Venkat",
         "title": "Co Founder CTO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -900,12 +899,12 @@
       {
         "name": "Tom Emmons",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -913,7 +912,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
@@ -926,18 +925,18 @@
       {
         "name": "Tracy Trac",
         "title": "Investor",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       },
       {
         "name": "Tracy Trac",
         "title": "Investor",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -958,12 +957,12 @@
       {
         "name": "DAIKI KAWANISHI",
         "title": "Outcome Solutions Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -984,12 +983,12 @@
       {
         "name": "Toby Tan",
         "title": "Senior Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1010,12 +1009,12 @@
       {
         "name": "Yogesh Patel",
         "title": "Founder & CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1036,12 +1035,12 @@
       {
         "name": "Neha Aneja",
         "title": "BDM",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1049,7 +1048,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -1062,43 +1061,43 @@
       {
         "name": "Kirti Devi",
         "title": "Sr. Mgr Tech Bus. Dev. HPC/ML",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "AWS2 AWS2",
         "title": null,
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Zach Arbon",
         "title": "Lead Solution Architect, Frontier AI Startups",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Chaitanya Nuthalapati",
         "title": "Technical Product Manager",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "ND Ngoka",
         "title": "Sr. Startup SA, GenAI",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Sai Kiran Akula",
         "title": "Hyperpod EKS",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 4,
-      "Marketing Qualified Lead": 2
+      "In Progress (MEL)": 4,
+      "In Progress (SAL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1106,7 +1105,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
@@ -1119,12 +1118,12 @@
       {
         "name": "Daryl Xu",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1145,12 +1144,12 @@
       {
         "name": "Michael Towle",
         "title": "Sr. Account Executive",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1171,12 +1170,12 @@
       {
         "name": "Suraj Babani",
         "title": "Client Solutions Executive",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1184,7 +1183,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
@@ -1197,12 +1196,12 @@
       {
         "name": "Lillian Lee",
         "title": "VP",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1223,12 +1222,12 @@
       {
         "name": "Leo Bernhardi",
         "title": "Technology Analyst",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1249,12 +1248,12 @@
       {
         "name": "Sarang Dharmapurikar",
         "title": "Chief Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1275,12 +1274,12 @@
       {
         "name": "Frank Teoh",
         "title": "Founder/VP Engineering",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1288,7 +1287,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -1301,12 +1300,12 @@
       {
         "name": "Mohit Agrawal",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1314,7 +1313,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -1327,12 +1326,12 @@
       {
         "name": "Daipayan Deb",
         "title": "Senior Software Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1340,7 +1339,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -1353,12 +1352,12 @@
       {
         "name": "Jonathan Bloom",
         "title": "Investor",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1379,12 +1378,12 @@
       {
         "name": "Christian Peters",
         "title": "Director, Global Head of Smart Sensors & Hardware Systems",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1405,12 +1404,12 @@
       {
         "name": "Chris Blondin",
         "title": "Staff Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1431,18 +1430,18 @@
       {
         "name": "Jerry Felix",
         "title": "Chief Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Raghu V"
       },
       {
         "name": "Steve Brunker",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Raghu V"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1463,12 +1462,12 @@
       {
         "name": "Victor Dollosso",
         "title": "Technology Broker",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1489,25 +1488,25 @@
       {
         "name": "Venkat Goli",
         "title": "AI/ML Platform architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Sandeep Relan",
         "title": "Application Engineering",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Lan Vu",
         "title": "Principal Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 2,
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -1543,7 +1542,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 300000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -1556,12 +1555,12 @@
       {
         "name": "Savannah Wagner",
         "title": "Partnership & Alliance Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1582,12 +1581,12 @@
       {
         "name": "Zhongyan Qiu",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -1618,18 +1617,18 @@
       {
         "name": "James Kim",
         "title": "Chief Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Rajeev Jain",
         "title": "Solutions Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1650,12 +1649,12 @@
       {
         "name": "Marc Leavitt",
         "title": "Head of Marketing",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1676,12 +1675,12 @@
       {
         "name": "Kalimani Venkatesan Govindarajan",
         "title": "Senior Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1702,12 +1701,12 @@
       {
         "name": "Gayathri Srinivasan",
         "title": "Senior Software Engineering Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -1738,12 +1737,12 @@
       {
         "name": "Prakash Jain",
         "title": "Director, Architecture & Design Engineering (AI Infrastructure)",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1764,18 +1763,18 @@
       {
         "name": "Tea Kvolik",
         "title": "Business Executive",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       },
       {
         "name": "Gabrijela \u0160ipek",
         "title": "Business Executive",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1796,12 +1795,12 @@
       {
         "name": "Hrishikesh Sathawane",
         "title": "Fractional Chief Growth Officer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1822,12 +1821,12 @@
       {
         "name": "Thomas Smagala",
         "title": "Staff Product Engineering Specialist",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1848,18 +1847,18 @@
       {
         "name": "Carissa Dimzoff",
         "title": "Director of Strategic Markets",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Hernan Hernandez",
         "title": "Business Development Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -1880,12 +1879,12 @@
       {
         "name": "Arthur Tyde",
         "title": "SVP Business Development",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -1906,18 +1905,18 @@
       {
         "name": "Matt Keasey",
         "title": "Sales Development Representative",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Bijan Hassanzadeh",
         "title": "Marketing Specialist",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -1948,12 +1947,12 @@
       {
         "name": "Faiyazuddin Mohammed",
         "title": "Solutions Architect",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -1998,7 +1997,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 750000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -2011,12 +2010,12 @@
       {
         "name": "Benjamin Chung",
         "title": "Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2065,12 +2064,12 @@
       {
         "name": "Heiko Polinski",
         "title": "Founding Product Designer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2091,12 +2090,12 @@
       {
         "name": "Rohit Singh",
         "title": "ISV/SI Partner Leader - AMER",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2145,12 +2144,12 @@
       {
         "name": "jiahong zhang",
         "title": "Senior Sales Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2171,19 +2170,19 @@
       {
         "name": "Nolan Walsh",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Alec DeSouza",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1,
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2210,7 +2209,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 550000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -2223,42 +2222,43 @@
       {
         "name": "Amin Shahidi",
         "title": "Business Development",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Chris Bowen"
       },
       {
         "name": "Suzi Jewett",
         "title": "Director, Cloud Business Development",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Chris Bowen"
       },
       {
         "name": "Charles Archer",
         "title": "Chief Technology Officer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       },
       {
         "name": "Philip Murphy",
         "title": "COO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       },
       {
         "name": "Richard Aikman",
         "title": "Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       },
       {
         "name": "Bhanu Vemula",
         "title": "Head of Product Management",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 6
+      "In Progress (SAL)": 2,
+      "In Progress (MEL)": 4
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2266,7 +2266,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -2279,12 +2279,12 @@
       {
         "name": "Momo Adegbindin",
         "title": "Applied Scientist & Infrastructure Optimization Researcher",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2305,12 +2305,12 @@
       {
         "name": "Isaiah Diaz",
         "title": "Content & PR Intern",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2318,7 +2318,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -2331,18 +2331,19 @@
       {
         "name": "Abhinav Pathak",
         "title": "Staff Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Nathan Castro",
         "title": "GTM",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2360,7 +2361,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -2373,12 +2374,12 @@
       {
         "name": "Takaaki Niijima",
         "title": "Business Development Rep",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Raghu V"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2399,12 +2400,12 @@
       {
         "name": "Hibiki Sunaga",
         "title": "Cloud Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Raghu V"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2425,12 +2426,12 @@
       {
         "name": "Sammy Houssainy",
         "title": "Data Center Solutions Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2451,12 +2452,12 @@
       {
         "name": "Narasimha Betini",
         "title": "CTO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2477,18 +2478,18 @@
       {
         "name": "Pratik Chavda",
         "title": "Client Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Aman Syali",
         "title": "Sales Leader, Strategic AI",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2509,12 +2510,12 @@
       {
         "name": "Divya Singh",
         "title": "Consultant, Data Engineering",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (MQL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (MQL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2541,7 +2542,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 75000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -2554,18 +2555,18 @@
       {
         "name": "Cindy Mino",
         "title": "Chief of Staff",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Melodie Shafazand",
         "title": "Marketing & Operations Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2586,12 +2587,12 @@
       {
         "name": "Anand Pandurangan",
         "title": "tbc",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Raghu V"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2612,12 +2613,12 @@
       {
         "name": "David Moser",
         "title": "Machine Learning Lead",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2638,12 +2639,12 @@
       {
         "name": "Mithun Kumble",
         "title": "Lead Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2664,12 +2665,12 @@
       {
         "name": "Yizhi Wu",
         "title": "Lead software engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2677,7 +2678,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -2690,12 +2691,12 @@
       {
         "name": "Aarthi Srinivasan",
         "title": "Head of Gen AI",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2716,12 +2717,12 @@
       {
         "name": "Chloe Wang",
         "title": "Partner",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2742,12 +2743,12 @@
       {
         "name": "Neeraj Gupta",
         "title": "Manager, Software Development 3 (Senior Manager)",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (MQL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (MQL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2792,7 +2793,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 250000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -2805,12 +2806,12 @@
       {
         "name": "HELEN ZHA",
         "title": "CIO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2831,12 +2832,12 @@
       {
         "name": "Justin Kuntz",
         "title": "Platform Architect",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2844,7 +2845,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -2857,18 +2858,18 @@
       {
         "name": "Wes George",
         "title": "COO & Cofounder",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Era Qian",
         "title": "Chief Strategy Officer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -2889,12 +2890,12 @@
       {
         "name": "Ajit Narwal",
         "title": "Director, Marketing",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (MQL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (MQL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2902,7 +2903,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -2915,12 +2916,12 @@
       {
         "name": "Kumar Saurabh",
         "title": "Director, Infrastructure Program Management",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -2951,12 +2952,12 @@
       {
         "name": "Abhilasha Juneja",
         "title": "Founder/CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -2977,12 +2978,12 @@
       {
         "name": "Gaurav Saxena",
         "title": "Director of Engineering",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3003,12 +3004,12 @@
       {
         "name": "Tom Gallivan",
         "title": "VP, North America Sales and Business Development",
-        "lifecycle_stage": "Unqualified",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Unqualified": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3029,12 +3030,12 @@
       {
         "name": "Kamesh Vemu",
         "title": "CEO/Founder",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3055,18 +3056,18 @@
       {
         "name": "David Huff",
         "title": "Vice President",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Madhav Bhatta",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3087,12 +3088,12 @@
       {
         "name": "Tomoyuki Funada",
         "title": "Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3113,19 +3114,19 @@
       {
         "name": "Hongyang Liu",
         "title": "Technical Account Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Gonzalo Rodrigo",
         "title": "Director of Infrastructure Engineering",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (MQL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 1,
+      "In Progress (MQL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3133,7 +3134,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
@@ -3146,12 +3147,12 @@
       {
         "name": "Gagan Gill",
         "title": "Senior Solutions Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -3182,12 +3183,12 @@
       {
         "name": "Suneet Kapoor",
         "title": "Founder & CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3208,12 +3209,12 @@
       {
         "name": "Russel Santillanes",
         "title": "VP of Engineering",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -3231,7 +3232,7 @@
       }
     ],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
@@ -3244,49 +3245,49 @@
       {
         "name": "Baba Egbantan",
         "title": "software engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Akshit Kansra",
         "title": "GDM Senior Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Max Renaud",
         "title": "Software Engineering Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Zicong Mei",
         "title": "Senior Staff Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Akash Agarwal",
         "title": "GDM Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Vivek Shah",
         "title": "AI & Infrastructure, Google Inc",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Mobin Mohan",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 6,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 6,
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -3331,7 +3332,7 @@
       }
     ],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 2"
@@ -3344,12 +3345,12 @@
       {
         "name": "Sankalp Shanker",
         "title": "Principal",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3370,18 +3371,19 @@
       {
         "name": "Sadia Raveendran",
         "title": "Founding Head of GTM",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Keith Newman",
         "title": "GTM - Marketing lead",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3389,7 +3391,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -3402,12 +3404,12 @@
       {
         "name": "Shailaja Miriyala",
         "title": "QA Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3428,24 +3430,25 @@
       {
         "name": "Kartik Shah",
         "title": "Senior Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Joe Tarantino"
       },
       {
         "name": "Saurabh Kapoor",
         "title": "Associate Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       },
       {
         "name": "Maruti Nandan Tripathi",
         "title": "Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 3
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3453,7 +3456,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
@@ -3466,18 +3469,18 @@
       {
         "name": "Edan Harr",
         "title": "CTO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "David Hubbell",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3498,12 +3501,12 @@
       {
         "name": "Sweta Kale",
         "title": "Vice President of Engineering",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3511,7 +3514,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
@@ -3524,12 +3527,12 @@
       {
         "name": "Ashiana Ali",
         "title": "Aerospace Researcher",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3550,12 +3553,12 @@
       {
         "name": "Paul Berman",
         "title": "Director, GPUaaS",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3576,12 +3579,12 @@
       {
         "name": "Alanna Franklin",
         "title": "Workstation Specialist",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3602,24 +3605,24 @@
       {
         "name": "Rafik Puttur",
         "title": "Senior Principal product manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Raunak Tibrewal",
         "title": "Sr. Principal Product Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Pradeep Akula",
         "title": "Network Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 3
+      "In Progress (MEL)": 3
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -3650,12 +3653,12 @@
       {
         "name": "Ted Connell",
         "title": "Senior CLient Partner",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3676,12 +3679,12 @@
       {
         "name": "Rob Denham",
         "title": "Business Development Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -3702,12 +3705,12 @@
       {
         "name": "Dmitry Vainshtein",
         "title": "Head of Strategic & AI G2M at i3D.net",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3728,12 +3731,12 @@
       {
         "name": "Alonso Galvan",
         "title": "Founding Partner",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3754,12 +3757,12 @@
       {
         "name": "Nina Turner",
         "title": "Research Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3780,12 +3783,12 @@
       {
         "name": "Mark Bisbee",
         "title": "Director, Sales",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3806,12 +3809,12 @@
       {
         "name": "Amit Mehta",
         "title": "Chief Commercial Officer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3832,12 +3835,12 @@
       {
         "name": "Yanjun Zhu",
         "title": "Chief Technology Officer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3858,12 +3861,12 @@
       {
         "name": "Brian Bucholtz",
         "title": "Director of Sales",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3884,12 +3887,12 @@
       {
         "name": "Marlaina Isbell",
         "title": "Sales Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3910,12 +3913,12 @@
       {
         "name": "Rishi Narain",
         "title": "Vice President, Product Management",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3936,12 +3939,12 @@
       {
         "name": "Vivek Seshadri",
         "title": "Director of engineering for the AI infrastructure platform",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -3972,12 +3975,12 @@
       {
         "name": "Briggs Heaney",
         "title": "Enterprise Account Executive",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -3998,18 +4001,18 @@
       {
         "name": "Hee-Soo Lee",
         "title": "Product Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Amritam Putatunda",
         "title": "Product Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -4040,12 +4043,12 @@
       {
         "name": "Anton Lokhmotov",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4066,12 +4069,12 @@
       {
         "name": "Vince Antinozzi",
         "title": "Founding AE",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4092,12 +4095,12 @@
       {
         "name": "Jianwen Xie",
         "title": "Staff Machine Learning Researcher",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -4137,12 +4140,12 @@
       {
         "name": "Archana Komirisetty",
         "title": "Technical Program Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4163,12 +4166,12 @@
       {
         "name": "Cameron Daniel",
         "title": "CTO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4189,12 +4192,12 @@
       {
         "name": "Jerry Gutierrez",
         "title": "President",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4202,7 +4205,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -4215,12 +4218,12 @@
       {
         "name": "Sophia Boksenbaum",
         "title": "Member of Technical Staff",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4241,12 +4244,12 @@
       {
         "name": "Keimpe Paulus",
         "title": "SVP of Worldwide Sales",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4254,7 +4257,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -4267,12 +4270,12 @@
       {
         "name": "Yurii Momot",
         "title": "Chief of Growth",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4293,12 +4296,12 @@
       {
         "name": "John You",
         "title": "Associate",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4319,12 +4322,12 @@
       {
         "name": "Michael Noffsinger",
         "title": "Vice President",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4332,7 +4335,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -4345,12 +4348,12 @@
       {
         "name": "Larry Rosenthal",
         "title": "President",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4358,7 +4361,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -4371,12 +4374,12 @@
       {
         "name": "Patrick Schuetz",
         "title": "CRO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4397,31 +4400,31 @@
       {
         "name": "Tiffany Vo",
         "title": "Field Application Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Ben Studer",
         "title": "SVP of Sales",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Shih-Jeff Chen",
         "title": "Application Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Vienna Alexander",
         "title": "Marketing Content Professional",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 3,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 3,
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4429,7 +4432,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
@@ -4468,12 +4471,12 @@
       {
         "name": "Jeh Daruvala",
         "title": "Co-founder & CEO",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4481,7 +4484,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -4494,12 +4497,12 @@
       {
         "name": "Zhao SHI",
         "title": "Sr Tech Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4520,12 +4523,12 @@
       {
         "name": "Mike Starr",
         "title": "Senior Director, Product",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4546,12 +4549,12 @@
       {
         "name": "Daniel Riveros",
         "title": "President / Engineering",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4572,61 +4575,61 @@
       {
         "name": "Lakshmi Durga Karanam",
         "title": "AI Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "HsinWei Wu",
         "title": "AI/ML Advanced Packaging Quality and Reliability Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Rabib Alam",
         "title": "Sr. Engineering Program Manager - AI Infra",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Satyabrata Sarangi",
         "title": "Senior ASIC Design Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Murat Mugan",
         "title": "Network Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Srinivas Sripada",
         "title": "ASIC Power and Design engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Srikanth Alaparthi",
         "title": "Sr ASIC Design Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Viswesh S",
         "title": "Hardware Systems Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Venkat Ramesh",
         "title": "ASIC Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 8,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 8,
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -4653,7 +4656,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 500000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -4666,12 +4669,12 @@
       {
         "name": "Naoto Yoshikawa",
         "title": "Vice President",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4679,7 +4682,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -4692,12 +4695,12 @@
       {
         "name": "Prathyusha Potlapally",
         "title": "Engineering",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4718,12 +4721,12 @@
       {
         "name": "Kiran Matturi",
         "title": "DIRECTOR, SYSTEMS DESIGN ENGINEER",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4744,37 +4747,38 @@
       {
         "name": "Ekta Malkan",
         "title": "Senior Software Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Jason Wilder",
         "title": "Partner Software Engineering Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Guy Fankam",
         "title": "Senior Cloud Solution Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Kevin Michael",
         "title": "Senior TPM",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Raghunandan Lnu",
         "title": "Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (MQL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 2,
-      "Marketing Engaged Lead": 3
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 3,
+      "In Progress (MQL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -4837,7 +4841,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 500000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -4850,12 +4854,12 @@
       {
         "name": "Carl Vincent Ladres Kho",
         "title": "Student",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4876,12 +4880,12 @@
       {
         "name": "Reem Almazrou",
         "title": "Case research specialist",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4902,12 +4906,12 @@
       {
         "name": "Jimin Park",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4928,12 +4932,12 @@
       {
         "name": "John Stratton",
         "title": "CTO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -4954,12 +4958,12 @@
       {
         "name": "Mark Rabkin",
         "title": "Enterprise Account Executive",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -4980,12 +4984,12 @@
       {
         "name": "Joaquin Robles",
         "title": "OEM & Strategic Solutions Group",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5006,12 +5010,12 @@
       {
         "name": "Rio Inoko",
         "title": "Business Development",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5019,7 +5023,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -5032,12 +5036,12 @@
       {
         "name": "Lakshmi Pradeep",
         "title": "Chief Systems Architect",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5045,7 +5049,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -5084,12 +5088,12 @@
       {
         "name": "Adam Ziff",
         "title": "Director of Product",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5110,12 +5114,12 @@
       {
         "name": "Shean Leigon",
         "title": "AIDC Product Strategy",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -5123,7 +5127,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
@@ -5136,12 +5140,12 @@
       {
         "name": "Matthew Huffman",
         "title": "Head of Fleet",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5162,12 +5166,12 @@
       {
         "name": "Connor Handy",
         "title": "VP, Commercialization",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5188,12 +5192,12 @@
       {
         "name": "Kalpesh Gala",
         "title": "VP, Strategic Alliances",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5201,7 +5205,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -5214,12 +5218,12 @@
       {
         "name": "Chinmay Naik",
         "title": "Founder and CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5240,12 +5244,12 @@
       {
         "name": "Jason Gutstein",
         "title": "Regional Sales Manager-California",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5266,12 +5270,12 @@
       {
         "name": "Jun Oh",
         "title": "Growth Partnership Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5298,19 +5302,18 @@
       {
         "name": "Andrea Moccia",
         "title": "Vice President, AI and Data Infrastructure",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Sam Henderson",
         "title": "Sales Director - AI Solutions",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "In Progress (MEL)": 1,
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 3
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -5341,12 +5344,12 @@
       {
         "name": "Rama Kulasekaran",
         "title": "Sr director engineering",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Raghu V"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -5354,7 +5357,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
@@ -5367,30 +5370,30 @@
       {
         "name": "Jim Wakefield",
         "title": "Sales Engineering Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Nishtha Goel",
         "title": "Senior Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Mahaveer Jain",
         "title": "Principal Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Sam Andaluri",
         "title": "Master Principal Cloud Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 4
+      "In Progress (MEL)": 4
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -5439,12 +5442,12 @@
       {
         "name": "Anil Kumar Reddy Yatham",
         "title": "Vice President- Global Business Development",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5465,12 +5468,12 @@
       {
         "name": "Bill Sharratt",
         "title": "President",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5491,25 +5494,25 @@
       {
         "name": "Kaustubh Khatri",
         "title": "Sr Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Prajwal Murthy",
         "title": "Senior Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Karthik Ravi",
         "title": "Senior SWE - AI/ML Infra",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 1,
+      "In Progress (SAL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -5527,7 +5530,7 @@
       }
     ],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
@@ -5540,18 +5543,18 @@
       {
         "name": "Cameron Bahar",
         "title": "General Manager, Scale AI & EXA",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "soleil walsh",
         "title": "Sale Dir",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5572,12 +5575,12 @@
       {
         "name": "Kiran Joshi",
         "title": "Co-founder & CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5598,18 +5601,18 @@
       {
         "name": "Howard Nguyen",
         "title": "Software Engineer - ML Serving",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Helen Gao",
         "title": "Senior Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -5649,12 +5652,12 @@
       {
         "name": "Kurt Davis",
         "title": "VP of Strategic BD",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5675,12 +5678,12 @@
       {
         "name": "Ziqi Zhao",
         "title": "Director of Business development",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5701,12 +5704,12 @@
       {
         "name": "Mohak Mangal",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5727,12 +5730,12 @@
       {
         "name": "Aaron Purcell",
         "title": "Analyst",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5753,12 +5756,12 @@
       {
         "name": "Josh Lay",
         "title": "AI engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -5779,12 +5782,12 @@
       {
         "name": "Ralfael Himor",
         "title": "Design Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5805,31 +5808,31 @@
       {
         "name": "Jared Wright",
         "title": "Director, Technical Standards",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Abhay Chitral",
         "title": "Director of Product - Edge AI",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Ananya Pagadala",
         "title": "Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Chaoyu Yang",
         "title": "Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 3,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 3,
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -5847,7 +5850,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 3"
@@ -5860,12 +5863,12 @@
       {
         "name": "Alison Shao",
         "title": "Member of Technical Staff",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5886,18 +5889,18 @@
       {
         "name": "Jack Chegin",
         "title": "Sales Development Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Cameron Kinard",
         "title": "Enterprise Account Executive",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -5918,12 +5921,12 @@
       {
         "name": "Kushal Koowlal",
         "title": "Sr. Director, Business Development",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -5944,24 +5947,24 @@
       {
         "name": "Bhaskar Sinha",
         "title": "Marketing",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Naga Vardhan Maddala",
         "title": "Field application engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Mukesh Dokala",
         "title": "Field Application Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 3
+      "In Progress (MEL)": 3
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -5982,12 +5985,12 @@
       {
         "name": "Evo Heyning",
         "title": "Executive Producer, CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6008,12 +6011,12 @@
       {
         "name": "Minji Lee",
         "title": "Marketing Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6034,18 +6037,18 @@
       {
         "name": "Chamli Tennakoon",
         "title": "VP, Digital & Growth",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Jeff Stephens",
         "title": "Business Development Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6066,12 +6069,12 @@
       {
         "name": "Sanjay Aiyagari",
         "title": "Chief Architect",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (MQL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (MQL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6079,7 +6082,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
@@ -6092,12 +6095,12 @@
       {
         "name": "Anirudh Vasudevan",
         "title": "Member of technical staff",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6118,12 +6121,12 @@
       {
         "name": "Remon Aguib",
         "title": "GTM Lead",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6144,12 +6147,12 @@
       {
         "name": "Bo Yuan",
         "title": "Professor",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6170,12 +6173,12 @@
       {
         "name": "Grishma Mehta",
         "title": "Graphics Designer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6196,7 +6199,7 @@
       {
         "name": "Jahanarha Shah",
         "title": "Sr. Field Sales Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       },
       {
@@ -6208,13 +6211,12 @@
       {
         "name": "Ethan Song",
         "title": "Optical Applications Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2,
-      "In Progress (MEL)": 1
+      "In Progress (MEL)": 3
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6235,12 +6237,12 @@
       {
         "name": "Harshal Vakil",
         "title": "Sr. Consultant",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6248,7 +6250,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -6261,12 +6263,12 @@
       {
         "name": "Jasmi Patel",
         "title": "Lead Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6287,12 +6289,12 @@
       {
         "name": "Siddharta Bhattacharjee",
         "title": "Engineering",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6313,12 +6315,12 @@
       {
         "name": "Jared Benson",
         "title": "Director Strategic Edge Infrastructure",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6339,12 +6341,12 @@
       {
         "name": "Thomas Fillioud",
         "title": "Sales Director",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6365,12 +6367,12 @@
       {
         "name": "Steve Hartman",
         "title": "Director of Carrier Sales",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6391,12 +6393,12 @@
       {
         "name": "Vladimir Kostarev",
         "title": "Strategic Alliances",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6404,7 +6406,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -6417,12 +6419,12 @@
       {
         "name": "Anand Mehta",
         "title": "Staff Software Developer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -6453,12 +6455,12 @@
       {
         "name": "Abhinoor Dhull",
         "title": "VP of Operations",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6479,12 +6481,12 @@
       {
         "name": "Devender Babu",
         "title": "Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6505,12 +6507,12 @@
       {
         "name": "Karthik Natarajan",
         "title": "Co-Founder",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6531,12 +6533,12 @@
       {
         "name": "Dirk Seidel",
         "title": "Senior Product Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6557,18 +6559,18 @@
       {
         "name": "Miriam Troen-Krasnow",
         "title": "Sales Manager, OEM",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       },
       {
         "name": "Will Jerome",
         "title": "VP, Strategic Partnerships",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6589,30 +6591,30 @@
       {
         "name": "Kailash Mallikarjunaswamy",
         "title": "Staff Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Timothy Tran",
         "title": "Lab",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Dara Chang",
         "title": "Senior Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Dae Kim",
         "title": "Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 4
+      "In Progress (MEL)": 4
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6633,12 +6635,12 @@
       {
         "name": "Jihun Lee",
         "title": "Research Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6646,7 +6648,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 2"
@@ -6659,12 +6661,12 @@
       {
         "name": "Archit Dhingra",
         "title": "Infrastructure Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -6704,12 +6706,12 @@
       {
         "name": "Shahed Mazumder",
         "title": "Sr Director, Product Strategy",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6730,18 +6732,18 @@
       {
         "name": "Karen Yorn",
         "title": "Marketing Analyst",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Ace Stryker",
         "title": "Director of AI and Ecosystem Marketing",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -6762,12 +6764,12 @@
       {
         "name": "Josh Nzewi",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6788,12 +6790,12 @@
       {
         "name": "Niraj Rai",
         "title": "Founder and CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6814,12 +6816,12 @@
       {
         "name": "Tristan Clash",
         "title": "VP Global Accounts",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6840,18 +6842,19 @@
       {
         "name": "Louis Toyonaga",
         "title": "Investment Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Joe Tarantino"
       },
       {
         "name": "Kensuke Itoh",
         "title": "General Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Joe Tarantino"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6859,7 +6862,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 3"
@@ -6872,12 +6875,12 @@
       {
         "name": "Matt Walters",
         "title": "Publisher",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6898,19 +6901,19 @@
       {
         "name": "Bryan Hernandez",
         "title": "Account Manager",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Thomas DeLuna",
         "title": "Sr. Business Development Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1,
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -6928,7 +6931,7 @@
       }
     ],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 4"
@@ -6941,12 +6944,12 @@
       {
         "name": "Vincent Willyard",
         "title": "Business Development",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -6967,12 +6970,12 @@
       {
         "name": "Rimpy Chugh",
         "title": "Product Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -7003,12 +7006,12 @@
       {
         "name": "Bryan Torres",
         "title": "Business Development Representative",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7029,12 +7032,12 @@
       {
         "name": "Edmond Tan",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7055,12 +7058,12 @@
       {
         "name": "Jim O'Brien",
         "title": "Senior Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7081,12 +7084,12 @@
       {
         "name": "Aradhya Kapoor",
         "title": "Director - GPU Infra",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7107,18 +7110,18 @@
       {
         "name": "Adam Mong",
         "title": "Product Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Narmadha Parthasarathy",
         "title": "Chief of Staff, Physical Design",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7139,12 +7142,12 @@
       {
         "name": "Kishore Bhagavatula",
         "title": "Sr. Staff Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -7184,12 +7187,12 @@
       {
         "name": "Tongping Liu",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7197,7 +7200,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -7210,18 +7213,18 @@
       {
         "name": "Nirmal Coonghe",
         "title": "Lead Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Irina Izvekova",
         "title": "Software Development Engineer in Test II",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -7261,12 +7264,12 @@
       {
         "name": "Raja Ramkaran Reddy Rudravaram",
         "title": "Chief Architect & Co-Founder",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7287,24 +7290,24 @@
       {
         "name": "David Knight",
         "title": "Staff Android Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Xiaoyun Zhang",
         "title": "Staff Software Engineer, Cloud Infrastructure",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Songlin Zhao",
         "title": "Sr. Software Engineer, Backend",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 3
+      "In Progress (MEL)": 3
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7351,19 +7354,19 @@
       {
         "name": "Zhitao Li",
         "title": "Director of Engineering, AI & Agentic Infrastructure",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Paarth Chothani",
         "title": "Staff Engineer - AI Platform",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1,
-      "Marketing Engaged Lead": 1
+      "In Progress (SAL)": 1,
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -7408,7 +7411,7 @@
       }
     ],
     "has_open_opportunity": true,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 1000000.0,
     "potential_pipeline_basis": "real_open_opportunity",
     "abm_tier": "Tier 1"
@@ -7421,12 +7424,12 @@
       {
         "name": "Ganesh Raman",
         "title": "Product",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7447,12 +7450,12 @@
       {
         "name": "Faisal Hanif",
         "title": "Product Management",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7473,12 +7476,12 @@
       {
         "name": "Aryan Kalaskar",
         "title": "Data Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7499,12 +7502,12 @@
       {
         "name": "Ray Brown",
         "title": "Enterprise Executive",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7512,7 +7515,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -7525,12 +7528,12 @@
       {
         "name": "Deborah Spigner",
         "title": "Market Research Specialist",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7551,24 +7554,24 @@
       {
         "name": "William Nelson",
         "title": "Junior Associate, Global Affairs",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Toby Ostenheimer",
         "title": "Growth Sales Representative",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "\u00d6mer Tumer",
         "title": "VP Marketing",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 3
+      "In Progress (MEL)": 3
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7589,18 +7592,18 @@
       {
         "name": "Quang Le",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Tristan Luc",
         "title": "COO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7621,18 +7624,18 @@
       {
         "name": "Shea Hughes",
         "title": "COO and Co-Founder",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       },
       {
         "name": "Tim Victor",
         "title": "CEO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7653,49 +7656,49 @@
       {
         "name": "Elahesadat Hosseini",
         "title": "Software Engineer Tech Lead",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Nikhil Garg",
         "title": "Staff Data Enginner",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Deepak Panth",
         "title": "Staff Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Fangping Huang",
         "title": "Staff MLE",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Yash Limbachiya",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Duy Le",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       },
       {
         "name": "Sanjay Chaudhuri",
         "title": "Sr Distinguised Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Sean Coughlin"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 6,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 6,
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": true,
@@ -7722,7 +7725,7 @@
       }
     ],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
@@ -7735,12 +7738,12 @@
       {
         "name": "Sky Zhang",
         "title": "Global Partnerships",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7748,7 +7751,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -7761,18 +7764,18 @@
       {
         "name": "Geeta Vaghela",
         "title": "VP, Partner Ecosystem",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Shimon Ben-David",
         "title": "CTO",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2
+      "In Progress (MEL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -7793,12 +7796,12 @@
       {
         "name": "Marc Fingerhut",
         "title": "Product Marketing",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -7819,12 +7822,12 @@
       {
         "name": "Sarun Komin",
         "title": "Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7845,25 +7848,25 @@
       {
         "name": "Roy Delgado",
         "title": "Software Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Victor Zakharyev",
         "title": "Senior Principal Cloud Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Manjunath Raju Kosur Narayana",
         "title": "Principal Infrastructure Systems Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 2,
-      "Marketing Qualified Lead": 1
+      "In Progress (MEL)": 2,
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -7871,7 +7874,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
@@ -7884,12 +7887,12 @@
       {
         "name": "Daniel Feldman",
         "title": "CTO",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Qualified Lead": 1
+      "In Progress (SAL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7897,7 +7900,7 @@
     "engaged_via_other_open_lead": false,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": null
@@ -7910,12 +7913,12 @@
       {
         "name": "Jacky Xu",
         "title": "Manager",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Chris Bowen"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7936,12 +7939,12 @@
       {
         "name": "Tiejun Yie",
         "title": "Director of Sales",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7962,12 +7965,12 @@
       {
         "name": "Rajkapoor Singh",
         "title": "Founder, CEO, ASIC Engineer",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Abrahem Miya"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -7988,12 +7991,12 @@
       {
         "name": "Sarita Sharma",
         "title": "AVP",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -8014,12 +8017,12 @@
       {
         "name": "Gloria Chyr",
         "title": "Investor",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1
+      "In Progress (MEL)": 1
     },
     "company_already_engaged": "No",
     "engaged_via_existing_opportunity": false,
@@ -8040,25 +8043,25 @@
       {
         "name": "Abhishekhar Prasad",
         "title": "Chief Agentic AI Architect",
-        "lifecycle_stage": "Marketing Engaged Lead",
+        "lifecycle_stage": "In Progress (MEL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Ravinder Verma",
         "title": "Distinguished Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       },
       {
         "name": "Ravi G",
         "title": "Senior Staff Software Engineer",
-        "lifecycle_stage": "Marketing Qualified Lead",
+        "lifecycle_stage": "In Progress (SAL)",
         "owner": "Greg Mark"
       }
     ],
     "lifecycle_stage_counts": {
-      "Marketing Engaged Lead": 1,
-      "Marketing Qualified Lead": 2
+      "In Progress (MEL)": 1,
+      "In Progress (SAL)": 2
     },
     "company_already_engaged": "Yes",
     "engaged_via_existing_opportunity": false,
@@ -8066,7 +8069,7 @@
     "engaged_via_other_open_lead": true,
     "existing_opportunities_all_owners": [],
     "has_open_opportunity": false,
-    "is_qualified_contact": false,
+    "is_qualified_contact": true,
     "potential_pipeline_amount": 200000,
     "potential_pipeline_basis": "estimated",
     "abm_tier": "Tier 1"
