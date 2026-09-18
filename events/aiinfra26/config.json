@@ -35,14 +35,16 @@
     "00OTV00000TXHz42AH",
     "00OTV00000TXatd2AD",
     "00OTV00000TXaIY2A1",
-    "00OTV00000TXTvO2AX"
+    "00OTV00000TXTvO2AX",
+    "00OTV00000TZnzf2AD"
   ],
   "ae_pipeline_report_ids_comment": "AE-assigned booth lead / pipeline reports for the Booth Leads & AE Pipeline tab on aiinfra-2026-sales-priorities.html -- fetched raw via the Reports REST API into data/report_<id>.json, one per AE/segment.",
   "contact_report_ids": [
     "00OTV00000TXbJR2A1",
     "00OTV00000TXbOH2A1",
     "00OTV00000TXbRV2A1",
-    "00OTV00000TXbUj2AL"
+    "00OTV00000TXbUj2AL",
+    "00OTV00000TaGX12AN"
   ],
   "contact_report_ids_comment": "Contact reports for booth-scan accounts, shown in the Contacts dropdown on the same tab -- fetched raw the same way as ae_pipeline_report_ids."
 }
